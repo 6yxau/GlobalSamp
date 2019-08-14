@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\sampserver\\src\\GlobalSamp\\GlobalSamp\\GlobalSamp.csproj",
+    "projectName": "GlobalSamp",
+    "projectPath": "E:\\sampserver\\src\\GlobalSamp\\GlobalSamp\\GlobalSamp.csproj",
+    "outputPath": "E:\\sampserver\\src\\GlobalSamp\\GlobalSamp\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "http://nuget.timpotze.nl/api/v2/": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "MySqlClient": {
+          "target": "Package",
+          "version": "[5.4.2, )"
+        },
+        "SampSharp.Core": {
+          "target": "Package",
+          "version": "[0.8.0, )"
+        },
+        "SampSharp.GameMode": {
+          "target": "Package",
+          "version": "[0.8.0, )"
+        },
+        "SampSharp.RakNet": {
+          "target": "Package",
+          "version": "[1.0.2, )"
+        },
+        "SampSharp.Streamer": {
+          "target": "Package",
+          "version": "[0.8.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

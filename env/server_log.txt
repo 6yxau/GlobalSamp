@@ -1,0 +1,313 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:40:40] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:40:45] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:44:16] 
+[12:44:16] Server Plugins
+[12:44:16] --------------
+[12:44:16]  Loaded 0 plugins.
+
+[12:44:16] 
+[12:44:16] Filterscripts
+[12:44:16] ---------------
+[12:44:16]   Loading filterscript 'gl_actions.amx'...
+[12:44:16]   Loading filterscript 'gl_realtime.amx'...
+[12:44:16]   Loading filterscript 'gl_property.amx'...
+[12:44:16] 
+-----------------------------------
+[12:44:16] Grand Larceny Property Filterscript		
+[12:44:16] -----------------------------------
+
+[12:44:16]   Loading filterscript 'gl_mapicon.amx'...
+[12:44:16]   Loading filterscript 'ls_elevator.amx'...
+[12:44:16]   Loading filterscript 'attachments.amx'...
+[12:44:16]   Loading filterscript 'skinchanger.amx'...
+[12:44:16] 
+--Admin Player Skin Changer Loaded
+
+[12:44:16]   Loading filterscript 'vspawner.amx'...
+[12:44:16] 
+--Admin Vehicle Spawner Loaded
+
+[12:44:16]   Loading filterscript 'ls_mall.amx'...
+[12:44:16]   Loading filterscript 'ls_beachside.amx'...
+[12:44:16] 
+
+[12:44:16]   |---------------------------------------------------
+[12:44:16]   |--- LS BeachSide Filterscript
+[12:44:16]   |--  Script v1.03
+[12:44:16]   |--  19th April 2015
+[12:44:16]   |---------------------------------------------------
+[12:44:16]   |--  LS BeachSide Building Elevator created
+[12:44:16]   |---------------------------------------------------
+[12:44:16]   Loaded 10 filterscripts.
+
+[12:44:16] Loaded 3 vehicles from: vehicles/trains.txt
+[12:44:16] Loaded 3 vehicles from: vehicles/pilots.txt
+[12:44:16] Loaded 15 vehicles from: vehicles/lv_law.txt
+[12:44:16] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[12:44:16] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[12:44:16] Loaded 38 vehicles from: vehicles/sf_law.txt
+[12:44:16] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[12:44:16] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[12:44:16] Loaded 24 vehicles from: vehicles/ls_law.txt
+[12:44:16] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[12:44:16] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[12:44:16] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[12:44:17] Loaded 71 vehicles from: vehicles/whetstone.txt
+[12:44:17] Loaded 168 vehicles from: vehicles/bone.txt
+[12:44:17] Loaded 61 vehicles from: vehicles/flint.txt
+[12:44:17] Loaded 96 vehicles from: vehicles/tierra.txt
+[12:44:17] Loaded 96 vehicles from: vehicles/red_county.txt
+[12:44:17] Total vehicles from files: 1781
+[12:44:17] Reading File: blank
+[12:44:17] Reading File: properties/houses.txt
+[12:44:17] Reading File: properties/businesses.txt
+[12:44:17] Reading File: properties/banks.txt
+[12:44:17] Reading File: properties/police.txt
+[12:44:17] 
+---------------------------------------
+[12:44:17] Running Grand Larceny - by the SA-MP team
+
+[12:44:17] ---------------------------------------
+
+[12:44:17] Number of vehicle models: 173
+Console input: exit
+[12:45:58] --- Server Shutting Down.
+[12:45:58]   |--  LS BeachSide Building Elevator destroyed
+[12:45:58]   |---------------------------------------------------
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:00:55] 
+[13:00:55] Server Plugins
+[13:00:55] --------------
+[13:00:55]  Loaded 0 plugins.
+
+[13:00:55] 
+[13:00:55] Filterscripts
+[13:00:55] ---------------
+[13:00:55]   Loading filterscript 'gl_actions.amx'...
+[13:00:55]   Loading filterscript 'gl_realtime.amx'...
+[13:00:55]   Loading filterscript 'gl_property.amx'...
+[13:00:55] 
+-----------------------------------
+[13:00:55] Grand Larceny Property Filterscript		
+[13:00:55] -----------------------------------
+
+[13:00:55]   Loading filterscript 'gl_mapicon.amx'...
+[13:00:55]   Loading filterscript 'ls_elevator.amx'...
+[13:00:55]   Loading filterscript 'attachments.amx'...
+[13:00:55]   Loading filterscript 'skinchanger.amx'...
+[13:00:55] 
+--Admin Player Skin Changer Loaded
+
+[13:00:55]   Loading filterscript 'vspawner.amx'...
+[13:00:55] 
+--Admin Vehicle Spawner Loaded
+
+[13:00:55]   Loading filterscript 'ls_mall.amx'...
+[13:00:55]   Loading filterscript 'ls_beachside.amx'...
+[13:00:55] 
+
+[13:00:55]   |---------------------------------------------------
+[13:00:55]   |--- LS BeachSide Filterscript
+[13:00:55]   |--  Script v1.03
+[13:00:55]   |--  19th April 2015
+[13:00:55]   |---------------------------------------------------
+[13:00:55]   |--  LS BeachSide Building Elevator created
+[13:00:55]   |---------------------------------------------------
+[13:00:55]   Loaded 10 filterscripts.
+
+[13:00:55] Loaded 3 vehicles from: vehicles/trains.txt
+[13:00:55] Loaded 3 vehicles from: vehicles/pilots.txt
+[13:00:55] Loaded 15 vehicles from: vehicles/lv_law.txt
+[13:00:55] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[13:00:55] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[13:00:55] Loaded 38 vehicles from: vehicles/sf_law.txt
+[13:00:55] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[13:00:55] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[13:00:55] Loaded 24 vehicles from: vehicles/ls_law.txt
+[13:00:55] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[13:00:55] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[13:00:55] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[13:00:55] Loaded 71 vehicles from: vehicles/whetstone.txt
+[13:00:55] Loaded 168 vehicles from: vehicles/bone.txt
+[13:00:55] Loaded 61 vehicles from: vehicles/flint.txt
+[13:00:55] Loaded 96 vehicles from: vehicles/tierra.txt
+[13:00:55] Loaded 96 vehicles from: vehicles/red_county.txt
+[13:00:55] Total vehicles from files: 1781
+[13:00:55] Reading File: blank
+[13:00:55] Reading File: properties/houses.txt
+[13:00:56] Reading File: properties/businesses.txt
+[13:00:56] Reading File: properties/banks.txt
+[13:00:56] Reading File: properties/police.txt
+[13:00:56] 
+---------------------------------------
+[13:00:56] Running Grand Larceny - by the SA-MP team
+
+[13:00:56] ---------------------------------------
+
+[13:00:56] Number of vehicle models: 173
+Console input: exit
+[13:14:52] --- Server Shutting Down.
+[13:14:52]   |--  LS BeachSide Building Elevator destroyed
+[13:14:52]   |---------------------------------------------------
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:08:47] weburl = "www.sa-mp.com"  (string)
+[19:08:47] 
+[19:08:47] Server Plugins
+[19:08:47] --------------
+[19:08:47]  Loading plugin: SampSharp
+[19:08:47]   Loaded.
+[19:08:47]  Loaded 1 plugins.
+
+[19:08:47] 
+[19:08:47] Filterscripts
+[19:08:47] ---------------
+[19:08:47]   Loaded 0 filterscripts.
+
+[19:08:47]   Filterscript 'empty.amx' loaded.
+[19:08:47] 
+[19:08:47] SampSharp Plugin
+[19:08:47] ----------------
+[19:08:47] v0.8.0, (C)2014-2019 Tim Potze
+[19:08:47] 
+[19:08:47]   Filterscript 'intermission.amx' loaded.
+[19:08:47] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[19:08:47] [SampSharp:INFO] Pipe created.
+[19:08:47] Number of vehicle models: 0
+[19:09:29] [connection] 127.0.0.1:1032 requests connection cookie.
+[19:09:30] [connection] incoming connection: 127.0.0.1:1032 id: 0
+[19:09:30] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[19:10:14] [part] Pavel_Topsky has left the server (0:1)
+[19:10:46] [connection] 127.0.0.1:1031 requests connection cookie.
+[19:10:47] [connection] incoming connection: 127.0.0.1:1031 id: 0
+[19:10:47] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[19:11:09] [part] Pavel_Topsky has left the server (0:1)
+Console input: restart
+[19:11:20] Unknown command or variable:
+  restart
+Console input: exit
+[19:11:23] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:04:21] weburl = "www.sa-mp.com"  (string)
+[20:04:21] 
+[20:04:21] Server Plugins
+[20:04:21] --------------
+[20:04:21]  Loading plugin: SampSharp
+[20:04:21]   Loaded.
+[20:04:21]  Loaded 1 plugins.
+
+[20:04:21] 
+[20:04:21] Filterscripts
+[20:04:21] ---------------
+[20:04:21]   Loaded 0 filterscripts.
+
+[20:04:21]   Filterscript 'empty.amx' loaded.
+[20:04:21] 
+[20:04:21] SampSharp Plugin
+[20:04:21] ----------------
+[20:04:21] v0.8.0, (C)2014-2019 Tim Potze
+[20:04:21] 
+[20:04:21]   Filterscript 'intermission.amx' loaded.
+[20:04:21] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:04:21] [SampSharp:INFO] Pipe created.
+[20:04:21] Number of vehicle models: 0
+[20:04:55] [connection] 127.0.0.1:20259 requests connection cookie.
+[20:04:56] [connection] incoming connection: 127.0.0.1:20259 id: 0
+[20:04:56] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:05:21] [part] Pavel_Topsky has left the server (0:1)
+Console input: exit
+[20:05:25] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:34:42] weburl = "www.sa-mp.com"  (string)
+[20:34:42] 
+[20:34:42] Server Plugins
+[20:34:42] --------------
+[20:34:42]  Loading plugin: SampSharp
+[20:34:42]   Loaded.
+[20:34:42]  Loaded 1 plugins.
+
+[20:34:42] 
+[20:34:42] Filterscripts
+[20:34:42] ---------------
+[20:34:42]   Loaded 0 filterscripts.
+
+[20:34:42]   Filterscript 'empty.amx' loaded.
+[20:34:42] 
+[20:34:42] SampSharp Plugin
+[20:34:42] ----------------
+[20:34:42] v0.8.0, (C)2014-2019 Tim Potze
+[20:34:42] 
+[20:34:42]   Filterscript 'intermission.amx' loaded.
+[20:34:42] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:34:42] [SampSharp:INFO] Pipe created.
+[20:34:42] Number of vehicle models: 0
+[20:35:01]   Filterscript 'intermission.amx' unloaded.
+[20:35:01] [SampSharp:INFO] Connected to client.
+[20:35:01] [SampSharp:INFO] Server announcement sent.
+[20:35:01] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:35:01] [SampSharp:INFO] The gamemode has started.
+[20:35:13] Number of vehicle models: 0
+[20:35:27] [connection] 127.0.0.1:1034 requests connection cookie.
+[20:35:28] [connection] incoming connection: 127.0.0.1:1034 id: 0
+[20:35:29] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:35:57] [part] Pavel_Topsky has left the server (0:1)
+Console input: exit
+[20:40:56] --- Server Shutting Down.

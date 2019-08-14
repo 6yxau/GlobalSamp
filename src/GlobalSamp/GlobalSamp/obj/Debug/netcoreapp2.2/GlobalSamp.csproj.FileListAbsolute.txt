@@ -1,0 +1,11 @@
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\GlobalSamp.deps.json
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\GlobalSamp.runtimeconfig.json
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\GlobalSamp.runtimeconfig.dev.json
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\GlobalSamp.dll
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\GlobalSamp.pdb
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\GlobalSamp.csprojAssemblyReference.cache
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\GlobalSamp.csproj.CoreCompileInputs.cache
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\GlobalSamp.AssemblyInfoInputs.cache
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\GlobalSamp.AssemblyInfo.cs
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\GlobalSamp.dll
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\GlobalSamp.pdb
