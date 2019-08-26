@@ -1,9 +1,8 @@
 using System;
-using MySql.Data.MySqlClient;
+using GlobalSamp.Player;
 using SampSharp.GameMode;
-using SampSharp.GameMode.Display;
+using SampSharp.GameMode.Events;
 using SampSharp.GameMode.World;
-using Tutorial.SqlConn;
 
 namespace GlobalSamp
 {
@@ -24,32 +23,21 @@ namespace GlobalSamp
             base.OnPlayerConnected(player, e);
             
             player.SendClientMessage($"Добро пожаловать в GlobalSamp, {player.Name}!");
-            
-            MySqlConnection connection = DBUtils.GetDBConnection();
-            connection.Open();
-            try
-            {
-                string queryString = "SELECT COUNT(*) FROM users WHERE name='{player.Name}'";
-                if (queryString == "0")
-                {
-                    var loginDialog = new InputDialog("Регистрация", "Пожалуйста, зарегистрируйтесь!", true, "Регистрация", "Выход");
-                    loginDialog.Show(player);
-                }
-                else
-                {
-                    var loginDialog = new InputDialog("Вход", "Введите ваш пароль. Если Вы ещё не играли на нашем сервере, то смените ник.", true, "Вход", "Выход");
-                    loginDialog.Show(player);
-                }
 
-            }
-            finally
-            {
-                connection.Close(); 
-                connection.Dispose();
-                connection = null;
-            }
+
+            var inputDialog = PlayerManager.Instance.GetConnectionDialogForPlayer(player);
+                // inputDialog.Response += ConnectionDialogResponse;
+            inputDialog.Show(player);
+        }
+
+        private void ConnectionDialogResponse(object sender, DialogResponseEventArgs e)
+        {
             
         }
 
+        protected override void OnDialogResponse(BasePlayer player, DialogResponseEventArgs e)
+        {
+            base.OnDialogResponse(player, e);
+        }
     }
 }

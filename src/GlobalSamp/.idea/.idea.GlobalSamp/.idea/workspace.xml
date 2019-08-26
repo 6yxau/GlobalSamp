@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Command.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/login.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../env/crashinfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/crashinfo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Command.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +24,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GlobalSamp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="256">
               <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <marker date="1565804076630" expanded="true" signature="6:35" ph="..." />
@@ -46,18 +40,53 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="31" column="91" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
+            <state relative-caret-position="16">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
               <folding>
-                <marker date="1566819755192" expanded="true" signature="6:159" ph="..." />
-                <marker date="1566819755192" expanded="true" signature="181:1781" ph="{...}" />
-                <marker date="1566819755192" expanded="true" signature="220:1779" ph="{...}" />
-                <marker date="1566819755192" expanded="true" signature="286:567" ph="{...}" />
-                <marker date="1566819755192" expanded="true" signature="658:1772" ph="{...}" />
-                <marker date="1566819755192" expanded="true" signature="944:1591" ph="{...}" />
-                <marker date="1566819755192" expanded="true" signature="1092:1308" ph="{...}" />
-                <marker date="1566819755192" expanded="true" signature="1329:1576" ph="{...}" />
-                <marker date="1566819755192" expanded="true" signature="1611:1749" ph="{...}" />
+                <marker date="1566827202849" expanded="true" signature="6:129" ph="..." />
+                <marker date="1566827202849" expanded="true" signature="151:1288" ph="{...}" />
+                <marker date="1566827202849" expanded="true" signature="190:1286" ph="{...}" />
+                <marker date="1566827202849" expanded="true" signature="256:537" ph="{...}" />
+                <marker date="1566827202849" expanded="true" signature="628:996" ph="{...}" />
+                <marker date="1566827202849" expanded="true" signature="1085:1118" ph="{...}" />
+                <marker date="1566827202849" expanded="true" signature="1214:1280" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1566824889600" expanded="true" signature="6:125" ph="..." />
+                <marker date="1566824889600" expanded="true" signature="154:1067" ph="{...}" />
+                <marker date="1566824889600" expanded="true" signature="221:1065" ph="{...}" />
+                <marker date="1566824889600" expanded="true" signature="300:356" ph="{...}" />
+                <marker date="1566824889600" expanded="true" signature="432:1059" ph="{...}" />
+                <marker date="1566824889600" expanded="true" signature="595:761" ph="{...}" />
+                <marker date="1566824889600" expanded="true" signature="778:974" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <marker date="1566824466239" expanded="true" signature="6:65" ph="..." />
+                <marker date="1566824466239" expanded="true" signature="98:949" ph="{...}" />
+                <marker date="1566824466239" expanded="true" signature="148:947" ph="{...}" />
+                <marker date="1566824466239" expanded="true" signature="210:941" ph="{...}" />
+                <marker date="1566824466239" expanded="true" signature="277:628" ph="{...}" />
+                <marker date="1566824466239" expanded="true" signature="660:743" ph="{...}" />
+                <marker date="1566824466239" expanded="true" signature="763:931" ph="{...}" />
+                <marker date="1566824466239" expanded="true" signature="811:917" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -67,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/login.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="16" selection-end-column="37" />
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
               <folding>
                 <marker date="1566310247523" expanded="true" signature="6:105" ph="..." />
                 <marker date="1566310247523" expanded="true" signature="127:569" ph="{...}" />
@@ -79,42 +108,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs">
+        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="224">
+              <caret line="14" column="66" lean-forward="true" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
               <folding>
-                <marker date="1566310252547" expanded="true" signature="6:43" ph="..." />
-                <marker date="1566310252547" expanded="true" signature="72:599" ph="{...}" />
-                <marker date="1566310252547" expanded="true" signature="97:597" ph="{...}" />
-                <marker date="1566310252547" expanded="true" signature="245:584" ph="{...}" />
+                <marker date="1566823995647" expanded="true" signature="55:903" ph="{...}" />
+                <marker date="1566823995647" expanded="true" signature="95:901" ph="{...}" />
+                <marker date="1566823995647" expanded="true" signature="154:448" ph="{...}" />
+                <marker date="1566823995647" expanded="true" signature="579:894" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs">
+        <entry file="file://$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="144">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="23" />
               <folding>
-                <marker date="1566310258898" expanded="true" signature="58:458" ph="{...}" />
-                <marker date="1566310258898" expanded="true" signature="78:456" ph="{...}" />
-                <marker date="1566310258898" expanded="true" signature="140:443" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Command.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-              <folding>
-                <marker date="1565806011687" expanded="true" signature="6:109" ph="..." />
-                <marker date="1565806011687" expanded="true" signature="131:330" ph="{...}" />
-                <marker date="1565806011687" expanded="true" signature="180:328" ph="{...}" />
+                <marker date="1566825447287" expanded="true" signature="33:486" ph="{...}" />
+                <marker date="1566825447287" expanded="true" signature="88:484" ph="{...}" />
+                <marker date="1566825447287" expanded="true" signature="286:478" ph="{...}" />
+                <marker date="1566825447287" expanded="true" signature="312:468" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,6 +140,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="6yxau &lt;paveltop616@ya.ru&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -131,18 +153,27 @@
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/login.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Command.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3447BE4-83E0-4DCD-868A-4C68330D36C7/11/f487ce12/IContainer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3447BE4-83E0-4DCD-868A-4C68330D36C7/85/855a5522/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Command.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/login.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Command.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Common/SampleSingleton.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
       </list>
     </option>
@@ -160,6 +191,39 @@
     </navigator>
     <panes>
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dao" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tools" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
@@ -221,12 +285,20 @@
       <workItem from="1565803693695" duration="4517000" />
       <workItem from="1566136530571" duration="1357000" />
       <workItem from="1566295664370" duration="6303000" />
-      <workItem from="1566819166197" duration="1006000" />
+      <workItem from="1566819166197" duration="5085000" />
     </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <created>1566820205404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566820205405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13186000" />
+    <option name="totallyTimeSpent" value="17265000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,6 +345,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -284,13 +360,104 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AFB7E7D9-EA63-47AB-BDF8-0BC20B632618/6d/4182b2ea/MySqlConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Command.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Tools/Common/SampleSingleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="99" lean-forward="true" selection-start-line="6" selection-start-column="99" selection-end-line="6" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3447BE4-83E0-4DCD-868A-4C68330D36C7/11/f487ce12/IContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3447BE4-83E0-4DCD-868A-4C68330D36C7/85/855a5522/Component.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="84" column="36" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <marker date="1566825447287" expanded="true" signature="33:486" ph="{...}" />
+            <marker date="1566825447287" expanded="true" signature="88:484" ph="{...}" />
+            <marker date="1566825447287" expanded="true" signature="286:478" ph="{...}" />
+            <marker date="1566825447287" expanded="true" signature="312:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/login.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <marker date="1566310247523" expanded="true" signature="6:105" ph="..." />
+            <marker date="1566310247523" expanded="true" signature="127:569" ph="{...}" />
+            <marker date="1566310247523" expanded="true" signature="163:567" ph="{...}" />
+            <marker date="1566310247523" expanded="true" signature="251:561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <marker date="1565804076630" expanded="true" signature="6:35" ph="..." />
+            <marker date="1565804076630" expanded="true" signature="57:380" ph="{...}" />
+            <marker date="1565804076630" expanded="true" signature="77:378" ph="{...}" />
+            <marker date="1565804076630" expanded="true" signature="123:177" ph="{...}" />
+            <marker date="1565804076630" expanded="true" signature="227:372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1566824466239" expanded="true" signature="6:65" ph="..." />
+            <marker date="1566824466239" expanded="true" signature="98:949" ph="{...}" />
+            <marker date="1566824466239" expanded="true" signature="148:947" ph="{...}" />
+            <marker date="1566824466239" expanded="true" signature="210:941" ph="{...}" />
+            <marker date="1566824466239" expanded="true" signature="277:628" ph="{...}" />
+            <marker date="1566824466239" expanded="true" signature="660:743" ph="{...}" />
+            <marker date="1566824466239" expanded="true" signature="763:931" ph="{...}" />
+            <marker date="1566824466239" expanded="true" signature="811:917" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="349">
+          <caret line="88" column="55" selection-start-line="88" selection-start-column="55" selection-end-line="88" selection-end-column="55" />
           <folding>
             <marker date="1566136632083" expanded="true" signature="0:339" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1566136632083" expanded="false" signature="347:597" ph="..." />
             <marker date="1566136632083" expanded="true" signature="635:5315" ph="{...}" />
             <marker date="1566136632083" expanded="true" signature="720:5313" ph="{...}" />
             <marker date="1566136632083" expanded="true" signature="1126:1228" ph="{...}" />
@@ -314,90 +481,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AFB7E7D9-EA63-47AB-BDF8-0BC20B632618/6d/4182b2ea/MySqlConnection.cs">
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GlobalSamp/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <marker date="1565804076630" expanded="true" signature="6:35" ph="..." />
-            <marker date="1565804076630" expanded="true" signature="57:380" ph="{...}" />
-            <marker date="1565804076630" expanded="true" signature="77:378" ph="{...}" />
-            <marker date="1565804076630" expanded="true" signature="123:177" ph="{...}" />
-            <marker date="1565804076630" expanded="true" signature="227:372" ph="{...}" />
+            <marker date="1566824889600" expanded="true" signature="6:125" ph="..." />
+            <marker date="1566824889600" expanded="true" signature="154:1067" ph="{...}" />
+            <marker date="1566824889600" expanded="true" signature="221:1065" ph="{...}" />
+            <marker date="1566824889600" expanded="true" signature="300:356" ph="{...}" />
+            <marker date="1566824889600" expanded="true" signature="432:1059" ph="{...}" />
+            <marker date="1566824889600" expanded="true" signature="595:761" ph="{...}" />
+            <marker date="1566824889600" expanded="true" signature="778:974" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <marker date="1566310252547" expanded="true" signature="6:43" ph="..." />
-            <marker date="1566310252547" expanded="true" signature="72:599" ph="{...}" />
-            <marker date="1566310252547" expanded="true" signature="97:597" ph="{...}" />
-            <marker date="1566310252547" expanded="true" signature="245:584" ph="{...}" />
-          </folding>
+        <state relative-caret-position="128">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1566310258898" expanded="true" signature="58:458" ph="{...}" />
-            <marker date="1566310258898" expanded="true" signature="78:456" ph="{...}" />
-            <marker date="1566310258898" expanded="true" signature="140:443" ph="{...}" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Command.cs">
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="224">
+          <caret line="14" column="66" lean-forward="true" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
           <folding>
-            <marker date="1565806011687" expanded="true" signature="6:109" ph="..." />
-            <marker date="1565806011687" expanded="true" signature="131:330" ph="{...}" />
-            <marker date="1565806011687" expanded="true" signature="180:328" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/login.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <marker date="1566310247523" expanded="true" signature="6:105" ph="..." />
-            <marker date="1566310247523" expanded="true" signature="127:569" ph="{...}" />
-            <marker date="1566310247523" expanded="true" signature="163:567" ph="{...}" />
-            <marker date="1566310247523" expanded="true" signature="251:561" ph="{...}" />
+            <marker date="1566823995647" expanded="true" signature="55:903" ph="{...}" />
+            <marker date="1566823995647" expanded="true" signature="95:901" ph="{...}" />
+            <marker date="1566823995647" expanded="true" signature="154:448" ph="{...}" />
+            <marker date="1566823995647" expanded="true" signature="579:894" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="91" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
+        <state relative-caret-position="16">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
           <folding>
-            <marker date="1566819755192" expanded="true" signature="6:159" ph="..." />
-            <marker date="1566819755192" expanded="true" signature="181:1781" ph="{...}" />
-            <marker date="1566819755192" expanded="true" signature="220:1779" ph="{...}" />
-            <marker date="1566819755192" expanded="true" signature="286:567" ph="{...}" />
-            <marker date="1566819755192" expanded="true" signature="658:1772" ph="{...}" />
-            <marker date="1566819755192" expanded="true" signature="944:1591" ph="{...}" />
-            <marker date="1566819755192" expanded="true" signature="1092:1308" ph="{...}" />
-            <marker date="1566819755192" expanded="true" signature="1329:1576" ph="{...}" />
-            <marker date="1566819755192" expanded="true" signature="1611:1749" ph="{...}" />
+            <marker date="1566827202849" expanded="true" signature="6:129" ph="..." />
+            <marker date="1566827202849" expanded="true" signature="151:1288" ph="{...}" />
+            <marker date="1566827202849" expanded="true" signature="190:1286" ph="{...}" />
+            <marker date="1566827202849" expanded="true" signature="256:537" ph="{...}" />
+            <marker date="1566827202849" expanded="true" signature="628:996" ph="{...}" />
+            <marker date="1566827202849" expanded="true" signature="1085:1118" ph="{...}" />
+            <marker date="1566827202849" expanded="true" signature="1214:1280" ph="{...}" />
           </folding>
         </state>
       </provider>
