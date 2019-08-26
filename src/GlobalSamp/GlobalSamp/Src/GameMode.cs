@@ -1,34 +1,55 @@
 using System;
+using MySql.Data.MySqlClient;
 using SampSharp.GameMode;
-using SampSharp.GameMode.Controllers;
+using SampSharp.GameMode.Display;
+using SampSharp.GameMode.World;
+using Tutorial.SqlConn;
 
 namespace GlobalSamp
 {
     public class GameMode : BaseMode
     {
-        #region Overrides of BaseMode
 
         protected override void OnInitialized(EventArgs e)
         {
             Console.WriteLine("\n----------------------------------");
-            Console.WriteLine(" Blank Gamemode by your name here");
+            Console.WriteLine("      Welcome  to  GlobalSamp       ");
             Console.WriteLine("----------------------------------\n");
-
-            /*
-             * TODO: Do your initialisation and loading of data here.
-             */
+            
             base.OnInitialized(e);
         }
-
-        protected override void LoadControllers(ControllerCollection controllers)
+        
+        protected override void OnPlayerConnected(BasePlayer player, EventArgs e)
         {
-            base.LoadControllers(controllers);
+            base.OnPlayerConnected(player, e);
+            
+            player.SendClientMessage($"Добро пожаловать в GlobalSamp, {player.Name}!");
+            
+            MySqlConnection connection = DBUtils.GetDBConnection();
+            connection.Open();
+            try
+            {
+                string queryString = "SELECT COUNT(*) FROM users WHERE name='{player.Name}'";
+                if (queryString == "0")
+                {
+                    var loginDialog = new InputDialog("Регистрация", "Пожалуйста, зарегистрируйтесь!", true, "Регистрация", "Выход");
+                    loginDialog.Show(player);
+                }
+                else
+                {
+                    var loginDialog = new InputDialog("Вход", "Введите ваш пароль. Если Вы ещё не играли на нашем сервере, то смените ник.", true, "Вход", "Выход");
+                    loginDialog.Show(player);
+                }
 
-            /*
-             * TODO: Load or unload controllers here.
-             */
+            }
+            finally
+            {
+                connection.Close(); 
+                connection.Dispose();
+                connection = null;
+            }
+            
         }
 
-        #endregion
     }
 }

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="" />
+    <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Command.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/login.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../env/crashinfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/crashinfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +26,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GlobalSamp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
+            <state relative-caret-position="192">
               <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <marker date="1565804076630" expanded="true" signature="6:35" ph="..." />
@@ -29,11 +46,75 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+            <state relative-caret-position="496">
+              <caret line="31" column="91" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
               <folding>
-                <marker date="1565803934304" expanded="true" signature="47:116" ph="{...}" />
-                <marker date="1565803934304" expanded="true" signature="93:114" ph="{...}" />
+                <marker date="1566819755192" expanded="true" signature="6:159" ph="..." />
+                <marker date="1566819755192" expanded="true" signature="181:1781" ph="{...}" />
+                <marker date="1566819755192" expanded="true" signature="220:1779" ph="{...}" />
+                <marker date="1566819755192" expanded="true" signature="286:567" ph="{...}" />
+                <marker date="1566819755192" expanded="true" signature="658:1772" ph="{...}" />
+                <marker date="1566819755192" expanded="true" signature="944:1591" ph="{...}" />
+                <marker date="1566819755192" expanded="true" signature="1092:1308" ph="{...}" />
+                <marker date="1566819755192" expanded="true" signature="1329:1576" ph="{...}" />
+                <marker date="1566819755192" expanded="true" signature="1611:1749" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/login.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="16" selection-end-column="37" />
+              <folding>
+                <marker date="1566310247523" expanded="true" signature="6:105" ph="..." />
+                <marker date="1566310247523" expanded="true" signature="127:569" ph="{...}" />
+                <marker date="1566310247523" expanded="true" signature="163:567" ph="{...}" />
+                <marker date="1566310247523" expanded="true" signature="251:561" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <marker date="1566310252547" expanded="true" signature="6:43" ph="..." />
+                <marker date="1566310252547" expanded="true" signature="72:599" ph="{...}" />
+                <marker date="1566310252547" expanded="true" signature="97:597" ph="{...}" />
+                <marker date="1566310252547" expanded="true" signature="245:584" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1566310258898" expanded="true" signature="58:458" ph="{...}" />
+                <marker date="1566310258898" expanded="true" signature="78:456" ph="{...}" />
+                <marker date="1566310258898" expanded="true" signature="140:443" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Command.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <marker date="1565806011687" expanded="true" signature="6:109" ph="..." />
+                <marker date="1565806011687" expanded="true" signature="131:330" ph="{...}" />
+                <marker date="1565806011687" expanded="true" signature="180:328" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -41,15 +122,28 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AFB7E7D9-EA63-47AB-BDF8-0BC20B632618/6d/4182b2ea/MySqlConnection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Command.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Command.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/login.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
       </list>
     </option>
   </component>
@@ -59,41 +153,24 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GlobalSamp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Src" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -141,12 +218,15 @@
       <option name="presentableId" value="Default" />
       <updated>1565803657894</updated>
       <workItem from="1565803662801" duration="3000" />
-      <workItem from="1565803693695" duration="760000" />
+      <workItem from="1565803693695" duration="4517000" />
+      <workItem from="1566136530571" duration="1357000" />
+      <workItem from="1566295664370" duration="6303000" />
+      <workItem from="1566819166197" duration="1006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="763000" />
+    <option name="totallyTimeSpent" value="13186000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,25 +241,25 @@
     <frame x="-8" y="-8" width="1554" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528428" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26287624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3299909" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39927074" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966556" weight="0.3299909" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39927074" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299909" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.3299909" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.3299909" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3299909" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50033444" side_tool="true" weight="0.3299909" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3299909" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -204,9 +284,46 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <marker date="1566136632083" expanded="true" signature="0:339" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1566136632083" expanded="false" signature="347:597" ph="..." />
+            <marker date="1566136632083" expanded="true" signature="635:5315" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="720:5313" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="1126:1228" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="1142:1222" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="1234:1416" ph="///     Hides all dialogs for the specified &lt;paramref name=&quot;player&quot; /&gt;. ... " />
+            <marker date="1566136632083" expanded="true" signature="1463:1867" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="1873:2174" ph="///     Gets the dialog currently being shown to the specified &lt;paramref name=&quot;player&quot; /&gt;. ... " />
+            <marker date="1566136632083" expanded="true" signature="2232:2456" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="2565:2768" ph="///Gets or sets the caption. ... " />
+            <marker date="1566136632083" expanded="true" signature="3048:3167" ph="///Gets or sets the text on the right button. ... " />
+            <marker date="1566136632083" expanded="true" signature="3221:3399" ph="///     Occurs when a player responds to a dialog by either clicking a button, pressing ENTER/ESC or double-click ... " />
+            <marker date="1566136632083" expanded="true" signature="3470:3597" ph="///Shows the dialog box to a Player. ... " />
+            <marker date="1566136632083" expanded="true" signature="3637:3987" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="3993:4135" ph="///Shows the dialog box to a Player asynchronously. ... " />
+            <marker date="1566136632083" expanded="true" signature="4218:4308" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="4314:4569" ph="///     Raises the &lt;see cref=&quot;E:SampSharp.GameMode.Display.Dialog.Response&quot; /&gt; event. ... " />
+            <marker date="1566136632083" expanded="true" signature="4623:4929" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="5009:5309" ph="{...}" />
+            <marker date="1566136632083" expanded="true" signature="5236:5303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AFB7E7D9-EA63-47AB-BDF8-0BC20B632618/6d/4182b2ea/MySqlConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GlobalSamp/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
+        <state relative-caret-position="192">
           <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
             <marker date="1565804076630" expanded="true" signature="6:35" ph="..." />
@@ -218,13 +335,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1566310252547" expanded="true" signature="6:43" ph="..." />
+            <marker date="1566310252547" expanded="true" signature="72:599" ph="{...}" />
+            <marker date="1566310252547" expanded="true" signature="97:597" ph="{...}" />
+            <marker date="1566310252547" expanded="true" signature="245:584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1566310258898" expanded="true" signature="58:458" ph="{...}" />
+            <marker date="1566310258898" expanded="true" signature="78:456" ph="{...}" />
+            <marker date="1566310258898" expanded="true" signature="140:443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/Command.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <marker date="1565806011687" expanded="true" signature="6:109" ph="..." />
+            <marker date="1565806011687" expanded="true" signature="131:330" ph="{...}" />
+            <marker date="1565806011687" expanded="true" signature="180:328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/login.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <marker date="1566310247523" expanded="true" signature="6:105" ph="..." />
+            <marker date="1566310247523" expanded="true" signature="127:569" ph="{...}" />
+            <marker date="1566310247523" expanded="true" signature="163:567" ph="{...}" />
+            <marker date="1566310247523" expanded="true" signature="251:561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="496">
+          <caret line="31" column="91" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
           <folding>
-            <marker date="1565803934304" expanded="true" signature="47:116" ph="{...}" />
-            <marker date="1565803934304" expanded="true" signature="93:114" ph="{...}" />
+            <marker date="1566819755192" expanded="true" signature="6:159" ph="..." />
+            <marker date="1566819755192" expanded="true" signature="181:1781" ph="{...}" />
+            <marker date="1566819755192" expanded="true" signature="220:1779" ph="{...}" />
+            <marker date="1566819755192" expanded="true" signature="286:567" ph="{...}" />
+            <marker date="1566819755192" expanded="true" signature="658:1772" ph="{...}" />
+            <marker date="1566819755192" expanded="true" signature="944:1591" ph="{...}" />
+            <marker date="1566819755192" expanded="true" signature="1092:1308" ph="{...}" />
+            <marker date="1566819755192" expanded="true" signature="1329:1576" ph="{...}" />
+            <marker date="1566819755192" expanded="true" signature="1611:1749" ph="{...}" />
           </folding>
         </state>
       </provider>
