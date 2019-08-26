@@ -6,20 +6,20 @@ namespace GlobalSamp.Dao
     {
         protected MySqlConnection CreateConnection()
         {
-            string host = $"localhost";
+            string host = "localhost";
             int port = 1488;
-            string database = $"globalsamp";
-            string username = $"6yxau";
-            string password = $"12345";
+            string database = "globalsamp";
+            string username = "root";
+            string password = "12345";
  
             return GetDBConnection(host, port, database, username, password);
         }
         
         private MySqlConnection GetDBConnection(string host, int port, string database, string username, string password)
         {
-            string connString = $"Server=" + $"localhost" + $";Database=" + $"globalsamp"
-                                + $";port=" + $"1488" + $";User Id=" + $"6yxau" + $";password=" + $"12345";
- 
+            string connString =
+                $"server={host};database={database};port={port.ToString()};uid={username};pwd={password}";
+
             MySqlConnection conn = new MySqlConnection(connString);
  
             return conn;

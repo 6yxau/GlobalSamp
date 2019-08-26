@@ -21,11 +21,12 @@
             <e p="AbstractDao.cs" t="Include" />
           </e>
           <e p="GameMode.cs" t="Include" />
-          <e p="login.cs" t="Include" />
           <e p="Player" t="Include">
             <e p="Dao" t="Include">
               <e p="PlayerDao.cs" t="Include" />
             </e>
+            <e p="Playerdata.cs" t="Include" />
+            <e p="PlayerGender.cs" t="Include" />
             <e p="PlayerManager.cs" t="Include" />
           </e>
         </e>

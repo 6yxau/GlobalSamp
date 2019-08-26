@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using GlobalSamp.Player.Dao;
 using GlobalSamp.Tools.Common;
 using SampSharp.GameMode.Display;
@@ -8,30 +9,28 @@ namespace GlobalSamp.Player
     public sealed class PlayerManager : Singleton<PlayerManager>
     {
         private readonly PlayerDao _dao;
-
+        
+        private readonly Dictionary<string, PlayerData> _players = new Dictionary<string, PlayerData>(1000);
         public PlayerManager()
         {
             _dao = new PlayerDao();
         }
 
-        public InputDialog GetConnectionDialogForPlayer(BasePlayer player)
+        public PlayerData GetPlayerData(string name)
         {
-            string caption = null;
-            string message = null;
-            string b1 = null;
-            if (!_dao.IsUserRegistered(player.Name))
+            if (_players.ContainsKey(name))
             {
-                caption = "Регистрация";
-                message = "Пожалуйста, зарегистрируйтесь!";
-                b1 = "Региситрация";
+                return _players[name];
             }
-            else
-            {
-                caption = "Вход";
-                message = "Введите ваш пароль. Если Вы ещё не играли на нашем сервере, то смените ник.";
-                b1 = "Вход";
-            } 
-            return new InputDialog(caption, message, true, b1, $"Выход");
+            PlayerData data = _dao.GetPlayerModel(name);
+            _players.Add(name, data);
+            return data;
         }
+
+        public bool RemovePlayerData(string name)
+        {
+            return _players.Remove(name);
+        }
+        
     }
 }
