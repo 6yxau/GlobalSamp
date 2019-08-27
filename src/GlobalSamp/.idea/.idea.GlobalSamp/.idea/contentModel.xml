@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\typeoferi\.Rider2019.1\config\scratches" t="IncludeRecursive" />
-    <e p="C:\Users\typeoferi\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\typeoferi\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_GlobalSamp.-1489839145.00" t="ExcludeRecursive" />
+    <e p="C:\Users\typeoferi\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\typeoferi\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\typeoferi\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GlobalSamp.-1489839145.00" t="ExcludeRecursive" />
     <e p="E:\sampserver\src\GlobalSamp" t="IncludeFlat">
       <e p="GlobalSamp" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -19,6 +19,7 @@
         <e p="src" t="Include">
           <e p="Dao" t="Include">
             <e p="AbstractDao.cs" t="Include" />
+            <e p="DIalogDao.cs" t="Include" />
           </e>
           <e p="GameMode.cs" t="Include" />
           <e p="Player" t="Include">
