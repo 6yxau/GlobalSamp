@@ -1,9 +1,7 @@
 using System;
-using GlobalSamp.Dao;
 using GlobalSamp.Dialog;
 using GlobalSamp.Player;
 using SampSharp.GameMode;
-using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
 using SampSharp.GameMode.World;
 

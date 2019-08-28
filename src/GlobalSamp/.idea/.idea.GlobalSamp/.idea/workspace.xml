@@ -4,6 +4,13 @@
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,15 +57,15 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Player.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Playerdata.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/ServerDbConext.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerGender.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dao/DIalogDao.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
       </list>
     </option>
   </component>
@@ -122,7 +129,7 @@
       <workItem from="1566819166197" duration="17402000" />
       <workItem from="1566915987701" duration="482000" />
       <workItem from="1566917356002" duration="3881000" />
-      <workItem from="1566997976773" duration="5730000" />
+      <workItem from="1566997976773" duration="6453000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -159,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567007138363</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="RegistrationDialog">
+      <created>1567007865808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567007865808</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +204,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="RegistrationDialog" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1495" height="511" key="GridCell.Tab.0.bottom" />
+    <state width="1495" height="511" key="GridCell.Tab.0.bottom/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.0.center" />
+    <state width="1495" height="511" key="GridCell.Tab.0.center/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.0.left" />
+    <state width="1495" height="511" key="GridCell.Tab.0.left/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.0.right" />
+    <state width="1495" height="511" key="GridCell.Tab.0.right/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.1.bottom" />
+    <state width="1495" height="511" key="GridCell.Tab.1.bottom/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.1.center" />
+    <state width="1495" height="511" key="GridCell.Tab.1.center/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.1.left" />
+    <state width="1495" height="511" key="GridCell.Tab.1.left/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.1.right" />
+    <state width="1495" height="511" key="GridCell.Tab.1.right/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.2.bottom" />
+    <state width="1495" height="511" key="GridCell.Tab.2.bottom/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.2.center" />
+    <state width="1495" height="511" key="GridCell.Tab.2.center/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.2.left" />
+    <state width="1495" height="511" key="GridCell.Tab.2.left/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.2.right" />
+    <state width="1495" height="511" key="GridCell.Tab.2.right/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.3.bottom" />
+    <state width="1495" height="511" key="GridCell.Tab.3.bottom/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.3.center" />
+    <state width="1495" height="511" key="GridCell.Tab.3.center/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.3.left" />
+    <state width="1495" height="511" key="GridCell.Tab.3.left/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.3.right" />
+    <state width="1495" height="511" key="GridCell.Tab.3.right/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.4.bottom" />
+    <state width="1495" height="511" key="GridCell.Tab.4.bottom/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.4.center" />
+    <state width="1495" height="511" key="GridCell.Tab.4.center/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.4.left" />
+    <state width="1495" height="511" key="GridCell.Tab.4.left/1600.1200" />
+    <state width="1495" height="511" key="GridCell.Tab.4.right" />
+    <state width="1495" height="511" key="GridCell.Tab.4.right/1600.1200" />
     <state x="432" y="265" width="672" height="678" key="search.everywhere.popup" />
     <state x="432" y="265" width="672" height="678" key="search.everywhere.popup/1600.1200" />
   </component>

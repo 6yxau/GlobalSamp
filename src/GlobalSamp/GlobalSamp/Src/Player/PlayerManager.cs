@@ -1,8 +1,6 @@
 using System.Collections.Generic;
 using GlobalSamp.Player.Dao;
 using GlobalSamp.Tools.Common;
-using SampSharp.GameMode.Display;
-using SampSharp.GameMode.World;
 
 namespace GlobalSamp.Player
 {

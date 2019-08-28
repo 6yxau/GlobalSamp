@@ -1,5 +1,4 @@
 using GlobalSamp.Player;
-using SampSharp.GameMode;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
