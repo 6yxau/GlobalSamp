@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dao/DIalogDao.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +122,7 @@
       <workItem from="1566819166197" duration="17402000" />
       <workItem from="1566915987701" duration="482000" />
       <workItem from="1566917356002" duration="3881000" />
-      <workItem from="1566997976773" duration="4968000" />
+      <workItem from="1566997976773" duration="5730000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -158,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566922034487</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="RegistrationDialog">
+      <created>1567007138363</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567007138363</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +186,8 @@
     <MESSAGE value="Third" />
     <MESSAGE value="4" />
     <MESSAGE value="DialogDao" />
-    <option name="LAST_COMMIT_MESSAGE" value="DialogDao" />
+    <MESSAGE value="RegistrationDialog" />
+    <option name="LAST_COMMIT_MESSAGE" value="RegistrationDialog" />
   </component>
   <component name="WindowStateProjectService">
     <state x="432" y="265" width="672" height="678" key="search.everywhere.popup" />

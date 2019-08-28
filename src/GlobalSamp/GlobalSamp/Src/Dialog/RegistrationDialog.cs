@@ -9,43 +9,16 @@ namespace GlobalSamp.Dialog
 {
     public class RegistrationDialog : InputDialog
     {
-        public RegistrationDialog(bool playerRegistered) 
+        public RegistrationDialog(bool playerRegistered)
             : base(playerRegistered ? "Вход" : "Регистрация",
-                playerRegistered ? "Ваш логин: {18ff00}зарегистрирован на сервере.\n Для входа введите пароль." : "Ваш логин: {ff0000}не зарегистрирован сервере.\n Для регистрации введите пароль.",
+                playerRegistered
+                    ? "Ваш логин: {18ff00}зарегистрирован на сервере.\n Для входа введите пароль."
+                    : "Ваш логин: {ff0000}не зарегистрирован сервере.\n Для регистрации введите пароль.",
                 true, "Далее")
         {
         }
 
         public void OnInputRegistrationData(object sender, DialogResponseEventArgs e)
-        {
-            if (e.DialogButton != DialogButton.Left)
-            {
-                Response -= OnInputRegistrationData;
-                BasePlayer player = BasePlayer.Find(e.Player.Id);
-                if (player == null)
-                {
-                    return;
-                }
-                player.SendClientMessage("...");
-                player.Kick();
-                return;
-            }
-            
-            PlayerData data = PlayerManager.Instance.GetPlayerData(e.Player.Name);
-            if (data.Password == e.InputText)
-            {
-                data.Authorized = true;
-                
-            }
-            else
-            {
-                
-            }
-
-            Response -= OnInputRegistrationData;
-        }
-        
-        public void OnRegisterOpen()
         {
             var setpwd = new InputDialog("Повтор пароля", "Введите ваш пароль ещё раз:", true, "Далее");
             var setemail = new InputDialog("E-Mail", "Введите адрес Вашей электронной почты. /n" +
@@ -70,10 +43,38 @@ namespace GlobalSamp.Dialog
             //                                                             "Другое", false, "Далее");
             var friend = new InputDialog("Введите ник друга, который тут играет",
                 "{18ff00} После получения Вами пятого уровня он получит вознаграждение", false, "Вввести", "Далее");
+
             var promo = new InputDialog("Промокод", "Введите промокод. /n" +
-                                                     "С помощью промокода {18ff00}Вы получите преимущество на старте игры",
+                                                    "С помощью промокода {18ff00}Вы получите преимущество на старте игры",
                 false, "Ввести", "Пропустить");
+            if (e.DialogButton != DialogButton.Left)
+            {
+                Response -= OnInputRegistrationData;
+                BasePlayer player = BasePlayer.Find(e.Player.Id);
+                if (player == null)
+                {
+                    return;
+                }
+
+                player.SendClientMessage("...");
+                player.Kick();
+                return;
+            }
+
+            PlayerData data = PlayerManager.Instance.GetPlayerData(e.Player.Name);
+            if (data.Password == e.InputText)
+            {
+                BasePlayer player = BasePlayer.Find(e.Player.Id);
+                data.Authorized = true;
+                setpwd.Show(player);
+            }
+            else
+            {
+
+            }
+
+            Response -= OnInputRegistrationData;
+
         }
-        
     }
 }
