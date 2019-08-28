@@ -19,7 +19,9 @@
         <e p="src" t="Include">
           <e p="Dao" t="Include">
             <e p="AbstractDao.cs" t="Include" />
-            <e p="DIalogDao.cs" t="Include" />
+          </e>
+          <e p="Dialog" t="Include">
+            <e p="RegistrationDialog.cs" t="Include" />
           </e>
           <e p="GameMode.cs" t="Include" />
           <e p="Player" t="Include">

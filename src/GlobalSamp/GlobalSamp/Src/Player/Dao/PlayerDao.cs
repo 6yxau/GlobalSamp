@@ -9,7 +9,6 @@ namespace GlobalSamp.Player.Dao
         public PlayerData GetPlayerModel(string name)
         {
             MySqlConnection conn = null;
-            PlayerData result = new PlayerData();
             try
             {
                 conn = CreateConnection();
@@ -18,15 +17,18 @@ namespace GlobalSamp.Player.Dao
                 MySqlDataReader rd = cmd.ExecuteReader();
                 if (!rd.HasRows)
                 {
-                    return default(PlayerData);
+                    return null;
                 }
                 rd.Read();
-                result.Id = rd.GetInt32(0);
-                result.UserName = rd.GetString(1);
-                result.Gender = rd.GetBoolean(2) ? PlayerGender.FEMALE : PlayerGender.MALE;
-                result.Password = rd.GetString(3);
-                result.Email = rd.GetString(4);
-                result.date = rd.GetInt64(5);
+                var result = new PlayerData
+                {
+                    Id = rd.GetInt32(0),
+                    UserName = rd.GetString(1),
+                    Gender = rd.GetBoolean(2) ? PlayerGender.FEMALE : PlayerGender.MALE,
+                    Password = rd.GetString(3),
+                    Email = rd.GetString(4),
+                    date = rd.GetInt64(5)
+                };
                 return result;
             }
             catch (Exception e)

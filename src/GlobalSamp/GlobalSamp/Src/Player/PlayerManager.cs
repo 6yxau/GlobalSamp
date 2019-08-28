@@ -23,6 +23,10 @@ namespace GlobalSamp.Player
                 return _players[name];
             }
             PlayerData data = _dao.GetPlayerModel(name);
+            if (data == null)
+            {
+                return null;
+            }
             _players.Add(name, data);
             return data;
         }

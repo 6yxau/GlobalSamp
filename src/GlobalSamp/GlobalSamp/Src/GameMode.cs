@@ -1,4 +1,6 @@
 using System;
+using GlobalSamp.Dao;
+using GlobalSamp.Dialog;
 using GlobalSamp.Player;
 using SampSharp.GameMode;
 using SampSharp.GameMode.Display;
@@ -26,37 +28,29 @@ namespace GlobalSamp
             player.SendClientMessage($"Добро пожаловать в GlobalSamp, {player.Name}!");
 
             PlayerData data = PlayerManager.Instance.GetPlayerData(player.Name);
+
+            var dialog = new RegistrationDialog(data != null);
             
-            string caption;
-            string message;
-            if (data.Equals(default(PlayerData)))
-            {
-                caption = "Регистрация";
-                message = "Ваш логин: {ff0000}не зарегистрирован на сервере.\n Для регистрации введите пароль.";
-            }
-            else
-            {
-                caption = "Вход";
-                message = "Ваш логин: {18ff00}зарегистрирован на сервере.\n Для входа введите пароль.";
-            }
-            
-            var dialog = new InputDialog(caption, message, true, "Далее");
-            
-            dialog.Response += ConnectionDialogResponse;
+            dialog.Response += dialog.OnInputRegistrationData;
             dialog.Show(player);
         }
 
-        private void ConnectionDialogResponse(object sender, DialogResponseEventArgs e)
+        protected override void OnPlayerSpawned(BasePlayer player, SpawnEventArgs e)
         {
-            PlayerData data = PlayerManager.Instance.GetPlayerData(e.Player.Name);
-            if (data.Password == e.InputText)
+            base.OnPlayerSpawned(player, e);
+
+            PlayerData data = PlayerManager.Instance.GetPlayerData(player.Name);
+            if (!data.Authorized)
             {
-                
+                player.Kick();
             }
-            else
-            {
-                
-            }
+        }
+
+        protected override void OnPlayerDisconnected(BasePlayer player, DisconnectEventArgs e)
+        {
+            base.OnPlayerDisconnected(player, e);
+
+            PlayerManager.Instance.RemovePlayerData(player.Name);
         }
 
         protected override void OnDialogResponse(BasePlayer player, DialogResponseEventArgs e)
