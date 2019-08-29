@@ -9,6 +9,9 @@ namespace GlobalSamp.Player
         private readonly PlayerDao _dao;
         
         private readonly Dictionary<string, PlayerData> _players = new Dictionary<string, PlayerData>(1000);
+        
+        private readonly Dictionary<string, PlayerData> _cachedData = new Dictionary<string, PlayerData>(200);
+        
         public PlayerManager()
         {
             _dao = new PlayerDao();
@@ -29,8 +32,25 @@ namespace GlobalSamp.Player
             return data;
         }
 
+        public void CachePlayerData(PlayerData data)
+        {
+            _cachedData.Add(data.UserName, data);
+        }
+
+        public PlayerData GetCachedPlayerData(string name)
+        {
+            _cachedData.TryGetValue(name, out PlayerData data);
+            return data;
+        }
+
+        public bool RemovePlayerDataFromCache(string name)
+        {
+            return _cachedData.Remove(name);
+        }
+
         public bool RemovePlayerData(string name)
         {
+            _cachedData.Remove(name);
             return _players.Remove(name);
         }
         

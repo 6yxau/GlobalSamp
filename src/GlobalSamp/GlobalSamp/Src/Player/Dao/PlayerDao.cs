@@ -27,7 +27,9 @@ namespace GlobalSamp.Player.Dao
                     Gender = rd.GetBoolean(2) ? PlayerGender.FEMALE : PlayerGender.MALE,
                     Password = rd.GetString(3),
                     Email = rd.GetString(4),
-                    date = rd.GetInt64(5)
+                    date = rd.GetInt64(5),
+                    SkinColor = rd.GetBoolean(6) ? PlayerColor.BLACK : PlayerColor.WHITE,
+                    Age = rd.GetInt16(7)
                 };
                 return result;
             }

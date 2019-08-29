@@ -21,7 +21,7 @@ namespace GlobalSamp
             {
                 GameModeBuilder builder = new GameModeBuilder();
                 builder.Use<GameMode>();
-                builder.UseEncoding(Path.GetFullPath("../../../env/codepages/cp1251.txt"));
+                builder.UseEncoding(Path.GetFullPath("../../../../../../env/codepages/cp1251.txt"));
                 builder.Run();
             }
             catch (Exception e)
@@ -37,8 +37,8 @@ namespace GlobalSamp
             {
                 StartInfo = new ProcessStartInfo
                 {
-                    WorkingDirectory = Path.GetFullPath("../../../env"),
-                    FileName = Path.GetFullPath("../../../env/samp-server.exe"),
+                    WorkingDirectory = Path.GetFullPath("../../../../../../env/"),
+                    FileName = Path.GetFullPath("../../../../../../env/samp-server.exe"),
                     CreateNoWindow = false,
                     UseShellExecute = true,
                 }

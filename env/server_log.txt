@@ -2140,3 +2140,3013 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [20:00:18]   Filterscript 'intermission.amx' loaded.
 [20:00:18] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
 [20:00:18] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:17:32] weburl = "www.sa-mp.com"  (string)
+[20:17:32] 
+[20:17:32] Server Plugins
+[20:17:32] --------------
+[20:17:32]  Loading plugin: SampSharp
+[20:17:32]   Loaded.
+[20:17:32]  Loaded 1 plugins.
+
+[20:17:32] 
+[20:17:32] Filterscripts
+[20:17:32] ---------------
+[20:17:32]   Loaded 0 filterscripts.
+
+[20:17:32]   Filterscript 'empty.amx' loaded.
+[20:17:32] 
+[20:17:32] SampSharp Plugin
+[20:17:32] ----------------
+[20:17:32] v0.8.0, (C)2014-2019 Tim Potze
+[20:17:32] 
+[20:17:32]   Filterscript 'intermission.amx' loaded.
+[20:17:32] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:17:32] [SampSharp:INFO] Pipe created.
+[20:17:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:18:47] weburl = "www.sa-mp.com"  (string)
+[20:18:47] 
+[20:18:47] Server Plugins
+[20:18:47] --------------
+[20:18:47]  Loading plugin: SampSharp
+[20:18:47]   Loaded.
+[20:18:47]  Loaded 1 plugins.
+
+[20:18:47] 
+[20:18:47] Filterscripts
+[20:18:47] ---------------
+[20:18:47]   Loaded 0 filterscripts.
+
+[20:18:47]   Filterscript 'empty.amx' loaded.
+[20:18:47] 
+[20:18:47] SampSharp Plugin
+[20:18:47] ----------------
+[20:18:47] v0.8.0, (C)2014-2019 Tim Potze
+[20:18:47] 
+[20:18:47]   Filterscript 'intermission.amx' loaded.
+[20:18:47] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:18:47] [SampSharp:INFO] Pipe created.
+[20:18:47] Number of vehicle models: 0
+[20:20:20]   Filterscript 'intermission.amx' unloaded.
+[20:20:20] [SampSharp:INFO] Connected to client.
+[20:20:20] [SampSharp:INFO] Server announcement sent.
+[20:20:20] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:20:20] [SampSharp:INFO] The gamemode has started.
+[20:20:32] Number of vehicle models: 0
+[20:20:56] [connection] 127.0.0.1:28210 requests connection cookie.
+[20:20:57] [connection] incoming connection: 127.0.0.1:28210 id: 0
+[20:20:57] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:21:12] [part] Pavel_Topsky has left the server (0:1)
+[20:21:32] [connection] 127.0.0.1:28218 requests connection cookie.
+[20:21:33] [connection] incoming connection: 127.0.0.1:28218 id: 0
+[20:21:34] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:21:40] [part] Pavel_Topsky has left the server (0:1)
+Console input: exit
+[20:21:45] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:22:07] weburl = "www.sa-mp.com"  (string)
+[20:22:07] 
+[20:22:07] Server Plugins
+[20:22:07] --------------
+[20:22:07]  Loading plugin: SampSharp
+[20:22:07]   Loaded.
+[20:22:07]  Loaded 1 plugins.
+
+[20:22:07] 
+[20:22:07] Filterscripts
+[20:22:07] ---------------
+[20:22:07]   Loaded 0 filterscripts.
+
+[20:22:07]   Filterscript 'empty.amx' loaded.
+[20:22:07] 
+[20:22:07] SampSharp Plugin
+[20:22:07] ----------------
+[20:22:07] v0.8.0, (C)2014-2019 Tim Potze
+[20:22:07] 
+[20:22:07]   Filterscript 'intermission.amx' loaded.
+[20:22:07] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:22:07] [SampSharp:INFO] Pipe created.
+[20:22:07] Number of vehicle models: 0
+[20:22:07]   Filterscript 'intermission.amx' unloaded.
+[20:22:07] [SampSharp:INFO] Connected to client.
+[20:22:07] [SampSharp:INFO] Server announcement sent.
+[20:22:07] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:22:08] [SampSharp:INFO] The gamemode has started.
+Console input: exit
+[20:22:13] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:23:45] weburl = "www.sa-mp.com"  (string)
+[20:23:45] 
+[20:23:45] Server Plugins
+[20:23:45] --------------
+[20:23:45]  Loading plugin: SampSharp
+[20:23:45]   Loaded.
+[20:23:45]  Loaded 1 plugins.
+
+[20:23:45] 
+[20:23:45] Filterscripts
+[20:23:45] ---------------
+[20:23:45]   Loaded 0 filterscripts.
+
+[20:23:45]   Filterscript 'empty.amx' loaded.
+[20:23:45] 
+[20:23:45] SampSharp Plugin
+[20:23:45] ----------------
+[20:23:45] v0.8.0, (C)2014-2019 Tim Potze
+[20:23:45] 
+[20:23:45]   Filterscript 'intermission.amx' loaded.
+[20:23:45] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:23:45] [SampSharp:INFO] Pipe created.
+[20:23:45] Number of vehicle models: 0
+[20:23:45]   Filterscript 'intermission.amx' unloaded.
+[20:23:45] [SampSharp:INFO] Connected to client.
+[20:23:45] [SampSharp:INFO] Server announcement sent.
+[20:23:45] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:23:45] [SampSharp:INFO] The gamemode has started.
+[20:23:57] Number of vehicle models: 0
+[20:24:05] [connection] 127.0.0.1:9059 requests connection cookie.
+[20:24:06] [connection] incoming connection: 127.0.0.1:9059 id: 0
+[20:24:06] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:24:13] [part] Pavel_Topsky has left the server (0:2)
+[20:24:30] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[20:24:30] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[20:24:30]   Filterscript 'intermission.amx' loaded.
+[20:24:30] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:24:30] [SampSharp:INFO] Pipe created.
+[20:24:30] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:26:17] weburl = "www.sa-mp.com"  (string)
+[20:26:17] 
+[20:26:17] Server Plugins
+[20:26:17] --------------
+[20:26:17]  Loading plugin: SampSharp
+[20:26:17]   Loaded.
+[20:26:17]  Loaded 1 plugins.
+
+[20:26:17] 
+[20:26:18] Filterscripts
+[20:26:18] ---------------
+[20:26:18]   Loaded 0 filterscripts.
+
+[20:26:18]   Filterscript 'empty.amx' loaded.
+[20:26:18] 
+[20:26:18] SampSharp Plugin
+[20:26:18] ----------------
+[20:26:18] v0.8.0, (C)2014-2019 Tim Potze
+[20:26:18] 
+[20:26:18]   Filterscript 'intermission.amx' loaded.
+[20:26:18] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:26:18] [SampSharp:INFO] Pipe created.
+[20:26:18] Number of vehicle models: 0
+[20:26:18]   Filterscript 'intermission.amx' unloaded.
+[20:26:18] [SampSharp:INFO] Connected to client.
+[20:26:18] [SampSharp:INFO] Server announcement sent.
+[20:26:18] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:26:18] [SampSharp:INFO] The gamemode has started.
+[20:26:30] Number of vehicle models: 0
+[20:26:35] [connection] 127.0.0.1:1041 requests connection cookie.
+[20:26:36] [connection] incoming connection: 127.0.0.1:1041 id: 0
+[20:26:37] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:26:49] [part] Pavel_Topsky has left the server (0:1)
+[20:27:04] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[20:27:04] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[20:27:04]   Filterscript 'intermission.amx' loaded.
+[20:27:04] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:27:04] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:27:11] weburl = "www.sa-mp.com"  (string)
+[20:27:11] 
+[20:27:11] Server Plugins
+[20:27:11] --------------
+[20:27:11]  Loading plugin: SampSharp
+[20:27:11]   Loaded.
+[20:27:11]  Loaded 1 plugins.
+
+[20:27:11] 
+[20:27:11] Filterscripts
+[20:27:11] ---------------
+[20:27:11]   Loaded 0 filterscripts.
+
+[20:27:11]   Filterscript 'empty.amx' loaded.
+[20:27:11] 
+[20:27:11] SampSharp Plugin
+[20:27:11] ----------------
+[20:27:11] v0.8.0, (C)2014-2019 Tim Potze
+[20:27:11] 
+[20:27:11]   Filterscript 'intermission.amx' loaded.
+[20:27:11] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:27:11] [SampSharp:INFO] Pipe created.
+[20:27:11] Number of vehicle models: 0
+[20:27:12]   Filterscript 'intermission.amx' unloaded.
+[20:27:12] [SampSharp:INFO] Connected to client.
+[20:27:12] [SampSharp:INFO] Server announcement sent.
+[20:27:12] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:27:12] [SampSharp:INFO] The gamemode has started.
+[20:27:24] Number of vehicle models: 0
+[20:27:36] [connection] 127.0.0.1:1034 requests connection cookie.
+[20:27:37] [connection] incoming connection: 127.0.0.1:1034 id: 0
+[20:27:38] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:27:50] [part] Pavel_Topsky has left the server (0:1)
+[20:27:54] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[20:27:54] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[20:27:54]   Filterscript 'intermission.amx' loaded.
+[20:27:54] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:27:54] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:28:37] weburl = "www.sa-mp.com"  (string)
+[20:28:37] 
+[20:28:37] Server Plugins
+[20:28:37] --------------
+[20:28:37]  Loading plugin: SampSharp
+[20:28:37]   Loaded.
+[20:28:37]  Loaded 1 plugins.
+
+[20:28:37] 
+[20:28:37] Filterscripts
+[20:28:37] ---------------
+[20:28:37]   Loaded 0 filterscripts.
+
+[20:28:37]   Filterscript 'empty.amx' loaded.
+[20:28:37] 
+[20:28:37] SampSharp Plugin
+[20:28:37] ----------------
+[20:28:37] v0.8.0, (C)2014-2019 Tim Potze
+[20:28:37] 
+[20:28:37]   Filterscript 'intermission.amx' loaded.
+[20:28:37] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:28:37] [SampSharp:INFO] Pipe created.
+[20:28:37] Number of vehicle models: 0
+[20:28:37]   Filterscript 'intermission.amx' unloaded.
+[20:28:37] [SampSharp:INFO] Connected to client.
+[20:28:37] [SampSharp:INFO] Server announcement sent.
+[20:28:37] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:28:38] [SampSharp:INFO] The gamemode has started.
+[20:28:50] Number of vehicle models: 0
+[20:28:56] [connection] 127.0.0.1:1058 requests connection cookie.
+[20:28:57] [connection] incoming connection: 127.0.0.1:1058 id: 0
+[20:28:57] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:29:06] [part] Pavel_Topsky has left the server (0:1)
+[20:29:13] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[20:29:13] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[20:29:13]   Filterscript 'intermission.amx' loaded.
+[20:29:13] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:29:13] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:29:47] weburl = "www.sa-mp.com"  (string)
+[20:29:47] 
+[20:29:47] Server Plugins
+[20:29:47] --------------
+[20:29:47]  Loading plugin: SampSharp
+[20:29:47]   Loaded.
+[20:29:47]  Loaded 1 plugins.
+
+[20:29:47] 
+[20:29:47] Filterscripts
+[20:29:47] ---------------
+[20:29:47]   Loaded 0 filterscripts.
+
+[20:29:47]   Filterscript 'empty.amx' loaded.
+[20:29:47] 
+[20:29:47] SampSharp Plugin
+[20:29:47] ----------------
+[20:29:47] v0.8.0, (C)2014-2019 Tim Potze
+[20:29:47] 
+[20:29:47]   Filterscript 'intermission.amx' loaded.
+[20:29:47] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:29:47] [SampSharp:INFO] Pipe created.
+[20:29:47] Number of vehicle models: 0
+[20:29:47]   Filterscript 'intermission.amx' unloaded.
+[20:29:47] [SampSharp:INFO] Connected to client.
+[20:29:47] [SampSharp:INFO] Server announcement sent.
+[20:29:47] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:29:47] [SampSharp:INFO] The gamemode has started.
+[20:29:59] Number of vehicle models: 0
+[20:30:05] [connection] 127.0.0.1:1033 requests connection cookie.
+[20:30:06] [connection] incoming connection: 127.0.0.1:1033 id: 0
+[20:30:06] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:30:19] [part] Pavel_Topsky has left the server (0:1)
+[20:30:23] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[20:30:23] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[20:30:23]   Filterscript 'intermission.amx' loaded.
+[20:30:23] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:30:23] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:30:47] weburl = "www.sa-mp.com"  (string)
+[20:30:47] 
+[20:30:47] Server Plugins
+[20:30:47] --------------
+[20:30:47]  Loading plugin: SampSharp
+[20:30:47]   Loaded.
+[20:30:47]  Loaded 1 plugins.
+
+[20:30:47] 
+[20:30:47] Filterscripts
+[20:30:47] ---------------
+[20:30:47]   Loaded 0 filterscripts.
+
+[20:30:47]   Filterscript 'empty.amx' loaded.
+[20:30:47] 
+[20:30:47] SampSharp Plugin
+[20:30:47] ----------------
+[20:30:47] v0.8.0, (C)2014-2019 Tim Potze
+[20:30:47] 
+[20:30:47]   Filterscript 'intermission.amx' loaded.
+[20:30:47] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:30:47] [SampSharp:INFO] Pipe created.
+[20:30:47] Number of vehicle models: 0
+[20:30:47]   Filterscript 'intermission.amx' unloaded.
+[20:30:47] [SampSharp:INFO] Connected to client.
+[20:30:47] [SampSharp:INFO] Server announcement sent.
+[20:30:47] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:30:47] [SampSharp:INFO] The gamemode has started.
+[20:30:59] Number of vehicle models: 0
+[20:31:07] [connection] 127.0.0.1:1051 requests connection cookie.
+[20:31:09] [connection] incoming connection: 127.0.0.1:1051 id: 0
+[20:31:09] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:31:20] [part] Pavel_Topsky has left the server (0:1)
+[20:31:27] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[20:31:27] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[20:31:27]   Filterscript 'intermission.amx' loaded.
+[20:31:27] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:31:27] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:39:03] weburl = "www.sa-mp.com"  (string)
+[20:39:03] 
+[20:39:03] Server Plugins
+[20:39:03] --------------
+[20:39:03]  Loading plugin: SampSharp
+[20:39:03]   Loaded.
+[20:39:03]  Loaded 1 plugins.
+
+[20:39:03] 
+[20:39:03] Filterscripts
+[20:39:03] ---------------
+[20:39:03]   Loaded 0 filterscripts.
+
+[20:39:03]   Filterscript 'empty.amx' loaded.
+[20:39:03] 
+[20:39:03] SampSharp Plugin
+[20:39:03] ----------------
+[20:39:03] v0.8.0, (C)2014-2019 Tim Potze
+[20:39:03] 
+[20:39:03]   Filterscript 'intermission.amx' loaded.
+[20:39:03] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:39:03] [SampSharp:INFO] Pipe created.
+[20:39:03] Number of vehicle models: 0
+[20:39:03]   Filterscript 'intermission.amx' unloaded.
+[20:39:03] [SampSharp:INFO] Connected to client.
+[20:39:03] [SampSharp:INFO] Server announcement sent.
+[20:39:03] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:39:03] [SampSharp:INFO] The gamemode has started.
+[20:39:15] Number of vehicle models: 0
+[20:39:19] [connection] 127.0.0.1:9227 requests connection cookie.
+[20:39:20] [connection] incoming connection: 127.0.0.1:9227 id: 0
+[20:39:20] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:39:48] [part] Pavel_Topsky has left the server (0:1)
+[20:39:53] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[20:39:53] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[20:39:53]   Filterscript 'intermission.amx' loaded.
+[20:39:53] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:39:53] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:03:03] weburl = "www.sa-mp.com"  (string)
+[21:03:03] 
+[21:03:03] Server Plugins
+[21:03:03] --------------
+[21:03:03]  Loading plugin: SampSharp
+[21:03:03]   Loaded.
+[21:03:03]  Loaded 1 plugins.
+
+[21:03:03] 
+[21:03:03] Filterscripts
+[21:03:03] ---------------
+[21:03:03]   Loaded 0 filterscripts.
+
+[21:03:03]   Filterscript 'empty.amx' loaded.
+[21:03:03] 
+[21:03:03] SampSharp Plugin
+[21:03:03] ----------------
+[21:03:03] v0.8.0, (C)2014-2019 Tim Potze
+[21:03:03] 
+[21:03:03]   Filterscript 'intermission.amx' loaded.
+[21:03:03] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:03:03] [SampSharp:INFO] Pipe created.
+[21:03:03] Number of vehicle models: 0
+[21:03:04]   Filterscript 'intermission.amx' unloaded.
+[21:03:04] [SampSharp:INFO] Connected to client.
+[21:03:04] [SampSharp:INFO] Server announcement sent.
+[21:03:04] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:03:04] [SampSharp:INFO] The gamemode has started.
+[21:03:13] [connection] 127.0.0.1:17399 requests connection cookie.
+[21:03:14] [connection] incoming connection: 127.0.0.1:17399 id: 0
+[21:03:15] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:03:16] Number of vehicle models: 0
+[21:03:40] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[21:03:40] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:04:04] weburl = "www.sa-mp.com"  (string)
+[21:04:04] 
+[21:04:04] Server Plugins
+[21:04:04] --------------
+[21:04:04]  Loading plugin: SampSharp
+[21:04:04]   Loaded.
+[21:04:04]  Loaded 1 plugins.
+
+[21:04:04] 
+[21:04:04] Filterscripts
+[21:04:04] ---------------
+[21:04:04]   Loaded 0 filterscripts.
+
+[21:04:04]   Filterscript 'empty.amx' loaded.
+[21:04:04] 
+[21:04:04] SampSharp Plugin
+[21:04:04] ----------------
+[21:04:04] v0.8.0, (C)2014-2019 Tim Potze
+[21:04:04] 
+[21:04:04]   Filterscript 'intermission.amx' loaded.
+[21:04:04] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:04:04] [SampSharp:INFO] Pipe created.
+[21:04:04] Number of vehicle models: 0
+[21:04:04]   Filterscript 'intermission.amx' unloaded.
+[21:04:04] [SampSharp:INFO] Connected to client.
+[21:04:04] [SampSharp:INFO] Server announcement sent.
+[21:04:04] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:04:05] [SampSharp:INFO] The gamemode has started.
+[21:04:06] [connection] 127.0.0.1:17414 requests connection cookie.
+[21:04:07] [connection] incoming connection: 127.0.0.1:17414 id: 0
+[21:04:07] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:04:17] Number of vehicle models: 0
+[21:04:40] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:04:40] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:04:40]   Filterscript 'intermission.amx' loaded.
+[21:04:40] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:04:40] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:05:31] weburl = "www.sa-mp.com"  (string)
+[21:05:31] 
+[21:05:31] Server Plugins
+[21:05:31] --------------
+[21:05:31]  Loading plugin: SampSharp
+[21:05:31]   Loaded.
+[21:05:31]  Loaded 1 plugins.
+
+[21:05:31] 
+[21:05:31] Filterscripts
+[21:05:31] ---------------
+[21:05:31]   Loaded 0 filterscripts.
+
+[21:05:31]   Filterscript 'empty.amx' loaded.
+[21:05:31] 
+[21:05:31] SampSharp Plugin
+[21:05:31] ----------------
+[21:05:31] v0.8.0, (C)2014-2019 Tim Potze
+[21:05:31] 
+[21:05:31]   Filterscript 'intermission.amx' loaded.
+[21:05:31] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:05:31] [SampSharp:INFO] Pipe created.
+[21:05:31] Number of vehicle models: 0
+[21:05:31]   Filterscript 'intermission.amx' unloaded.
+[21:05:31] [SampSharp:INFO] Connected to client.
+[21:05:31] [SampSharp:INFO] Server announcement sent.
+[21:05:31] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:05:31] [connection] 127.0.0.1:1045 requests connection cookie.
+[21:05:32] [SampSharp:INFO] The gamemode has started.
+[21:05:32] [connection] incoming connection: 127.0.0.1:1045 id: 0
+[21:05:33] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:05:44] Number of vehicle models: 0
+[21:06:40] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[21:06:40] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[21:06:40]   Filterscript 'intermission.amx' loaded.
+[21:06:40] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:06:40] [SampSharp:INFO] Pipe created.
+[21:06:40] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:56] weburl = "www.sa-mp.com"  (string)
+[21:17:56] 
+[21:17:56] Server Plugins
+[21:17:56] --------------
+[21:17:56]  Loading plugin: SampSharp
+[21:17:56]   Loaded.
+[21:17:56]  Loaded 1 plugins.
+
+[21:17:56] 
+[21:17:56] Filterscripts
+[21:17:56] ---------------
+[21:17:56]   Loaded 0 filterscripts.
+
+[21:17:56]   Filterscript 'empty.amx' loaded.
+[21:17:56] 
+[21:17:56] SampSharp Plugin
+[21:17:56] ----------------
+[21:17:56] v0.8.0, (C)2014-2019 Tim Potze
+[21:17:56] 
+[21:17:56]   Filterscript 'intermission.amx' loaded.
+[21:17:56] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:17:56] [SampSharp:INFO] Pipe created.
+[21:17:56] Number of vehicle models: 0
+[21:17:56]   Filterscript 'intermission.amx' unloaded.
+[21:17:56] [SampSharp:INFO] Connected to client.
+[21:17:56] [SampSharp:INFO] Server announcement sent.
+[21:17:56] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:17:57] [SampSharp:INFO] The gamemode has started.
+[21:17:58] [connection] 127.0.0.1:1032 requests connection cookie.
+[21:17:59] [connection] incoming connection: 127.0.0.1:1032 id: 0
+[21:17:59] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:18:09] Number of vehicle models: 0
+[21:18:59] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:18:59] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:18:59]   Filterscript 'intermission.amx' loaded.
+[21:18:59] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:18:59] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:20:20] weburl = "www.sa-mp.com"  (string)
+[21:20:20] 
+[21:20:20] Server Plugins
+[21:20:20] --------------
+[21:20:20]  Loading plugin: SampSharp
+[21:20:20]   Loaded.
+[21:20:20]  Loaded 1 plugins.
+
+[21:20:20] 
+[21:20:20] Filterscripts
+[21:20:20] ---------------
+[21:20:20]   Loaded 0 filterscripts.
+
+[21:20:20]   Filterscript 'empty.amx' loaded.
+[21:20:20] 
+[21:20:20] SampSharp Plugin
+[21:20:20] ----------------
+[21:20:20] v0.8.0, (C)2014-2019 Tim Potze
+[21:20:20] 
+[21:20:20]   Filterscript 'intermission.amx' loaded.
+[21:20:20] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:20:20] [SampSharp:INFO] Pipe created.
+[21:20:20] Number of vehicle models: 0
+[21:20:20]   Filterscript 'intermission.amx' unloaded.
+[21:20:20] [SampSharp:INFO] Connected to client.
+[21:20:20] [SampSharp:INFO] Server announcement sent.
+[21:20:20] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:20:21] [SampSharp:INFO] The gamemode has started.
+[21:20:24] [connection] 127.0.0.1:1037 requests connection cookie.
+[21:20:25] [connection] incoming connection: 127.0.0.1:1037 id: 0
+[21:20:26] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:20:33] Number of vehicle models: 0
+[21:21:35] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:21:35] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:21:35]   Filterscript 'intermission.amx' loaded.
+[21:21:35] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:21:35] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:31:11] weburl = "www.sa-mp.com"  (string)
+[21:31:11] 
+[21:31:11] Server Plugins
+[21:31:11] --------------
+[21:31:11]  Loading plugin: SampSharp
+[21:31:11]   Loaded.
+[21:31:11]  Loaded 1 plugins.
+
+[21:31:11] 
+[21:31:11] Filterscripts
+[21:31:11] ---------------
+[21:31:11]   Loaded 0 filterscripts.
+
+[21:31:11]   Filterscript 'empty.amx' loaded.
+[21:31:11] 
+[21:31:11] SampSharp Plugin
+[21:31:11] ----------------
+[21:31:11] v0.8.0, (C)2014-2019 Tim Potze
+[21:31:11] 
+[21:31:11]   Filterscript 'intermission.amx' loaded.
+[21:31:11] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:31:11] [SampSharp:INFO] Pipe created.
+[21:31:11] Number of vehicle models: 0
+[21:31:11]   Filterscript 'intermission.amx' unloaded.
+[21:31:11] [SampSharp:INFO] Connected to client.
+[21:31:11] [SampSharp:INFO] Server announcement sent.
+[21:31:11] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:31:12] [SampSharp:INFO] The gamemode has started.
+[21:31:24] Number of vehicle models: 0
+[21:31:26] [connection] 127.0.0.1:1048 requests connection cookie.
+[21:31:27] [connection] incoming connection: 127.0.0.1:1048 id: 0
+[21:31:27] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:31:53] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:31:53] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:31:53]   Filterscript 'intermission.amx' loaded.
+[21:31:53] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:31:53] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:32:24] weburl = "www.sa-mp.com"  (string)
+[21:32:24] 
+[21:32:24] Server Plugins
+[21:32:24] --------------
+[21:32:24]  Loading plugin: SampSharp
+[21:32:24]   Loaded.
+[21:32:24]  Loaded 1 plugins.
+
+[21:32:24] 
+[21:32:24] Filterscripts
+[21:32:24] ---------------
+[21:32:24]   Loaded 0 filterscripts.
+
+[21:32:24]   Filterscript 'empty.amx' loaded.
+[21:32:24] 
+[21:32:24] SampSharp Plugin
+[21:32:24] ----------------
+[21:32:24] v0.8.0, (C)2014-2019 Tim Potze
+[21:32:24] 
+[21:32:24]   Filterscript 'intermission.amx' loaded.
+[21:32:24] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:32:24] [SampSharp:INFO] Pipe created.
+[21:32:24] Number of vehicle models: 0
+[21:32:25]   Filterscript 'intermission.amx' unloaded.
+[21:32:25] [SampSharp:INFO] Connected to client.
+[21:32:25] [SampSharp:INFO] Server announcement sent.
+[21:32:25] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:32:25] [SampSharp:INFO] The gamemode has started.
+[21:32:28] [connection] 127.0.0.1:1061 requests connection cookie.
+[21:32:29] [connection] incoming connection: 127.0.0.1:1061 id: 0
+[21:32:29] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:32:38] Number of vehicle models: 0
+[21:33:02] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:33:02] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:33:02]   Filterscript 'intermission.amx' loaded.
+[21:33:02] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:33:02] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:02:43] weburl = "www.sa-mp.com"  (string)
+[17:02:43] 
+[17:02:43] Server Plugins
+[17:02:43] --------------
+[17:02:43]  Loading plugin: SampSharp
+[17:02:43]   Loaded.
+[17:02:43]  Loaded 1 plugins.
+
+[17:02:43] 
+[17:02:43] Filterscripts
+[17:02:43] ---------------
+[17:02:43]   Loaded 0 filterscripts.
+
+[17:02:43]   Filterscript 'empty.amx' loaded.
+[17:02:43] 
+[17:02:43] SampSharp Plugin
+[17:02:43] ----------------
+[17:02:43] v0.8.0, (C)2014-2019 Tim Potze
+[17:02:43] 
+[17:02:43]   Filterscript 'intermission.amx' loaded.
+[17:02:43] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:02:43] [SampSharp:INFO] Pipe created.
+[17:02:43] Number of vehicle models: 0
+[17:02:43]   Filterscript 'intermission.amx' unloaded.
+[17:02:43] [SampSharp:INFO] Connected to client.
+[17:02:43] [SampSharp:INFO] Server announcement sent.
+[17:02:43] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:02:44] [SampSharp:INFO] The gamemode has started.
+[17:02:56] Number of vehicle models: 0
+[17:03:13] [connection] 127.0.0.1:5786 requests connection cookie.
+[17:03:14] [connection] incoming connection: 127.0.0.1:5786 id: 0
+[17:03:14] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:03:31] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:03:31] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:03:31]   Filterscript 'intermission.amx' loaded.
+[17:03:31] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:03:31] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:03:38] weburl = "www.sa-mp.com"  (string)
+[17:03:38] 
+[17:03:38] Server Plugins
+[17:03:38] --------------
+[17:03:38]  Loading plugin: SampSharp
+[17:03:38]   Loaded.
+[17:03:38]  Loaded 1 plugins.
+
+[17:03:38] 
+[17:03:38] Filterscripts
+[17:03:38] ---------------
+[17:03:38]   Loaded 0 filterscripts.
+
+[17:03:38]   Filterscript 'empty.amx' loaded.
+[17:03:38] 
+[17:03:38] SampSharp Plugin
+[17:03:38] ----------------
+[17:03:38] v0.8.0, (C)2014-2019 Tim Potze
+[17:03:38] 
+[17:03:38]   Filterscript 'intermission.amx' loaded.
+[17:03:38] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:03:38] [SampSharp:INFO] Pipe created.
+[17:03:38] Number of vehicle models: 0
+[17:03:38]   Filterscript 'intermission.amx' unloaded.
+[17:03:38] [SampSharp:INFO] Connected to client.
+[17:03:38] [SampSharp:INFO] Server announcement sent.
+[17:03:38] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:03:39] [SampSharp:INFO] The gamemode has started.
+[17:03:43] [connection] 127.0.0.1:5787 requests connection cookie.
+[17:03:44] [connection] incoming connection: 127.0.0.1:5787 id: 0
+[17:03:44] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:03:51] Number of vehicle models: 0
+[17:04:02] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:04:02] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:04:02]   Filterscript 'intermission.amx' loaded.
+[17:04:02] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:04:02] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:04:43] weburl = "www.sa-mp.com"  (string)
+[17:04:43] 
+[17:04:43] Server Plugins
+[17:04:43] --------------
+[17:04:43]  Loading plugin: SampSharp
+[17:04:43]   Loaded.
+[17:04:43]  Loaded 1 plugins.
+
+[17:04:43] 
+[17:04:43] Filterscripts
+[17:04:43] ---------------
+[17:04:43]   Loaded 0 filterscripts.
+
+[17:04:43]   Filterscript 'empty.amx' loaded.
+[17:04:43] 
+[17:04:43] SampSharp Plugin
+[17:04:43] ----------------
+[17:04:43] v0.8.0, (C)2014-2019 Tim Potze
+[17:04:43] 
+[17:04:43]   Filterscript 'intermission.amx' loaded.
+[17:04:43] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:04:43] [SampSharp:INFO] Pipe created.
+[17:04:43] Number of vehicle models: 0
+[17:04:44]   Filterscript 'intermission.amx' unloaded.
+[17:04:44] [SampSharp:INFO] Connected to client.
+[17:04:44] [SampSharp:INFO] Server announcement sent.
+[17:04:44] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:04:44] [connection] 127.0.0.1:11643 requests connection cookie.
+[17:04:44] [SampSharp:INFO] The gamemode has started.
+[17:04:45] [connection] incoming connection: 127.0.0.1:11643 id: 0
+[17:04:56] Number of vehicle models: 0
+[17:08:13] [connection] incoming connection: 127.0.0.1:1028 id: 0
+[17:08:14] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:10:04] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:10:04] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:10:04]   Filterscript 'intermission.amx' loaded.
+[17:10:04] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:10:04] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:10:22] weburl = "www.sa-mp.com"  (string)
+[17:10:22] 
+[17:10:22] Server Plugins
+[17:10:22] --------------
+[17:10:22]  Loading plugin: SampSharp
+[17:10:22]   Loaded.
+[17:10:22]  Loaded 1 plugins.
+
+[17:10:22] 
+[17:10:22] Filterscripts
+[17:10:22] ---------------
+[17:10:22]   Loaded 0 filterscripts.
+
+[17:10:22]   Filterscript 'empty.amx' loaded.
+[17:10:22] 
+[17:10:22] SampSharp Plugin
+[17:10:22] ----------------
+[17:10:22] v0.8.0, (C)2014-2019 Tim Potze
+[17:10:22] 
+[17:10:22]   Filterscript 'intermission.amx' loaded.
+[17:10:22] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:10:22] [SampSharp:INFO] Pipe created.
+[17:10:22] Number of vehicle models: 0
+[17:10:22]   Filterscript 'intermission.amx' unloaded.
+[17:10:22] [SampSharp:INFO] Connected to client.
+[17:10:22] [SampSharp:INFO] Server announcement sent.
+[17:10:22] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:10:23] [SampSharp:INFO] The gamemode has started.
+[17:10:26] [connection] 127.0.0.1:1030 requests connection cookie.
+[17:10:27] [connection] incoming connection: 127.0.0.1:1030 id: 0
+[17:10:27] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:10:35] Number of vehicle models: 0
+[17:11:26] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:11:26] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:11:26]   Filterscript 'intermission.amx' loaded.
+[17:11:26] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:11:26] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:12:41] weburl = "www.sa-mp.com"  (string)
+[17:12:41] 
+[17:12:41] Server Plugins
+[17:12:41] --------------
+[17:12:41]  Loading plugin: SampSharp
+[17:12:41]   Loaded.
+[17:12:41]  Loaded 1 plugins.
+
+[17:12:41] 
+[17:12:41] Filterscripts
+[17:12:41] ---------------
+[17:12:41]   Loaded 0 filterscripts.
+
+[17:12:41]   Filterscript 'empty.amx' loaded.
+[17:12:41] 
+[17:12:41] SampSharp Plugin
+[17:12:41] ----------------
+[17:12:41] v0.8.0, (C)2014-2019 Tim Potze
+[17:12:41] 
+[17:12:41]   Filterscript 'intermission.amx' loaded.
+[17:12:41] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:12:41] [SampSharp:INFO] Pipe created.
+[17:12:41] Number of vehicle models: 0
+[17:12:42]   Filterscript 'intermission.amx' unloaded.
+[17:12:42] [SampSharp:INFO] Connected to client.
+[17:12:42] [SampSharp:INFO] Server announcement sent.
+[17:12:42] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:12:42] [SampSharp:INFO] The gamemode has started.
+[17:12:43] [connection] 127.0.0.1:1031 requests connection cookie.
+[17:12:44] [connection] incoming connection: 127.0.0.1:1031 id: 0
+[17:12:44] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:12:54] Number of vehicle models: 0
+[17:13:57] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:13:57] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:13:57]   Filterscript 'intermission.amx' loaded.
+[17:13:57] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:13:57] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:14:01] weburl = "www.sa-mp.com"  (string)
+[17:14:01] 
+[17:14:01] Server Plugins
+[17:14:01] --------------
+[17:14:01]  Loading plugin: SampSharp
+[17:14:01]   Loaded.
+[17:14:01]  Loaded 1 plugins.
+
+[17:14:02] 
+[17:14:02] Filterscripts
+[17:14:02] ---------------
+[17:14:02]   Loaded 0 filterscripts.
+
+[17:14:02]   Filterscript 'empty.amx' loaded.
+[17:14:02] 
+[17:14:02] SampSharp Plugin
+[17:14:02] ----------------
+[17:14:02] v0.8.0, (C)2014-2019 Tim Potze
+[17:14:02] 
+[17:14:02]   Filterscript 'intermission.amx' loaded.
+[17:14:02] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:14:02] [SampSharp:INFO] Pipe created.
+[17:14:02] Number of vehicle models: 0
+[17:14:02]   Filterscript 'intermission.amx' unloaded.
+[17:14:02] [SampSharp:INFO] Connected to client.
+[17:14:02] [SampSharp:INFO] Server announcement sent.
+[17:14:02] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:14:02] [SampSharp:INFO] The gamemode has started.
+[17:14:12] [connection] 127.0.0.1:1032 requests connection cookie.
+[17:14:13] [connection] incoming connection: 127.0.0.1:1032 id: 0
+[17:14:13] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:14:14] Number of vehicle models: 0
+[17:14:51] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[17:14:51] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[17:14:51]   Filterscript 'intermission.amx' loaded.
+[17:14:51] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:14:51] [SampSharp:INFO] Pipe created.
+[17:14:51] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:15:26] weburl = "www.sa-mp.com"  (string)
+[17:15:26] 
+[17:15:26] Server Plugins
+[17:15:26] --------------
+[17:15:26]  Loading plugin: SampSharp
+[17:15:26]   Loaded.
+[17:15:26]  Loaded 1 plugins.
+
+[17:15:26] 
+[17:15:26] Filterscripts
+[17:15:26] ---------------
+[17:15:26]   Loaded 0 filterscripts.
+
+[17:15:26]   Filterscript 'empty.amx' loaded.
+[17:15:26] 
+[17:15:26] SampSharp Plugin
+[17:15:26] ----------------
+[17:15:26] v0.8.0, (C)2014-2019 Tim Potze
+[17:15:26] 
+[17:15:26]   Filterscript 'intermission.amx' loaded.
+[17:15:26] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:15:26] [SampSharp:INFO] Pipe created.
+[17:15:26] Number of vehicle models: 0
+[17:15:26]   Filterscript 'intermission.amx' unloaded.
+[17:15:26] [SampSharp:INFO] Connected to client.
+[17:15:26] [SampSharp:INFO] Server announcement sent.
+[17:15:26] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:15:27] [SampSharp:INFO] The gamemode has started.
+[17:15:31] [connection] 127.0.0.1:1028 requests connection cookie.
+[17:15:32] [connection] incoming connection: 127.0.0.1:1028 id: 0
+[17:15:33] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:15:39] Number of vehicle models: 0
+[17:15:45] [part] Pavel_Topsky has left the server (0:2)
+[17:15:54] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[17:15:54] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[17:15:54]   Filterscript 'intermission.amx' loaded.
+[17:15:54] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:15:54] [SampSharp:INFO] Pipe created.
+[17:15:54] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:16:25] weburl = "www.sa-mp.com"  (string)
+[17:16:25] 
+[17:16:25] Server Plugins
+[17:16:25] --------------
+[17:16:25]  Loading plugin: SampSharp
+[17:16:25]   Loaded.
+[17:16:25]  Loaded 1 plugins.
+
+[17:16:26] 
+[17:16:26] Filterscripts
+[17:16:26] ---------------
+[17:16:26]   Loaded 0 filterscripts.
+
+[17:16:26]   Filterscript 'empty.amx' loaded.
+[17:16:26] 
+[17:16:26] SampSharp Plugin
+[17:16:26] ----------------
+[17:16:26] v0.8.0, (C)2014-2019 Tim Potze
+[17:16:26] 
+[17:16:26]   Filterscript 'intermission.amx' loaded.
+[17:16:26] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:16:26] [SampSharp:INFO] Pipe created.
+[17:16:26] Number of vehicle models: 0
+[17:16:26]   Filterscript 'intermission.amx' unloaded.
+[17:16:26] [SampSharp:INFO] Connected to client.
+[17:16:26] [SampSharp:INFO] Server announcement sent.
+[17:16:26] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:16:26] [SampSharp:INFO] The gamemode has started.
+[17:16:38] Number of vehicle models: 0
+[17:16:51] [connection] 127.0.0.1:1030 requests connection cookie.
+[17:16:52] [connection] incoming connection: 127.0.0.1:1030 id: 0
+[17:16:52] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:18:17] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:18:17] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:18:17]   Filterscript 'intermission.amx' loaded.
+[17:18:17] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:18:17] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:20:19] weburl = "www.sa-mp.com"  (string)
+[17:20:19] 
+[17:20:19] Server Plugins
+[17:20:19] --------------
+[17:20:19]  Loading plugin: SampSharp
+[17:20:19]   Loaded.
+[17:20:19]  Loaded 1 plugins.
+
+[17:20:19] 
+[17:20:19] Filterscripts
+[17:20:19] ---------------
+[17:20:19]   Loaded 0 filterscripts.
+
+[17:20:19]   Filterscript 'empty.amx' loaded.
+[17:20:19] 
+[17:20:19] SampSharp Plugin
+[17:20:19] ----------------
+[17:20:19] v0.8.0, (C)2014-2019 Tim Potze
+[17:20:19] 
+[17:20:19]   Filterscript 'intermission.amx' loaded.
+[17:20:19] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:20:19] [SampSharp:INFO] Pipe created.
+[17:20:19] Number of vehicle models: 0
+[17:20:20]   Filterscript 'intermission.amx' unloaded.
+[17:20:20] [SampSharp:INFO] Connected to client.
+[17:20:20] [SampSharp:INFO] Server announcement sent.
+[17:20:20] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:20:20] [SampSharp:INFO] The gamemode has started.
+[17:20:23] [connection] 127.0.0.1:9374 requests connection cookie.
+[17:20:24] [connection] incoming connection: 127.0.0.1:9374 id: 0
+[17:20:24] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:20:32] Number of vehicle models: 0
+[17:21:27] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:21:27] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:21:27]   Filterscript 'intermission.amx' loaded.
+[17:21:27] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:21:27] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:23:48] weburl = "www.sa-mp.com"  (string)
+[17:23:48] 
+[17:23:48] Server Plugins
+[17:23:48] --------------
+[17:23:48]  Loading plugin: SampSharp
+[17:23:48]   Loaded.
+[17:23:48]  Loaded 1 plugins.
+
+[17:23:48] 
+[17:23:48] Filterscripts
+[17:23:48] ---------------
+[17:23:48]   Loaded 0 filterscripts.
+
+[17:23:48]   Filterscript 'empty.amx' loaded.
+[17:23:48] 
+[17:23:48] SampSharp Plugin
+[17:23:48] ----------------
+[17:23:48] v0.8.0, (C)2014-2019 Tim Potze
+[17:23:48] 
+[17:23:48]   Filterscript 'intermission.amx' loaded.
+[17:23:48] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:23:49] [SampSharp:INFO] Pipe created.
+[17:23:49] Number of vehicle models: 0
+[17:23:49]   Filterscript 'intermission.amx' unloaded.
+[17:23:49] [SampSharp:INFO] Connected to client.
+[17:23:49] [SampSharp:INFO] Server announcement sent.
+[17:23:49] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:23:49] [SampSharp:INFO] The gamemode has started.
+[17:24:01] Number of vehicle models: 0
+[17:24:04] [connection] 127.0.0.1:9375 requests connection cookie.
+[17:24:05] [connection] incoming connection: 127.0.0.1:9375 id: 0
+[17:24:15] [connection] incoming connection: 127.0.0.1:9376 id: 0
+[17:24:15] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:24:48] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:24:48] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:24:48]   Filterscript 'intermission.amx' loaded.
+[17:24:48] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:24:48] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:26:10] weburl = "www.sa-mp.com"  (string)
+[17:26:10] 
+[17:26:10] Server Plugins
+[17:26:10] --------------
+[17:26:10]  Loading plugin: SampSharp
+[17:26:10]   Loaded.
+[17:26:10]  Loaded 1 plugins.
+
+[17:26:10] 
+[17:26:10] Filterscripts
+[17:26:10] ---------------
+[17:26:10]   Loaded 0 filterscripts.
+
+[17:26:10]   Filterscript 'empty.amx' loaded.
+[17:26:10] 
+[17:26:10] SampSharp Plugin
+[17:26:10] ----------------
+[17:26:10] v0.8.0, (C)2014-2019 Tim Potze
+[17:26:10] 
+[17:26:10]   Filterscript 'intermission.amx' loaded.
+[17:26:10] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:26:10] [SampSharp:INFO] Pipe created.
+[17:26:10] Number of vehicle models: 0
+[17:26:10]   Filterscript 'intermission.amx' unloaded.
+[17:26:10] [SampSharp:INFO] Connected to client.
+[17:26:10] [SampSharp:INFO] Server announcement sent.
+[17:26:10] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:26:10] [SampSharp:INFO] The gamemode has started.
+[17:26:12] [connection] 127.0.0.1:9377 requests connection cookie.
+[17:26:13] [connection] incoming connection: 127.0.0.1:9377 id: 0
+[17:26:14] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:26:22] Number of vehicle models: 0
+[17:26:44] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:26:44] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:26:44]   Filterscript 'intermission.amx' loaded.
+[17:26:44] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:26:44] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:31:12] weburl = "www.sa-mp.com"  (string)
+[17:31:12] 
+[17:31:12] Server Plugins
+[17:31:12] --------------
+[17:31:12]  Loading plugin: SampSharp
+[17:31:12]   Loaded.
+[17:31:12]  Loaded 1 plugins.
+
+[17:31:12] 
+[17:31:12] Filterscripts
+[17:31:12] ---------------
+[17:31:12]   Loaded 0 filterscripts.
+
+[17:31:12]   Filterscript 'empty.amx' loaded.
+[17:31:12] 
+[17:31:12] SampSharp Plugin
+[17:31:12] ----------------
+[17:31:12] v0.8.0, (C)2014-2019 Tim Potze
+[17:31:12] 
+[17:31:12]   Filterscript 'intermission.amx' loaded.
+[17:31:12] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:31:12] [SampSharp:INFO] Pipe created.
+[17:31:12] Number of vehicle models: 0
+[17:31:12]   Filterscript 'intermission.amx' unloaded.
+[17:31:12] [SampSharp:INFO] Connected to client.
+[17:31:12] [SampSharp:INFO] Server announcement sent.
+[17:31:12] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:31:12] [SampSharp:INFO] The gamemode has started.
+[17:31:13] [connection] 127.0.0.1:1028 requests connection cookie.
+[17:31:14] [connection] incoming connection: 127.0.0.1:1028 id: 0
+[17:31:14] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:31:24] Number of vehicle models: 0
+[17:31:46] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:31:46] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:31:46]   Filterscript 'intermission.amx' loaded.
+[17:31:46] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:31:46] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:33:34] weburl = "www.sa-mp.com"  (string)
+[17:33:34] 
+[17:33:34] Server Plugins
+[17:33:34] --------------
+[17:33:34]  Loading plugin: SampSharp
+[17:33:34]   Loaded.
+[17:33:34]  Loaded 1 plugins.
+
+[17:33:34] 
+[17:33:34] Filterscripts
+[17:33:34] ---------------
+[17:33:34]   Loaded 0 filterscripts.
+
+[17:33:34]   Filterscript 'empty.amx' loaded.
+[17:33:34] 
+[17:33:34] SampSharp Plugin
+[17:33:34] ----------------
+[17:33:34] v0.8.0, (C)2014-2019 Tim Potze
+[17:33:34] 
+[17:33:34]   Filterscript 'intermission.amx' loaded.
+[17:33:34] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:33:34] [SampSharp:INFO] Pipe created.
+[17:33:34] Number of vehicle models: 0
+[17:33:34]   Filterscript 'intermission.amx' unloaded.
+[17:33:34] [SampSharp:INFO] Connected to client.
+[17:33:34] [SampSharp:INFO] Server announcement sent.
+[17:33:34] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:33:35] [SampSharp:INFO] The gamemode has started.
+[17:33:38] [connection] 127.0.0.1:19535 requests connection cookie.
+[17:33:39] [connection] incoming connection: 127.0.0.1:19535 id: 0
+[17:33:39] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:33:47] Number of vehicle models: 0
+[17:34:07] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:34:07] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:34:07]   Filterscript 'intermission.amx' loaded.
+[17:34:07] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:34:07] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:37:16] weburl = "www.sa-mp.com"  (string)
+[17:37:16] 
+[17:37:16] Server Plugins
+[17:37:16] --------------
+[17:37:16]  Loading plugin: SampSharp
+[17:37:16]   Loaded.
+[17:37:16]  Loaded 1 plugins.
+
+[17:37:16] 
+[17:37:16] Filterscripts
+[17:37:16] ---------------
+[17:37:16]   Loaded 0 filterscripts.
+
+[17:37:16]   Filterscript 'empty.amx' loaded.
+[17:37:16] 
+[17:37:16] SampSharp Plugin
+[17:37:16] ----------------
+[17:37:16] v0.8.0, (C)2014-2019 Tim Potze
+[17:37:16] 
+[17:37:16]   Filterscript 'intermission.amx' loaded.
+[17:37:16] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:37:16] [SampSharp:INFO] Pipe created.
+[17:37:16] Number of vehicle models: 0
+[17:37:16]   Filterscript 'intermission.amx' unloaded.
+[17:37:16] [SampSharp:INFO] Connected to client.
+[17:37:16] [SampSharp:INFO] Server announcement sent.
+[17:37:16] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:37:17] [SampSharp:INFO] The gamemode has started.
+[17:37:22] [connection] 127.0.0.1:9104 requests connection cookie.
+[17:37:23] [connection] incoming connection: 127.0.0.1:9104 id: 0
+[17:37:23] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:37:29] Number of vehicle models: 0
+[17:37:52] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:37:52] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:37:52]   Filterscript 'intermission.amx' loaded.
+[17:37:52] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:37:52] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:38:37] weburl = "www.sa-mp.com"  (string)
+[17:38:37] 
+[17:38:37] Server Plugins
+[17:38:37] --------------
+[17:38:37]  Loading plugin: SampSharp
+[17:38:37]   Loaded.
+[17:38:37]  Loaded 1 plugins.
+
+[17:38:37] 
+[17:38:37] Filterscripts
+[17:38:37] ---------------
+[17:38:37]   Loaded 0 filterscripts.
+
+[17:38:37]   Filterscript 'empty.amx' loaded.
+[17:38:37] 
+[17:38:37] SampSharp Plugin
+[17:38:37] ----------------
+[17:38:37] v0.8.0, (C)2014-2019 Tim Potze
+[17:38:37] 
+[17:38:37]   Filterscript 'intermission.amx' loaded.
+[17:38:37] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:38:37] [SampSharp:INFO] Pipe created.
+[17:38:37] Number of vehicle models: 0
+[17:38:37]   Filterscript 'intermission.amx' unloaded.
+[17:38:37] [SampSharp:INFO] Connected to client.
+[17:38:37] [SampSharp:INFO] Server announcement sent.
+[17:38:37] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:38:37] [SampSharp:INFO] The gamemode has started.
+[17:38:38] [connection] 127.0.0.1:1028 requests connection cookie.
+[17:38:39] [connection] incoming connection: 127.0.0.1:1028 id: 0
+[17:38:39] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:38:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:39:51] weburl = "www.sa-mp.com"  (string)
+[17:39:51] 
+[17:39:51] Server Plugins
+[17:39:51] --------------
+[17:39:51]  Loading plugin: SampSharp
+[17:39:51]   Loaded.
+[17:39:51]  Loaded 1 plugins.
+
+[17:39:51] 
+[17:39:51] Filterscripts
+[17:39:51] ---------------
+[17:39:51]   Loaded 0 filterscripts.
+
+[17:39:51]   Filterscript 'empty.amx' loaded.
+[17:39:51] 
+[17:39:51] SampSharp Plugin
+[17:39:51] ----------------
+[17:39:51] v0.8.0, (C)2014-2019 Tim Potze
+[17:39:51] 
+[17:39:51]   Filterscript 'intermission.amx' loaded.
+[17:39:51] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:39:51] [SampSharp:INFO] Pipe created.
+[17:39:51] Number of vehicle models: 0
+[17:39:52]   Filterscript 'intermission.amx' unloaded.
+[17:39:52] [SampSharp:INFO] Connected to client.
+[17:39:52] [SampSharp:INFO] Server announcement sent.
+[17:39:52] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:39:52] [SampSharp:INFO] The gamemode has started.
+[17:39:53] [connection] 127.0.0.1:1030 requests connection cookie.
+[17:39:54] [connection] incoming connection: 127.0.0.1:1030 id: 0
+[17:39:54] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:40:04] Number of vehicle models: 0
+[17:40:32] [part] Pavel_Topsky has left the server (0:1)
+[17:40:36] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:40:36] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:40:36]   Filterscript 'intermission.amx' loaded.
+[17:40:36] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:40:36] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:41:13] weburl = "www.sa-mp.com"  (string)
+[17:41:13] 
+[17:41:13] Server Plugins
+[17:41:13] --------------
+[17:41:13]  Loading plugin: SampSharp
+[17:41:13]   Loaded.
+[17:41:13]  Loaded 1 plugins.
+
+[17:41:13] 
+[17:41:13] Filterscripts
+[17:41:13] ---------------
+[17:41:13]   Loaded 0 filterscripts.
+
+[17:41:13]   Filterscript 'empty.amx' loaded.
+[17:41:13] 
+[17:41:13] SampSharp Plugin
+[17:41:13] ----------------
+[17:41:13] v0.8.0, (C)2014-2019 Tim Potze
+[17:41:13] 
+[17:41:13]   Filterscript 'intermission.amx' loaded.
+[17:41:13] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:41:13] [SampSharp:INFO] Pipe created.
+[17:41:13] Number of vehicle models: 0
+[17:41:14]   Filterscript 'intermission.amx' unloaded.
+[17:41:14] [SampSharp:INFO] Connected to client.
+[17:41:14] [SampSharp:INFO] Server announcement sent.
+[17:41:14] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:41:14] [SampSharp:INFO] The gamemode has started.
+[17:41:26] Number of vehicle models: 0
+[17:41:30] [connection] 127.0.0.1:1031 requests connection cookie.
+[17:41:31] [connection] incoming connection: 127.0.0.1:1031 id: 0
+[17:41:31] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:41:51] [part] Pavel_Topsky has left the server (0:1)
+[17:41:53] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:41:53] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:41:53]   Filterscript 'intermission.amx' loaded.
+[17:41:53] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:41:53] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:45:00] weburl = "www.sa-mp.com"  (string)
+[17:45:00] 
+[17:45:00] Server Plugins
+[17:45:00] --------------
+[17:45:00]  Loading plugin: SampSharp
+[17:45:00]   Loaded.
+[17:45:00]  Loaded 1 plugins.
+
+[17:45:00] 
+[17:45:00] Filterscripts
+[17:45:00] ---------------
+[17:45:00]   Loaded 0 filterscripts.
+
+[17:45:00]   Filterscript 'empty.amx' loaded.
+[17:45:00] 
+[17:45:00] SampSharp Plugin
+[17:45:00] ----------------
+[17:45:00] v0.8.0, (C)2014-2019 Tim Potze
+[17:45:00] 
+[17:45:00]   Filterscript 'intermission.amx' loaded.
+[17:45:00] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:45:00] [SampSharp:INFO] Pipe created.
+[17:45:00] Number of vehicle models: 0
+[17:45:01]   Filterscript 'intermission.amx' unloaded.
+[17:45:01] [SampSharp:INFO] Connected to client.
+[17:45:01] [SampSharp:INFO] Server announcement sent.
+[17:45:01] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:45:01] [SampSharp:INFO] The gamemode has started.
+[17:45:13] Number of vehicle models: 0
+[17:45:17] [connection] 127.0.0.1:1032 requests connection cookie.
+[17:45:18] [connection] incoming connection: 127.0.0.1:1032 id: 0
+[17:45:19] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:45:41] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:45:41] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:45:41]   Filterscript 'intermission.amx' loaded.
+[17:45:41] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:45:41] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:46:16] weburl = "www.sa-mp.com"  (string)
+[17:46:16] 
+[17:46:16] Server Plugins
+[17:46:16] --------------
+[17:46:16]  Loading plugin: SampSharp
+[17:46:16]   Loaded.
+[17:46:16]  Loaded 1 plugins.
+
+[17:46:16] 
+[17:46:16] Filterscripts
+[17:46:16] ---------------
+[17:46:16]   Loaded 0 filterscripts.
+
+[17:46:16]   Filterscript 'empty.amx' loaded.
+[17:46:16] 
+[17:46:16] SampSharp Plugin
+[17:46:16] ----------------
+[17:46:16] v0.8.0, (C)2014-2019 Tim Potze
+[17:46:16] 
+[17:46:16]   Filterscript 'intermission.amx' loaded.
+[17:46:16] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:46:16] [SampSharp:INFO] Pipe created.
+[17:46:16] Number of vehicle models: 0
+[17:46:16]   Filterscript 'intermission.amx' unloaded.
+[17:46:16] [SampSharp:INFO] Connected to client.
+[17:46:16] [SampSharp:INFO] Server announcement sent.
+[17:46:16] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:46:16] [connection] 127.0.0.1:1033 requests connection cookie.
+[17:46:17] [SampSharp:INFO] The gamemode has started.
+[17:46:17] [connection] incoming connection: 127.0.0.1:1033 id: 0
+[17:46:18] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:46:29] Number of vehicle models: 0
+[17:46:52] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[17:46:52] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[17:46:52]   Filterscript 'intermission.amx' loaded.
+[17:46:52] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:46:52] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:58:43] weburl = "www.sa-mp.com"  (string)
+[17:58:43] 
+[17:58:43] Server Plugins
+[17:58:43] --------------
+[17:58:43]  Loading plugin: SampSharp
+[17:58:43]   Loaded.
+[17:58:43]  Loaded 1 plugins.
+
+[17:58:43] 
+[17:58:43] Filterscripts
+[17:58:43] ---------------
+[17:58:43]   Loaded 0 filterscripts.
+
+[17:58:43] [connection] 127.0.0.1:1033 requests connection cookie.
+[17:58:43]   Filterscript 'empty.amx' loaded.
+[17:58:43] 
+[17:58:43] SampSharp Plugin
+[17:58:43] ----------------
+[17:58:43] v0.8.0, (C)2014-2019 Tim Potze
+[17:58:43] 
+[17:58:43]   Filterscript 'intermission.amx' loaded.
+[17:58:43] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[17:58:43] [SampSharp:INFO] Pipe created.
+[17:58:43] Number of vehicle models: 0
+[17:58:43]   Filterscript 'intermission.amx' unloaded.
+[17:58:43] [SampSharp:INFO] Connected to client.
+[17:58:43] [SampSharp:INFO] Server announcement sent.
+[17:58:43] [SampSharp:INFO] Hi from E:\sampserver\env
+[17:58:44] [SampSharp:INFO] The gamemode has started.
+[17:58:48] [connection] incoming connection: 127.0.0.1:1034 id: 0
+[17:58:49] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[17:58:56] Number of vehicle models: 0
+[18:00:08] [part] Pavel_Topsky has left the server (0:1)
+[18:00:20] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[18:00:20] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[18:00:20]   Filterscript 'intermission.amx' loaded.
+[18:00:20] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:00:20] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:17:08] weburl = "www.sa-mp.com"  (string)
+[18:17:08] 
+[18:17:08] Server Plugins
+[18:17:08] --------------
+[18:17:08]  Loading plugin: SampSharp
+[18:17:08]   Loaded.
+[18:17:08]  Loaded 1 plugins.
+
+[18:17:08] 
+[18:17:08] Filterscripts
+[18:17:08] ---------------
+[18:17:08]   Loaded 0 filterscripts.
+
+[18:17:08]   Filterscript 'empty.amx' loaded.
+[18:17:08] 
+[18:17:08] SampSharp Plugin
+[18:17:08] ----------------
+[18:17:08] v0.8.0, (C)2014-2019 Tim Potze
+[18:17:08] 
+[18:17:08]   Filterscript 'intermission.amx' loaded.
+[18:17:08] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:17:08] [SampSharp:INFO] Pipe created.
+[18:17:08] Number of vehicle models: 0
+[18:17:08]   Filterscript 'intermission.amx' unloaded.
+[18:17:08] [SampSharp:INFO] Connected to client.
+[18:17:08] [SampSharp:INFO] Server announcement sent.
+[18:17:08] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:17:09] [SampSharp:INFO] The gamemode has started.
+[18:17:21] Number of vehicle models: 0
+[18:17:25] [connection] 127.0.0.1:1031 requests connection cookie.
+[18:17:26] [connection] incoming connection: 127.0.0.1:1031 id: 0
+[18:17:26] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[18:17:42] [part] Pavel_Topsky has left the server (0:1)
+[18:17:45] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[18:17:45] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[18:17:45]   Filterscript 'intermission.amx' loaded.
+[18:17:45] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:17:45] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:19:21] weburl = "www.sa-mp.com"  (string)
+[18:19:21] 
+[18:19:21] Server Plugins
+[18:19:21] --------------
+[18:19:21]  Loading plugin: SampSharp
+[18:19:21]   Loaded.
+[18:19:21]  Loaded 1 plugins.
+
+[18:19:21] 
+[18:19:21] Filterscripts
+[18:19:21] ---------------
+[18:19:21]   Loaded 0 filterscripts.
+
+[18:19:21]   Filterscript 'empty.amx' loaded.
+[18:19:21] 
+[18:19:21] SampSharp Plugin
+[18:19:21] ----------------
+[18:19:21] v0.8.0, (C)2014-2019 Tim Potze
+[18:19:21] 
+[18:19:21]   Filterscript 'intermission.amx' loaded.
+[18:19:21] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:19:21] [SampSharp:INFO] Pipe created.
+[18:19:21] Number of vehicle models: 0
+[18:19:21]   Filterscript 'intermission.amx' unloaded.
+[18:19:21] [SampSharp:INFO] Connected to client.
+[18:19:21] [SampSharp:INFO] Server announcement sent.
+[18:19:21] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:19:22] [SampSharp:INFO] The gamemode has started.
+[18:19:34] Number of vehicle models: 0
+[18:19:37] [connection] 127.0.0.1:23166 requests connection cookie.
+[18:19:38] [connection] incoming connection: 127.0.0.1:23166 id: 0
+[18:19:38] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[18:19:52] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[18:19:52] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[18:19:52]   Filterscript 'intermission.amx' loaded.
+[18:19:52] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:19:52] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:21:42] weburl = "www.sa-mp.com"  (string)
+[18:21:42] 
+[18:21:42] Server Plugins
+[18:21:42] --------------
+[18:21:42]  Loading plugin: SampSharp
+[18:21:42]   Loaded.
+[18:21:42]  Loaded 1 plugins.
+
+[18:21:42] 
+[18:21:42] Filterscripts
+[18:21:42] ---------------
+[18:21:42]   Loaded 0 filterscripts.
+
+[18:21:42]   Filterscript 'empty.amx' loaded.
+[18:21:42] 
+[18:21:42] SampSharp Plugin
+[18:21:42] ----------------
+[18:21:42] v0.8.0, (C)2014-2019 Tim Potze
+[18:21:42] 
+[18:21:42]   Filterscript 'intermission.amx' loaded.
+[18:21:42] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:21:42] [SampSharp:INFO] Pipe created.
+[18:21:42] Number of vehicle models: 0
+[18:21:42] [connection] 127.0.0.1:1056 requests connection cookie.
+[18:21:42]   Filterscript 'intermission.amx' unloaded.
+[18:21:42] [SampSharp:INFO] Connected to client.
+[18:21:42] [SampSharp:INFO] Server announcement sent.
+[18:21:42] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:21:43] [SampSharp:INFO] The gamemode has started.
+[18:21:43] [connection] incoming connection: 127.0.0.1:1056 id: 0
+[18:21:45] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[18:21:55] Number of vehicle models: 0
+[18:22:11] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[18:22:11] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[18:22:11]   Filterscript 'intermission.amx' loaded.
+[18:22:11] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:22:11] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:24:08] weburl = "www.sa-mp.com"  (string)
+[18:24:08] 
+[18:24:08] Server Plugins
+[18:24:08] --------------
+[18:24:08]  Loading plugin: SampSharp
+[18:24:08]   Loaded.
+[18:24:08]  Loaded 1 plugins.
+
+[18:24:08] 
+[18:24:08] Filterscripts
+[18:24:08] ---------------
+[18:24:08]   Loaded 0 filterscripts.
+
+[18:24:08]   Filterscript 'empty.amx' loaded.
+[18:24:08] 
+[18:24:08] SampSharp Plugin
+[18:24:08] ----------------
+[18:24:08] v0.8.0, (C)2014-2019 Tim Potze
+[18:24:08] 
+[18:24:08]   Filterscript 'intermission.amx' loaded.
+[18:24:08] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:24:08] [SampSharp:INFO] Pipe created.
+[18:24:08] Number of vehicle models: 0
+[18:24:08]   Filterscript 'intermission.amx' unloaded.
+[18:24:08] [SampSharp:INFO] Connected to client.
+[18:24:08] [SampSharp:INFO] Server announcement sent.
+[18:24:08] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:24:09] [SampSharp:INFO] The gamemode has started.
+[18:24:09] [connection] 127.0.0.1:1045 requests connection cookie.
+[18:24:10] [connection] incoming connection: 127.0.0.1:1045 id: 0
+[18:24:18] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[18:24:21] Number of vehicle models: 0
+[18:38:57] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[18:38:57] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[18:38:57]   Filterscript 'intermission.amx' loaded.
+[18:38:57] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:38:57] [SampSharp:INFO] Pipe created.
+[18:38:57] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:44:57] weburl = "www.sa-mp.com"  (string)
+[18:44:57] 
+[18:44:57] Server Plugins
+[18:44:57] --------------
+[18:44:57]  Loading plugin: SampSharp
+[18:44:57]   Loaded.
+[18:44:57]  Loaded 1 plugins.
+
+[18:44:57] 
+[18:44:57] Filterscripts
+[18:44:57] ---------------
+[18:44:57]   Loaded 0 filterscripts.
+
+[18:44:57]   Filterscript 'empty.amx' loaded.
+[18:44:57] 
+[18:44:57] SampSharp Plugin
+[18:44:57] ----------------
+[18:44:57] v0.8.0, (C)2014-2019 Tim Potze
+[18:44:57] 
+[18:44:57]   Filterscript 'intermission.amx' loaded.
+[18:44:57] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:44:57] [SampSharp:INFO] Pipe created.
+[18:44:57] Number of vehicle models: 0
+[18:44:58]   Filterscript 'intermission.amx' unloaded.
+[18:44:58] [SampSharp:INFO] Connected to client.
+[18:44:58] [SampSharp:INFO] Server announcement sent.
+[18:44:58] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:44:58] [connection] 127.0.0.1:2225 requests connection cookie.
+[18:44:58] [SampSharp:INFO] The gamemode has started.
+[18:44:59] [connection] incoming connection: 127.0.0.1:2225 id: 0
+[18:45:00] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[18:45:10] Number of vehicle models: 0
+[18:46:02] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[18:46:02] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[18:46:02]   Filterscript 'intermission.amx' loaded.
+[18:46:02] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:46:02] [SampSharp:INFO] Pipe created.
+[18:46:02] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:48:32] weburl = "www.sa-mp.com"  (string)
+[18:48:32] 
+[18:48:32] Server Plugins
+[18:48:32] --------------
+[18:48:32]  Loading plugin: SampSharp
+[18:48:32]   Loaded.
+[18:48:32]  Loaded 1 plugins.
+
+[18:48:32] 
+[18:48:32] Filterscripts
+[18:48:32] ---------------
+[18:48:32]   Loaded 0 filterscripts.
+
+[18:48:32]   Filterscript 'empty.amx' loaded.
+[18:48:32] 
+[18:48:32] SampSharp Plugin
+[18:48:32] ----------------
+[18:48:32] v0.8.0, (C)2014-2019 Tim Potze
+[18:48:32] 
+[18:48:32]   Filterscript 'intermission.amx' loaded.
+[18:48:32] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:48:32] [SampSharp:INFO] Pipe created.
+[18:48:32] Number of vehicle models: 0
+[18:48:32] [connection] 127.0.0.1:1044 requests connection cookie.
+[18:48:32]   Filterscript 'intermission.amx' unloaded.
+[18:48:32] [SampSharp:INFO] Connected to client.
+[18:48:32] [SampSharp:INFO] Server announcement sent.
+[18:48:32] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:48:33] [SampSharp:INFO] The gamemode has started.
+[18:48:35] [connection] incoming connection: 127.0.0.1:1036 id: 0
+[18:48:36] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[18:48:45] Number of vehicle models: 0
+[18:50:26] [part] Pavel_Topsky has left the server (0:2)
+[18:50:39] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[18:50:39] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[18:50:39]   Filterscript 'intermission.amx' loaded.
+[18:50:39] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:50:39] [SampSharp:INFO] Pipe created.
+[18:50:39] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:53:13] weburl = "www.sa-mp.com"  (string)
+[18:53:13] 
+[18:53:13] Server Plugins
+[18:53:13] --------------
+[18:53:13]  Loading plugin: SampSharp
+[18:53:13]   Loaded.
+[18:53:13]  Loaded 1 plugins.
+
+[18:53:13] 
+[18:53:13] Filterscripts
+[18:53:13] ---------------
+[18:53:13]   Loaded 0 filterscripts.
+
+[18:53:13]   Filterscript 'empty.amx' loaded.
+[18:53:13] 
+[18:53:13] SampSharp Plugin
+[18:53:13] ----------------
+[18:53:13] v0.8.0, (C)2014-2019 Tim Potze
+[18:53:13] 
+[18:53:13]   Filterscript 'intermission.amx' loaded.
+[18:53:13] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:53:13] [SampSharp:INFO] Pipe created.
+[18:53:13] Number of vehicle models: 0
+[18:53:14]   Filterscript 'intermission.amx' unloaded.
+[18:53:14] [SampSharp:INFO] Connected to client.
+[18:53:14] [SampSharp:INFO] Server announcement sent.
+[18:53:14] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:53:14] [SampSharp:INFO] The gamemode has started.
+[18:53:26] Number of vehicle models: 0
+[18:53:35] [connection] 127.0.0.1:1040 requests connection cookie.
+[18:53:36] [connection] incoming connection: 127.0.0.1:1040 id: 0
+[18:53:36] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[18:53:49] [part] Pavel_Topsky has left the server (0:2)
+[18:54:12] [connection] 127.0.0.1:1054 requests connection cookie.
+[18:54:43] Kicking 127.0.0.1 because they didn't logon to the game.
+[18:54:51] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[18:54:51] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[18:54:51]   Filterscript 'intermission.amx' loaded.
+[18:54:51] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:54:51] [SampSharp:INFO] Pipe created.
+[18:54:51] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+[18:54:51] [connection] incoming connection: 127.0.0.1:1054 id: 0
+[18:54:51] Invalid client connecting from 127.0.0.1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:54:58] weburl = "www.sa-mp.com"  (string)
+[18:54:58] 
+[18:54:58] Server Plugins
+[18:54:58] --------------
+[18:54:58]  Loading plugin: SampSharp
+[18:54:58]   Loaded.
+[18:54:58]  Loaded 1 plugins.
+
+[18:54:58] 
+[18:54:58] Filterscripts
+[18:54:58] ---------------
+[18:54:58]   Loaded 0 filterscripts.
+
+[18:54:58]   Filterscript 'empty.amx' loaded.
+[18:54:58] 
+[18:54:58] SampSharp Plugin
+[18:54:58] ----------------
+[18:54:58] v0.8.0, (C)2014-2019 Tim Potze
+[18:54:58] 
+[18:54:58]   Filterscript 'intermission.amx' loaded.
+[18:54:58] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:54:58] [SampSharp:INFO] Pipe created.
+[18:54:58] Number of vehicle models: 0
+[18:54:59]   Filterscript 'intermission.amx' unloaded.
+[18:54:59] [SampSharp:INFO] Connected to client.
+[18:54:59] [SampSharp:INFO] Server announcement sent.
+[18:54:59] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:54:59] [SampSharp:INFO] The gamemode has started.
+[18:55:11] Number of vehicle models: 0
+[18:56:45] [connection] 127.0.0.1:20685 requests connection cookie.
+[18:56:46] [connection] incoming connection: 127.0.0.1:20685 id: 0
+[18:56:46] [join] Pavel_Topsky123 has joined the server (0:127.0.0.1)
+[18:57:05] [part] Pavel_Topsky123 has left the server (0:1)
+[18:57:12] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[18:57:12] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[18:57:12]   Filterscript 'intermission.amx' loaded.
+[18:57:12] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:57:12] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:57:20] weburl = "www.sa-mp.com"  (string)
+[18:57:20] 
+[18:57:20] Server Plugins
+[18:57:20] --------------
+[18:57:20]  Loading plugin: SampSharp
+[18:57:20]   Loaded.
+[18:57:20]  Loaded 1 plugins.
+
+[18:57:20] 
+[18:57:20] Filterscripts
+[18:57:20] ---------------
+[18:57:20]   Loaded 0 filterscripts.
+
+[18:57:20]   Filterscript 'empty.amx' loaded.
+[18:57:20] 
+[18:57:20] SampSharp Plugin
+[18:57:20] ----------------
+[18:57:20] v0.8.0, (C)2014-2019 Tim Potze
+[18:57:20] 
+[18:57:20]   Filterscript 'intermission.amx' loaded.
+[18:57:20] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:57:20] [SampSharp:INFO] Pipe created.
+[18:57:20] Number of vehicle models: 0
+[18:57:20]   Filterscript 'intermission.amx' unloaded.
+[18:57:20] [SampSharp:INFO] Connected to client.
+[18:57:20] [SampSharp:INFO] Server announcement sent.
+[18:57:20] [SampSharp:INFO] Hi from E:\sampserver\env
+[18:57:21] [SampSharp:INFO] The gamemode has started.
+[18:57:33] Number of vehicle models: 0
+[18:57:41] [connection] 127.0.0.1:29519 requests connection cookie.
+[18:57:42] [connection] incoming connection: 127.0.0.1:29519 id: 0
+[18:57:42] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[18:57:47] [part] Pavel_Topsky has left the server (0:2)
+[18:58:08] [connection] 127.0.0.1:29532 requests connection cookie.
+[18:58:39] Kicking 127.0.0.1 because they didn't logon to the game.
+[18:58:48] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[18:58:48] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[18:58:48]   Filterscript 'intermission.amx' loaded.
+[18:58:48] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[18:58:48] [SampSharp:INFO] Pipe created.
+[18:58:48] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+[18:58:48] [connection] incoming connection: 127.0.0.1:29532 id: 0
+[18:58:48] Invalid client connecting from 127.0.0.1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:36:57] weburl = "www.sa-mp.com"  (string)
+[20:36:57] 
+[20:36:57] Server Plugins
+[20:36:57] --------------
+[20:36:57]  Loading plugin: SampSharp
+[20:36:57]   Loaded.
+[20:36:57]  Loaded 1 plugins.
+
+[20:36:57] 
+[20:36:57] Filterscripts
+[20:36:57] ---------------
+[20:36:57]   Loaded 0 filterscripts.
+
+[20:36:57]   Filterscript 'empty.amx' loaded.
+[20:36:57] 
+[20:36:57] SampSharp Plugin
+[20:36:57] ----------------
+[20:36:57] v0.8.0, (C)2014-2019 Tim Potze
+[20:36:57] 
+[20:36:57]   Filterscript 'intermission.amx' loaded.
+[20:36:57] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:36:57] [SampSharp:INFO] Pipe created.
+[20:36:57] Number of vehicle models: 0
+[20:36:57]   Filterscript 'intermission.amx' unloaded.
+[20:36:57] [SampSharp:INFO] Connected to client.
+[20:36:57] [SampSharp:INFO] Server announcement sent.
+[20:36:57] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:36:58] [SampSharp:INFO] The gamemode has started.
+[20:37:10] Number of vehicle models: 0
+[20:37:17] [connection] 127.0.0.1:1391 requests connection cookie.
+[20:37:18] [connection] incoming connection: 127.0.0.1:1391 id: 0
+[20:37:18] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:37:38] [part] Pavel_Topsky has left the server (0:1)
+[20:37:43] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[20:37:43] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[20:37:43]   Filterscript 'intermission.amx' loaded.
+[20:37:43] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:37:43] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:58:51] weburl = "www.sa-mp.com"  (string)
+[20:58:51] 
+[20:58:51] Server Plugins
+[20:58:51] --------------
+[20:58:51]  Loading plugin: SampSharp
+[20:58:51]   Loaded.
+[20:58:52]  Loaded 1 plugins.
+
+[20:58:52] 
+[20:58:52] Filterscripts
+[20:58:52] ---------------
+[20:58:52]   Loaded 0 filterscripts.
+
+[20:58:52]   Filterscript 'empty.amx' loaded.
+[20:58:52] 
+[20:58:52] SampSharp Plugin
+[20:58:52] ----------------
+[20:58:52] v0.8.0, (C)2014-2019 Tim Potze
+[20:58:52] 
+[20:58:52]   Filterscript 'intermission.amx' loaded.
+[20:58:52] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:58:52] [SampSharp:INFO] Pipe created.
+[20:58:52] Number of vehicle models: 0
+[20:58:52]   Filterscript 'intermission.amx' unloaded.
+[20:58:52] [SampSharp:INFO] Connected to client.
+[20:58:52] [SampSharp:INFO] Server announcement sent.
+[20:58:52] [SampSharp:INFO] Hi from E:\sampserver\env
+[20:58:52] [SampSharp:INFO] The gamemode has started.
+[20:59:04] Number of vehicle models: 0
+[20:59:06] [connection] 127.0.0.1:1456 requests connection cookie.
+[20:59:07] [connection] incoming connection: 127.0.0.1:1456 id: 0
+[20:59:07] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[20:59:55] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[20:59:55] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[20:59:55]   Filterscript 'intermission.amx' loaded.
+[20:59:55] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[20:59:55] [SampSharp:INFO] Pipe created.
+[20:59:55] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:00:54] weburl = "www.sa-mp.com"  (string)
+[21:00:54] 
+[21:00:54] Server Plugins
+[21:00:54] --------------
+[21:00:54]  Loading plugin: SampSharp
+[21:00:54]   Loaded.
+[21:00:54]  Loaded 1 plugins.
+
+[21:00:54] 
+[21:00:54] Filterscripts
+[21:00:54] ---------------
+[21:00:54]   Loaded 0 filterscripts.
+
+[21:00:54]   Filterscript 'empty.amx' loaded.
+[21:00:54] 
+[21:00:54] SampSharp Plugin
+[21:00:54] ----------------
+[21:00:54] v0.8.0, (C)2014-2019 Tim Potze
+[21:00:54] 
+[21:00:54]   Filterscript 'intermission.amx' loaded.
+[21:00:54] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:00:54] [SampSharp:INFO] Pipe created.
+[21:00:54] Number of vehicle models: 0
+[21:00:54]   Filterscript 'intermission.amx' unloaded.
+[21:00:54] [SampSharp:INFO] Connected to client.
+[21:00:54] [SampSharp:INFO] Server announcement sent.
+[21:00:54] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:00:54] [SampSharp:INFO] The gamemode has started.
+[21:00:56] [connection] 127.0.0.1:1464 requests connection cookie.
+[21:00:57] [connection] incoming connection: 127.0.0.1:1464 id: 0
+[21:00:57] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:01:07] Number of vehicle models: 0
+[21:01:26] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[21:01:26] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[21:01:26]   Filterscript 'intermission.amx' loaded.
+[21:01:26] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:01:26] [SampSharp:INFO] Pipe created.
+[21:01:26] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:10:14] weburl = "www.sa-mp.com"  (string)
+[21:10:14] 
+[21:10:14] Server Plugins
+[21:10:14] --------------
+[21:10:14]  Loading plugin: SampSharp
+[21:10:14]   Loaded.
+[21:10:14]  Loaded 1 plugins.
+
+[21:10:14] 
+[21:10:14] Filterscripts
+[21:10:14] ---------------
+[21:10:14]   Loaded 0 filterscripts.
+
+[21:10:14]   Filterscript 'empty.amx' loaded.
+[21:10:14] 
+[21:10:14] SampSharp Plugin
+[21:10:14] ----------------
+[21:10:14] v0.8.0, (C)2014-2019 Tim Potze
+[21:10:14] 
+[21:10:14]   Filterscript 'intermission.amx' loaded.
+[21:10:14] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:10:14] [SampSharp:INFO] Pipe created.
+[21:10:14] Number of vehicle models: 0
+[21:10:15]   Filterscript 'intermission.amx' unloaded.
+[21:10:15] [SampSharp:INFO] Connected to client.
+[21:10:15] [SampSharp:INFO] Server announcement sent.
+[21:10:15] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:10:15] [SampSharp:INFO] The gamemode has started.
+[21:10:27] Number of vehicle models: 0
+[21:10:30] [connection] 127.0.0.1:1496 requests connection cookie.
+[21:10:31] [connection] incoming connection: 127.0.0.1:1496 id: 0
+[21:10:31] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:11:28] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:11:28] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:11:28]   Filterscript 'intermission.amx' loaded.
+[21:11:28] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:11:28] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:13:15] weburl = "www.sa-mp.com"  (string)
+[21:13:15] 
+[21:13:15] Server Plugins
+[21:13:15] --------------
+[21:13:15]  Loading plugin: SampSharp
+[21:13:15]   Loaded.
+[21:13:15]  Loaded 1 plugins.
+
+[21:13:15] 
+[21:13:15] Filterscripts
+[21:13:15] ---------------
+[21:13:15]   Loaded 0 filterscripts.
+
+[21:13:15]   Filterscript 'empty.amx' loaded.
+[21:13:15] 
+[21:13:15] SampSharp Plugin
+[21:13:15] ----------------
+[21:13:15] v0.8.0, (C)2014-2019 Tim Potze
+[21:13:15] 
+[21:13:15]   Filterscript 'intermission.amx' loaded.
+[21:13:15] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:13:15] [SampSharp:INFO] Pipe created.
+[21:13:15] Number of vehicle models: 0
+[21:13:15]   Filterscript 'intermission.amx' unloaded.
+[21:13:15] [SampSharp:INFO] Connected to client.
+[21:13:15] [SampSharp:INFO] Server announcement sent.
+[21:13:15] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:13:15] [connection] 127.0.0.1:1505 requests connection cookie.
+[21:13:16] [SampSharp:INFO] The gamemode has started.
+[21:13:16] [connection] incoming connection: 127.0.0.1:1505 id: 0
+[21:13:22] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:13:28] Number of vehicle models: 0
+[21:13:42] [part] Pavel_Topsky has left the server (0:1)
+[21:13:59] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:13:59] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:13:59]   Filterscript 'intermission.amx' loaded.
+[21:13:59] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:13:59] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:14:03] weburl = "www.sa-mp.com"  (string)
+[21:14:03] 
+[21:14:03] Server Plugins
+[21:14:03] --------------
+[21:14:03]  Loading plugin: SampSharp
+[21:14:03]   Loaded.
+[21:14:03]  Loaded 1 plugins.
+
+[21:14:03] 
+[21:14:03] Filterscripts
+[21:14:03] ---------------
+[21:14:03]   Loaded 0 filterscripts.
+
+[21:14:03]   Filterscript 'empty.amx' loaded.
+[21:14:04] 
+[21:14:04] SampSharp Plugin
+[21:14:04] ----------------
+[21:14:04] v0.8.0, (C)2014-2019 Tim Potze
+[21:14:04] 
+[21:14:04]   Filterscript 'intermission.amx' loaded.
+[21:14:04] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:14:04] [SampSharp:INFO] Pipe created.
+[21:14:04] Number of vehicle models: 0
+[21:14:04]   Filterscript 'intermission.amx' unloaded.
+[21:14:04] [SampSharp:INFO] Connected to client.
+[21:14:04] [SampSharp:INFO] Server announcement sent.
+[21:14:04] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:14:04] [SampSharp:INFO] The gamemode has started.
+[21:14:16] Number of vehicle models: 0
+[21:14:19] [connection] 127.0.0.1:1508 requests connection cookie.
+[21:14:20] [connection] incoming connection: 127.0.0.1:1508 id: 0
+[21:14:20] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:15:15] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[21:15:15] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[21:15:15]   Filterscript 'intermission.amx' loaded.
+[21:15:15] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:15:15] [SampSharp:INFO] Pipe created.
+[21:15:15] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:38] weburl = "www.sa-mp.com"  (string)
+[21:15:38] 
+[21:15:38] Server Plugins
+[21:15:38] --------------
+[21:15:38]  Loading plugin: SampSharp
+[21:15:38]   Loaded.
+[21:15:38]  Loaded 1 plugins.
+
+[21:15:39] 
+[21:15:39] Filterscripts
+[21:15:39] ---------------
+[21:15:39]   Loaded 0 filterscripts.
+
+[21:15:39]   Filterscript 'empty.amx' loaded.
+[21:15:39] 
+[21:15:39] SampSharp Plugin
+[21:15:39] ----------------
+[21:15:39] v0.8.0, (C)2014-2019 Tim Potze
+[21:15:39] 
+[21:15:39]   Filterscript 'intermission.amx' loaded.
+[21:15:39] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:15:39] [SampSharp:INFO] Pipe created.
+[21:15:39] Number of vehicle models: 0
+[21:15:39]   Filterscript 'intermission.amx' unloaded.
+[21:15:39] [SampSharp:INFO] Connected to client.
+[21:15:39] [SampSharp:INFO] Server announcement sent.
+[21:15:39] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:15:39] [connection] 127.0.0.1:1512 requests connection cookie.
+[21:15:39] [SampSharp:INFO] The gamemode has started.
+[21:15:40] [connection] incoming connection: 127.0.0.1:1512 id: 0
+[21:15:51] Number of vehicle models: 0
+[21:19:05] [connection] incoming connection: 127.0.0.1:1519 id: 0
+[21:19:05] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:19:32] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:19:32] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:19:32]   Filterscript 'intermission.amx' loaded.
+[21:19:32] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:19:32] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:19:38] weburl = "www.sa-mp.com"  (string)
+[21:19:38] 
+[21:19:38] Server Plugins
+[21:19:38] --------------
+[21:19:38]  Loading plugin: SampSharp
+[21:19:38]   Loaded.
+[21:19:38]  Loaded 1 plugins.
+
+[21:19:39] 
+[21:19:39] Filterscripts
+[21:19:39] ---------------
+[21:19:39]   Loaded 0 filterscripts.
+
+[21:19:39]   Filterscript 'empty.amx' loaded.
+[21:19:39] 
+[21:19:39] SampSharp Plugin
+[21:19:39] ----------------
+[21:19:39] v0.8.0, (C)2014-2019 Tim Potze
+[21:19:39] 
+[21:19:39]   Filterscript 'intermission.amx' loaded.
+[21:19:39] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:19:39] [SampSharp:INFO] Pipe created.
+[21:19:39] Number of vehicle models: 0
+[21:19:39]   Filterscript 'intermission.amx' unloaded.
+[21:19:39] [SampSharp:INFO] Connected to client.
+[21:19:39] [SampSharp:INFO] Server announcement sent.
+[21:19:39] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:19:39] [SampSharp:INFO] The gamemode has started.
+[21:19:46] [connection] 127.0.0.1:1523 requests connection cookie.
+[21:19:47] [connection] incoming connection: 127.0.0.1:1523 id: 0
+[21:19:47] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:19:51] Number of vehicle models: 0
+[21:20:22] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[21:20:22] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[21:20:22]   Filterscript 'intermission.amx' loaded.
+[21:20:22] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:20:22] [SampSharp:INFO] Pipe created.
+[21:20:22] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:20] weburl = "www.sa-mp.com"  (string)
+[21:21:20] 
+[21:21:20] Server Plugins
+[21:21:20] --------------
+[21:21:20]  Loading plugin: SampSharp
+[21:21:20]   Loaded.
+[21:21:20]  Loaded 1 plugins.
+
+[21:21:20] 
+[21:21:20] Filterscripts
+[21:21:20] ---------------
+[21:21:20]   Loaded 0 filterscripts.
+
+[21:21:20]   Filterscript 'empty.amx' loaded.
+[21:21:20] 
+[21:21:20] SampSharp Plugin
+[21:21:20] ----------------
+[21:21:20] v0.8.0, (C)2014-2019 Tim Potze
+[21:21:20] 
+[21:21:20]   Filterscript 'intermission.amx' loaded.
+[21:21:20] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:21:20] [SampSharp:INFO] Pipe created.
+[21:21:20] Number of vehicle models: 0
+[21:21:20] [connection] 127.0.0.1:1531 requests connection cookie.
+[21:21:20]   Filterscript 'intermission.amx' unloaded.
+[21:21:20] [SampSharp:INFO] Connected to client.
+[21:21:20] [SampSharp:INFO] Server announcement sent.
+[21:21:20] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:21:20] [SampSharp:INFO] The gamemode has started.
+[21:21:21] [connection] incoming connection: 127.0.0.1:1531 id: 0
+[21:21:22] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:21:33] Number of vehicle models: 0
+[21:22:24] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[21:22:24] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[21:22:24]   Filterscript 'intermission.amx' loaded.
+[21:22:24] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:22:24] [SampSharp:INFO] Pipe created.
+[21:22:24] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:40] weburl = "www.sa-mp.com"  (string)
+[21:22:40] 
+[21:22:40] Server Plugins
+[21:22:40] --------------
+[21:22:40]  Loading plugin: SampSharp
+[21:22:40]   Loaded.
+[21:22:40]  Loaded 1 plugins.
+
+[21:22:40] 
+[21:22:40] Filterscripts
+[21:22:40] ---------------
+[21:22:40]   Loaded 0 filterscripts.
+
+[21:22:40]   Filterscript 'empty.amx' loaded.
+[21:22:40] 
+[21:22:40] SampSharp Plugin
+[21:22:40] ----------------
+[21:22:40] v0.8.0, (C)2014-2019 Tim Potze
+[21:22:40] 
+[21:22:40]   Filterscript 'intermission.amx' loaded.
+[21:22:40] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:22:40] [SampSharp:INFO] Pipe created.
+[21:22:40] Number of vehicle models: 0
+[21:22:41]   Filterscript 'intermission.amx' unloaded.
+[21:22:41] [SampSharp:INFO] Connected to client.
+[21:22:41] [SampSharp:INFO] Server announcement sent.
+[21:22:41] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:22:41] [SampSharp:INFO] The gamemode has started.
+[21:22:49] [connection] 127.0.0.1:1535 requests connection cookie.
+[21:22:50] [connection] incoming connection: 127.0.0.1:1535 id: 0
+[21:22:51] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:22:53] Number of vehicle models: 0
+[21:23:32] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:23:32] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:23:32]   Filterscript 'intermission.amx' loaded.
+[21:23:32] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:23:32] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:24:19] weburl = "www.sa-mp.com"  (string)
+[21:24:19] 
+[21:24:19] Server Plugins
+[21:24:19] --------------
+[21:24:19]  Loading plugin: SampSharp
+[21:24:19]   Loaded.
+[21:24:19]  Loaded 1 plugins.
+
+[21:24:19] 
+[21:24:19] Filterscripts
+[21:24:19] ---------------
+[21:24:19]   Loaded 0 filterscripts.
+
+[21:24:19]   Filterscript 'empty.amx' loaded.
+[21:24:19] 
+[21:24:19] SampSharp Plugin
+[21:24:19] ----------------
+[21:24:19] v0.8.0, (C)2014-2019 Tim Potze
+[21:24:19] 
+[21:24:19]   Filterscript 'intermission.amx' loaded.
+[21:24:19] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:24:19] [SampSharp:INFO] Pipe created.
+[21:24:19] Number of vehicle models: 0
+[21:24:19] [connection] 127.0.0.1:1539 requests connection cookie.
+[21:24:20]   Filterscript 'intermission.amx' unloaded.
+[21:24:20] [SampSharp:INFO] Connected to client.
+[21:24:20] [SampSharp:INFO] Server announcement sent.
+[21:24:20] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:24:20] [SampSharp:INFO] The gamemode has started.
+[21:24:23] [connection] incoming connection: 127.0.0.1:1541 id: 0
+[21:24:23] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:24:32] Number of vehicle models: 0
+[21:24:48] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:24:48] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:24:48]   Filterscript 'intermission.amx' loaded.
+[21:24:48] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:24:48] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:32:05] weburl = "www.sa-mp.com"  (string)
+[21:32:05] 
+[21:32:05] Server Plugins
+[21:32:05] --------------
+[21:32:05]  Loading plugin: SampSharp
+[21:32:05]   Loaded.
+[21:32:05]  Loaded 1 plugins.
+
+[21:32:06] 
+[21:32:06] Filterscripts
+[21:32:06] ---------------
+[21:32:06]   Loaded 0 filterscripts.
+
+[21:32:06]   Filterscript 'empty.amx' loaded.
+[21:32:06] 
+[21:32:06] SampSharp Plugin
+[21:32:06] ----------------
+[21:32:06] v0.8.0, (C)2014-2019 Tim Potze
+[21:32:06] 
+[21:32:06]   Filterscript 'intermission.amx' loaded.
+[21:32:06] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:32:06] [SampSharp:INFO] Pipe created.
+[21:32:06] Number of vehicle models: 0
+[21:32:06] [connection] 127.0.0.1:1054 requests connection cookie.
+[21:32:06]   Filterscript 'intermission.amx' unloaded.
+[21:32:06] [SampSharp:INFO] Connected to client.
+[21:32:06] [SampSharp:INFO] Server announcement sent.
+[21:32:06] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:32:06] [SampSharp:INFO] The gamemode has started.
+[21:32:07] [connection] incoming connection: 127.0.0.1:1057 id: 0
+[21:32:17] [connection] incoming connection: 127.0.0.1:18587 id: 0
+[21:32:17] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:32:19] Number of vehicle models: 0
+[21:32:52] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:32:52] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:32:52]   Filterscript 'intermission.amx' loaded.
+[21:32:52] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:32:52] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:33:44] weburl = "www.sa-mp.com"  (string)
+[21:33:44] 
+[21:33:44] Server Plugins
+[21:33:44] --------------
+[21:33:44]  Loading plugin: SampSharp
+[21:33:44]   Loaded.
+[21:33:44]  Loaded 1 plugins.
+
+[21:33:44] 
+[21:33:44] Filterscripts
+[21:33:44] ---------------
+[21:33:44]   Loaded 0 filterscripts.
+
+[21:33:44]   Filterscript 'empty.amx' loaded.
+[21:33:44] 
+[21:33:44] SampSharp Plugin
+[21:33:44] ----------------
+[21:33:44] v0.8.0, (C)2014-2019 Tim Potze
+[21:33:44] 
+[21:33:44]   Filterscript 'intermission.amx' loaded.
+[21:33:44] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:33:44] [SampSharp:INFO] Pipe created.
+[21:33:44] Number of vehicle models: 0
+[21:33:44] [connection] 127.0.0.1:1063 requests connection cookie.
+[21:33:45]   Filterscript 'intermission.amx' unloaded.
+[21:33:45] [SampSharp:INFO] Connected to client.
+[21:33:45] [SampSharp:INFO] Server announcement sent.
+[21:33:45] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:33:45] [SampSharp:INFO] The gamemode has started.
+[21:33:45] [connection] incoming connection: 127.0.0.1:1063 id: 0
+[21:33:47] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:33:57] Number of vehicle models: 0
+[21:34:32] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:34:32] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:34:32]   Filterscript 'intermission.amx' loaded.
+[21:34:32] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:34:32] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:34:37] weburl = "www.sa-mp.com"  (string)
+[21:34:37] 
+[21:34:37] Server Plugins
+[21:34:37] --------------
+[21:34:37]  Loading plugin: SampSharp
+[21:34:37]   Loaded.
+[21:34:37]  Loaded 1 plugins.
+
+[21:34:37] 
+[21:34:37] Filterscripts
+[21:34:37] ---------------
+[21:34:37]   Loaded 0 filterscripts.
+
+[21:34:37]   Filterscript 'empty.amx' loaded.
+[21:34:37] 
+[21:34:37] SampSharp Plugin
+[21:34:37] ----------------
+[21:34:37] v0.8.0, (C)2014-2019 Tim Potze
+[21:34:37] 
+[21:34:37]   Filterscript 'intermission.amx' loaded.
+[21:34:37] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:34:37] [SampSharp:INFO] Pipe created.
+[21:34:37] Number of vehicle models: 0
+[21:34:37]   Filterscript 'intermission.amx' unloaded.
+[21:34:37] [SampSharp:INFO] Connected to client.
+[21:34:37] [SampSharp:INFO] Server announcement sent.
+[21:34:37] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:34:37] [SampSharp:INFO] The gamemode has started.
+[21:34:50] Number of vehicle models: 0
+[21:34:56] [connection] 127.0.0.1:1051 requests connection cookie.
+[21:34:57] [connection] incoming connection: 127.0.0.1:1051 id: 0
+[21:34:57] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:35:50] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:35:50] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:35:50]   Filterscript 'intermission.amx' loaded.
+[21:35:50] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:35:50] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:36:34] weburl = "www.sa-mp.com"  (string)
+[21:36:34] 
+[21:36:34] Server Plugins
+[21:36:34] --------------
+[21:36:34]  Loading plugin: SampSharp
+[21:36:34]   Loaded.
+[21:36:34]  Loaded 1 plugins.
+
+[21:36:34] 
+[21:36:34] Filterscripts
+[21:36:34] ---------------
+[21:36:34]   Loaded 0 filterscripts.
+
+[21:36:34]   Filterscript 'empty.amx' loaded.
+[21:36:34] 
+[21:36:34] SampSharp Plugin
+[21:36:34] ----------------
+[21:36:34] v0.8.0, (C)2014-2019 Tim Potze
+[21:36:34] 
+[21:36:34]   Filterscript 'intermission.amx' loaded.
+[21:36:34] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:36:34] [SampSharp:INFO] Pipe created.
+[21:36:34] Number of vehicle models: 0
+[21:36:35]   Filterscript 'intermission.amx' unloaded.
+[21:36:35] [SampSharp:INFO] Connected to client.
+[21:36:35] [SampSharp:INFO] Server announcement sent.
+[21:36:35] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:36:35] [SampSharp:INFO] The gamemode has started.
+[21:36:35] [connection] 127.0.0.1:1035 requests connection cookie.
+[21:36:37] [connection] incoming connection: 127.0.0.1:1038 id: 0
+[21:36:37] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:36:47] Number of vehicle models: 0
+[21:41:19] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:41:19] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:41:19]   Filterscript 'intermission.amx' loaded.
+[21:41:19] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:41:19] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:41:24] weburl = "www.sa-mp.com"  (string)
+[21:41:24] 
+[21:41:24] Server Plugins
+[21:41:24] --------------
+[21:41:24]  Loading plugin: SampSharp
+[21:41:24]   Loaded.
+[21:41:24]  Loaded 1 plugins.
+
+[21:41:24] 
+[21:41:24] Filterscripts
+[21:41:24] ---------------
+[21:41:24]   Loaded 0 filterscripts.
+
+[21:41:24]   Filterscript 'empty.amx' loaded.
+[21:41:24] 
+[21:41:24] SampSharp Plugin
+[21:41:24] ----------------
+[21:41:24] v0.8.0, (C)2014-2019 Tim Potze
+[21:41:24] 
+[21:41:24]   Filterscript 'intermission.amx' loaded.
+[21:41:24] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:41:24] [SampSharp:INFO] Pipe created.
+[21:41:24] Number of vehicle models: 0
+[21:41:25]   Filterscript 'intermission.amx' unloaded.
+[21:41:25] [SampSharp:INFO] Connected to client.
+[21:41:25] [SampSharp:INFO] Server announcement sent.
+[21:41:25] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:41:25] [SampSharp:INFO] The gamemode has started.
+[21:41:37] Number of vehicle models: 0
+[21:41:44] [connection] 127.0.0.1:1075 requests connection cookie.
+[21:41:45] [connection] incoming connection: 127.0.0.1:1075 id: 0
+[21:41:45] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:42:12] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:42:12] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:42:12]   Filterscript 'intermission.amx' loaded.
+[21:42:12] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:42:12] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:43:00] weburl = "www.sa-mp.com"  (string)
+[21:43:00] 
+[21:43:00] Server Plugins
+[21:43:00] --------------
+[21:43:00]  Loading plugin: SampSharp
+[21:43:00]   Loaded.
+[21:43:00]  Loaded 1 plugins.
+
+[21:43:00] 
+[21:43:00] Filterscripts
+[21:43:00] ---------------
+[21:43:00]   Loaded 0 filterscripts.
+
+[21:43:00]   Filterscript 'empty.amx' loaded.
+[21:43:00] 
+[21:43:00] SampSharp Plugin
+[21:43:00] ----------------
+[21:43:00] v0.8.0, (C)2014-2019 Tim Potze
+[21:43:00] 
+[21:43:00]   Filterscript 'intermission.amx' loaded.
+[21:43:00] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:43:00] [SampSharp:INFO] Pipe created.
+[21:43:00] Number of vehicle models: 0
+[21:43:01]   Filterscript 'intermission.amx' unloaded.
+[21:43:01] [SampSharp:INFO] Connected to client.
+[21:43:01] [SampSharp:INFO] Server announcement sent.
+[21:43:01] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:43:01] [connection] 127.0.0.1:1084 requests connection cookie.
+[21:43:01] [SampSharp:INFO] The gamemode has started.
+[21:43:02] [connection] incoming connection: 127.0.0.1:1084 id: 0
+[21:43:12] [connection] incoming connection: 127.0.0.1:1087 id: 0
+[21:43:12] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:43:13] Number of vehicle models: 0
+[21:43:47] [SampSharp:ERROR] Failed to write to pipe with error 0xe8.
+[21:43:47] [SampSharp:ERROR] Unexpected disconnect of client. Failed to write to pipe.
+[21:43:47]   Filterscript 'intermission.amx' loaded.
+[21:43:47] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:43:47] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:44:25] weburl = "www.sa-mp.com"  (string)
+[21:44:25] 
+[21:44:25] Server Plugins
+[21:44:25] --------------
+[21:44:25]  Loading plugin: SampSharp
+[21:44:25]   Loaded.
+[21:44:25]  Loaded 1 plugins.
+
+[21:44:25] 
+[21:44:25] Filterscripts
+[21:44:25] ---------------
+[21:44:25]   Loaded 0 filterscripts.
+
+[21:44:25]   Filterscript 'empty.amx' loaded.
+[21:44:25] 
+[21:44:25] SampSharp Plugin
+[21:44:25] ----------------
+[21:44:25] v0.8.0, (C)2014-2019 Tim Potze
+[21:44:25] 
+[21:44:25]   Filterscript 'intermission.amx' loaded.
+[21:44:25] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:44:25] [SampSharp:INFO] Pipe created.
+[21:44:25] Number of vehicle models: 0
+[21:44:26] [connection] 127.0.0.1:1093 requests connection cookie.
+[21:44:26]   Filterscript 'intermission.amx' unloaded.
+[21:44:26] [SampSharp:INFO] Connected to client.
+[21:44:26] [SampSharp:INFO] Server announcement sent.
+[21:44:26] [SampSharp:INFO] Hi from E:\sampserver\env
+[21:44:26] [SampSharp:INFO] The gamemode has started.
+[21:44:27] [connection] incoming connection: 127.0.0.1:1093 id: 0
+[21:44:28] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[21:44:38] Number of vehicle models: 0
+[21:45:19] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[21:45:19] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[21:45:19]   Filterscript 'intermission.amx' loaded.
+[21:45:19] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[21:45:19] [SampSharp:INFO] Pipe created.
+[21:45:19] [SampSharp:ERROR] Received no response to callback OnDialogResponse.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:17:46] weburl = "www.sa-mp.com"  (string)
+[22:17:46] 
+[22:17:46] Server Plugins
+[22:17:46] --------------
+[22:17:46]  Loading plugin: SampSharp
+[22:17:46]   Loaded.
+[22:17:46]  Loaded 1 plugins.
+
+[22:17:46] 
+[22:17:46] Filterscripts
+[22:17:46] ---------------
+[22:17:46]   Loaded 0 filterscripts.
+
+[22:17:46]   Filterscript 'empty.amx' loaded.
+[22:17:46] 
+[22:17:46] SampSharp Plugin
+[22:17:46] ----------------
+[22:17:46] v0.8.0, (C)2014-2019 Tim Potze
+[22:17:46] 
+[22:17:46]   Filterscript 'intermission.amx' loaded.
+[22:17:46] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[22:17:46] [SampSharp:INFO] Pipe created.
+[22:17:47] Number of vehicle models: 0
+[22:17:47] [connection] 127.0.0.1:1183 requests connection cookie.
+[22:17:47]   Filterscript 'intermission.amx' unloaded.
+[22:17:47] [SampSharp:INFO] Connected to client.
+[22:17:47] [SampSharp:INFO] Server announcement sent.
+[22:17:47] [SampSharp:INFO] Hi from E:\sampserver\env
+[22:17:48] [connection] incoming connection: 127.0.0.1:1183 id: 0
+[22:17:48] [join] Pavel_Topsky has joined the server (0:127.0.0.1)
+[22:17:55] [SampSharp:INFO] The gamemode has started.
+[22:18:08] Number of vehicle models: 0
+[22:18:57] [SampSharp:ERROR] Failed to read from pipe with error 0x6d.
+[22:18:57] [SampSharp:ERROR] Unexpected disconnect of client. Failed to read from pipe.
+[22:18:57]   Filterscript 'intermission.amx' loaded.
+[22:18:57] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[22:18:57] [SampSharp:INFO] Pipe created.
+[22:18:57] [SampSharp:ERROR] Received no response to callback OnDialogResponse.

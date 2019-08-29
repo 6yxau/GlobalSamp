@@ -21,13 +21,23 @@
             <e p="AbstractDao.cs" t="Include" />
           </e>
           <e p="Dialog" t="Include">
+            <e p="AgeDialog.cs" t="Include" />
+            <e p="EmailRegistrationDialog.cs" t="Include" />
+            <e p="FrienInGame.cs" t="Include" />
+            <e p="GenderDialog.cs" t="Include" />
+            <e p="NationalityList.cs" t="Include" />
+            <e p="PasswordRequestDialog.cs" t="Include" />
+            <e p="Promo1.cs" t="Include" />
+            <e p="Promo2.cs" t="Include" />
             <e p="RegistrationDialog.cs" t="Include" />
+            <e p="SkinColorDialog.cs" t="Include" />
           </e>
           <e p="GameMode.cs" t="Include" />
           <e p="Player" t="Include">
             <e p="Dao" t="Include">
               <e p="PlayerDao.cs" t="Include" />
             </e>
+            <e p="PlayerColor.cs" t="Include" />
             <e p="Playerdata.cs" t="Include" />
             <e p="PlayerGender.cs" t="Include" />
             <e p="PlayerManager.cs" t="Include" />

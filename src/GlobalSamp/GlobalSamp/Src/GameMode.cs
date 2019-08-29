@@ -2,7 +2,9 @@ using System;
 using GlobalSamp.Dialog;
 using GlobalSamp.Player;
 using SampSharp.GameMode;
+using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
+using SampSharp.GameMode.Tools;
 using SampSharp.GameMode.World;
 
 namespace GlobalSamp
@@ -30,7 +32,7 @@ namespace GlobalSamp
             var dialog = new RegistrationDialog(data != null);
             
             dialog.Response += dialog.OnInputRegistrationData;
-            dialog.Show(player);
+            dialog.ShowAsync(player);
         }
 
         protected override void OnPlayerSpawned(BasePlayer player, SpawnEventArgs e)
@@ -47,13 +49,7 @@ namespace GlobalSamp
         protected override void OnPlayerDisconnected(BasePlayer player, DisconnectEventArgs e)
         {
             base.OnPlayerDisconnected(player, e);
-
             PlayerManager.Instance.RemovePlayerData(player.Name);
-        }
-
-        protected override void OnDialogResponse(BasePlayer player, DialogResponseEventArgs e)
-        {
-            base.OnDialogResponse(player, e);
         }
     }
 }
