@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlEmptyFileException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlParseException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlUnexpectedTokenException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Utils/XmlUtils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlAttribute.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlSerializer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Utils/StringUtils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +176,7 @@
       <workItem from="1567011115189" duration="6107000" />
       <workItem from="1567072952435" duration="18830000" />
       <workItem from="1567183723764" duration="1187000" />
-      <workItem from="1567425209833" duration="20051000" />
+      <workItem from="1567425209833" duration="20334000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -262,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567106544168</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="RegComplete_TranslationBegin">
+      <created>1567526501524</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567526501524</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +271,8 @@
     <MESSAGE value="DialogDao" />
     <MESSAGE value="RegistrationDialog" />
     <MESSAGE value="Register, step ONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Register, step ONE" />
+    <MESSAGE value="RegComplete_TranslationBegin" />
+    <option name="LAST_COMMIT_MESSAGE" value="RegComplete_TranslationBegin" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="257" key="#SQL_Dialects" />
