@@ -1,5 +1,6 @@
 using System;
 using System.Linq;
+using GlobalSamp.Application.Translator;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
@@ -11,8 +12,8 @@ namespace GlobalSamp.Dialog
     public class PasswordRequestDialog : InputDialog
     {
         public PasswordRequestDialog(bool retrial = false) : base(
-            "Повтор пароля",
-            retrial ? "Вы неверно ввели пароль.\n Введите пароль еще раз" : "Введите пароль еще раз",
+            Translator.Instance.GetMessage("requestPass"),
+            retrial ? Translator.Instance.GetMessage("wrongPass") : Translator.Instance.GetMessage("reqPass"),
             true, 
             "Далее")
         {

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<translation>
+    <message key="enterDialogCaption">Вход</message>
+    <message key="registerDialogCaption">Регистрация</message>
+    <message key="enterDialog">Ваш логин: {18ff00}зарегистрирован на сервере.\n {ffffff} Для входа введите пароль.</message>
+    <message key="registerDialog">Ваш логин: {ff0000}не зарегистрирован сервере.\n {ffffff} Для регистрации введите пароль.</message>
+    <message key="requestPass">Повтор пароля</message>
+    <message key="wrongPass">Вы неверно ввели пароль.\n Введите пароль еще раз</message>
+    <message key="reqPass">Введите пароль еще раз</message>
+    <message key="email">E-Mail</message>
+    <message key="emailCaption">Введите адрес Вашей электронной почты. \n
+        {18ff00} С помощью почты вы можете восстановить доступ \n
+        {18ff00} к вашему аккаунту в случае взлома или потери пароля.\n
+        {000000}На вашу почту мы отправим письмо со ссылкой. \n
+        {000000}Перейдите по ней для подтверждения регистрации.</message>
+    <message key=""
+    
+</translation>

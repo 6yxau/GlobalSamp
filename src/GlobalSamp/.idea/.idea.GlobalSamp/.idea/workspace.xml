@@ -2,26 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/FrienInGame.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerColor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlEmptyFileException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlParseException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlUnexpectedTokenException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Utils/XmlUtils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlSerializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Utils/StringUtils.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -47,35 +49,48 @@
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/0c/f9d8eda1/IEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerGender.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/76DEF016-194A-4B34-8E32-044F29ABD18E/c6/8c8fb74f/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/c8/34939829/InputDialog.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/76DEF016-194A-4B34-8E32-044F29ABD18E/fb/2fa2d979/IEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AFB7E7D9-EA63-47AB-BDF8-0BC20B632618/6d/4182b2ea/MySqlConnection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/76DEF016-194A-4B34-8E32-044F29ABD18E/41/bda24ebe/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3447BE4-83E0-4DCD-868A-4C68330D36C7/11/f487ce12/IContainer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/bd/6a1cb443/DialogButton.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3447BE4-83E0-4DCD-868A-4C68330D36C7/85/855a5522/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/d8/33ba6d12/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/92ADE205-67B1-4B84-AF7E-F396B6BD0302/38/10d1d9b5/Process.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/FrienInGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/af/c89d1c6b/DialogResponseEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Utils/StringUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/.Rider2019.1/config/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlSerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/7e/c33be01a/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerColor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/f3/dbd92a18/Disposable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/24/dcae1bbd/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/dd/d1ad90c9/BasePlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/ee/b51819cc/List`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/0f/3bb57481/MessageDialog.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/e7/0c3c4d0b/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -91,7 +106,6 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerGender.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dao/DIalogDao.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/DialogManager.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SetPwd.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" />
@@ -103,23 +117,32 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerColor.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/FrienInGame.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DataUtils.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1Q0pPwMJFE6qiLeho5DavAPWxse" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -179,7 +202,9 @@
       <workItem from="1566917356002" duration="3881000" />
       <workItem from="1566997976773" duration="8360000" />
       <workItem from="1567011115189" duration="6107000" />
-      <workItem from="1567072952435" duration="18385000" />
+      <workItem from="1567072952435" duration="18830000" />
+      <workItem from="1567183723764" duration="1187000" />
+      <workItem from="1567425209833" duration="20051000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -230,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567008823523</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Register, step ONE">
+      <created>1567106544168</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567106544168</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,15 +284,21 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="Third" />
     <MESSAGE value="4" />
     <MESSAGE value="DialogDao" />
     <MESSAGE value="RegistrationDialog" />
-    <option name="LAST_COMMIT_MESSAGE" value="RegistrationDialog" />
+    <MESSAGE value="Register, step ONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Register, step ONE" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="257" key="#SQL_Dialects" />
+    <state x="361" y="257" key="#SQL_Dialects/1600.1200" />
+    <state x="223" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
+    <state x="223" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/1600.1200" />
     <state width="1495" height="511" key="GridCell.Tab.0.bottom" />
     <state width="1495" height="511" key="GridCell.Tab.0.bottom/1600.1200" />
     <state width="1495" height="511" key="GridCell.Tab.0.center" />
@@ -314,17 +352,17 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs</url>
-          <line>24</line>
-          <properties documentPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" initialLine="24">
+          <url>file://$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs</url>
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" initialLine="18">
             <startOffsets>
-              <option value="657" />
+              <option value="676" />
             </startOffsets>
             <endOffsets>
-              <option value="688" />
+              <option value="723" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="27" />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

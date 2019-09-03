@@ -8,7 +8,7 @@ namespace GlobalSamp.Dialog
     public class Promo2 : InputDialog
     {
         public Promo2() : base(
-            "Промокд",
+            "Промокод",
             "Введите промокод \n" +
             "{ffffff}С помощью промокода {18ff00}вы получите преимущества {ffffff}на старте игры",
             false,

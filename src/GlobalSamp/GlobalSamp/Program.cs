@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
+using BetAppServer.Tools.Serialization.XML;
+using GlobalSamp.Application.Translator;
 using SampSharp.Core;
 
 namespace GlobalSamp
@@ -12,6 +14,9 @@ namespace GlobalSamp
         static void Main(string[] args)
         {
             CreateNativeProcess();
+            
+            ConfigureTranslator();
+            
             InitializeGameMode();
         }
 
@@ -47,6 +52,13 @@ namespace GlobalSamp
             _nativeProcessHandle.StartInfo.RedirectStandardError = true;
             _nativeProcessHandle.StartInfo.RedirectStandardInput = true;
             _nativeProcessHandle.StartInfo.RedirectStandardOutput = true;
+        }
+
+        private static void ConfigureTranslator()
+        {
+            XmlSerializer serializer = new XmlSerializer();
+            
+            Translator.Instance.Configure(serializer.Deserialize("../../../Config/Translations/translation_ru.xml"));
         }
     }
 }

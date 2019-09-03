@@ -11,8 +11,8 @@ namespace GlobalSamp.Dialog
         public GenderDialog() : base(
             "Пол",
             "Выберите Ваш пол",
-            "Ленолеум",
-            "Ламинат")
+            "Мужской",
+            "Женский")
         {
         }
 

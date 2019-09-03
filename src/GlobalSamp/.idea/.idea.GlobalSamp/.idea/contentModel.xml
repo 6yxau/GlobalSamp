@@ -7,6 +7,11 @@
     <e p="E:\sampserver\src\GlobalSamp" t="IncludeFlat">
       <e p="GlobalSamp" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="config" t="Include">
+          <e p="Translations" t="Include">
+            <e p="translation_ru.xml" t="Include" />
+          </e>
+        </e>
         <e p="GlobalSamp.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -17,6 +22,11 @@
         </e>
         <e p="Program.cs" t="Include" />
         <e p="src" t="Include">
+          <e p="Application" t="Include">
+            <e p="Translator" t="Include">
+              <e p="Translator.cs" t="Include" />
+            </e>
+          </e>
           <e p="Dao" t="Include">
             <e p="AbstractDao.cs" t="Include" />
           </e>
@@ -46,6 +56,25 @@
         <e p="Tools" t="Include">
           <e p="Common" t="Include">
             <e p="Singleton.cs" t="Include" />
+          </e>
+          <e p="Serialization" t="Include">
+            <e p="XML" t="Include">
+              <e p="Exception" t="Include">
+                <e p="XmlEmptyFileException.cs" t="Include" />
+                <e p="XmlParseException.cs" t="Include" />
+                <e p="XmlUnexpectedTokenException.cs" t="Include" />
+              </e>
+              <e p="Utils" t="Include">
+                <e p="XmlUtils.cs" t="Include" />
+              </e>
+              <e p="XmlAttribute.cs" t="Include" />
+              <e p="XmlNode.cs" t="Include" />
+              <e p="XmlSerializer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Utils" t="Include">
+            <e p="DateUtils.cs" t="Include" />
+            <e p="StringUtils.cs" t="Include" />
           </e>
         </e>
       </e>

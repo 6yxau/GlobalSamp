@@ -1,4 +1,5 @@
 using System;
+using GlobalSamp.Application.Translator;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
@@ -10,10 +11,10 @@ namespace GlobalSamp.Dialog
     public class RegistrationDialog : InputDialog
     {
         public RegistrationDialog(bool playerRegistered)
-            : base(playerRegistered ? "Вход" : "Регистрация",
+            : base(playerRegistered ? Translator.Instance.GetMessage("enterDialogCaption") : Translator.Instance.GetMessage("registerDialogCaption"),
                 playerRegistered
-                    ? "Ваш логин: {18ff00}зарегистрирован на сервере.\n {ffffff} Для входа введите пароль."
-                    : "Ваш логин: {ff0000}не зарегистрирован сервере.\n {ffffff} Для регистрации введите пароль.",
+                    ? Translator.Instance.GetMessage("enterDialog")
+                    : Translator.Instance.GetMessage("registerDialog"),
                 true, "Далее")
         {
         }
