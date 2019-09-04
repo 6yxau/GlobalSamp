@@ -53,7 +53,8 @@ namespace GlobalSamp.Player.Dao
             {
                 conn = CreateConnection();
                 conn.Open();
-                MySqlCommand cmd = new MySqlCommand("INSERT INTO users ('id', 'name', 'gender', 'password', 'email', 'date', 'SkinColor') VALUES" + $"('','', '+ Gender +', '+ Password +', '+ Email +', '+ date +', '+ SkinColor +', '+ Age +'",
+                MySqlCommand cmd = new MySqlCommand("INSERT INTO users ('id', 'name', 'gender', 'password', 'email', 'date', 'SkinColor') VALUES " + 
+                                                    $"('','', '+ Gender +', '+ Password +', '+ Email +', '+ date +', '+ SkinColor +', '+ Age +'",
                         conn);
                 cmd.ExecuteNonQuery();
             }

@@ -1,5 +1,3 @@
-using System;
-
 namespace GlobalSamp.Player
 {
     public class PlayerData

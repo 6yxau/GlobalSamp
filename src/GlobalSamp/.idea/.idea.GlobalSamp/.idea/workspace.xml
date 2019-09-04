@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="" />
+    <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -88,7 +107,6 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Common/Govninstance.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerColor.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" />
@@ -96,7 +114,6 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DataUtils.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" />
@@ -104,8 +121,10 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
       </list>
     </option>
   </component>
@@ -176,7 +195,8 @@
       <workItem from="1567011115189" duration="6107000" />
       <workItem from="1567072952435" duration="18830000" />
       <workItem from="1567183723764" duration="1187000" />
-      <workItem from="1567425209833" duration="20334000" />
+      <workItem from="1567425209833" duration="20677000" />
+      <workItem from="1567611034099" duration="2681000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -241,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567526501524</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="RegComplete_TranslationBegin">
+      <created>1567526705186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567526705186</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

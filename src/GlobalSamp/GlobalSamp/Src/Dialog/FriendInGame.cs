@@ -5,9 +5,9 @@ using SampSharp.GameMode.Events;
 
 namespace GlobalSamp.Dialog
 {
-    public class FrienInGame : InputDialog
+    public class FriendInGame : InputDialog
     {
-        public FrienInGame() : base(
+        public FriendInGame() : base(
             "Введите ник друга, который здесь играет",
             "{18ff00} После достижения Вами 5 уровня он получит вознаграждение",
             false,

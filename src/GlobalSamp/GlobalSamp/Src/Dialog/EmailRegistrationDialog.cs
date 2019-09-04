@@ -11,13 +11,9 @@ namespace GlobalSamp.Dialog
     {
         public EmailRegistrationDialog() : base(
             Translator.Instance.GetMessage("email"), 
-            "Введите адрес Вашей электронной почты. \n" +
-                      "{18ff00} С помощью почты вы можете восстановить доступ \n" +
-                      "{18ff00} к вашему аккаунту в случае взлома или потери пароля.\n" +
-                      "{000000}На вашу почту мы отправим письмо со ссылкой. \n" +
-                      "{000000}Перейдите по ней для подтверждения регистрации.",
+            Translator.Instance.GetMessage("emailCaption"),
             false,
-            "Далее")
+            Translator.Instance.GetMessage("leftButton"))
         {
         }
 

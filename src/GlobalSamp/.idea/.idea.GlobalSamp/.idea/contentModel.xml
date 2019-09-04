@@ -33,7 +33,7 @@
           <e p="Dialog" t="Include">
             <e p="AgeDialog.cs" t="Include" />
             <e p="EmailRegistrationDialog.cs" t="Include" />
-            <e p="FrienInGame.cs" t="Include" />
+            <e p="FriendInGame.cs" t="Include" />
             <e p="GenderDialog.cs" t="Include" />
             <e p="NationalityList.cs" t="Include" />
             <e p="PasswordRequestDialog.cs" t="Include" />
