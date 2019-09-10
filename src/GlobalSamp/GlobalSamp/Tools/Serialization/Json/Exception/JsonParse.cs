@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Web;
 
-namespace BetAppServer.Tools.Serialization.XML.Exception
+namespace GlobalSamp.Tools.Serialization.Json.Exception
 {
     public class JsonParse
     {
