@@ -32,6 +32,7 @@ namespace GlobalSamp.Dialog
                 return;
             }
             Response -= OnPromo2ChangedResponse;
+            
         }
     }
 }

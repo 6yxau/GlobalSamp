@@ -1,3 +1,4 @@
+using GlobalSamp.Application.Translator;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
@@ -8,11 +9,11 @@ namespace GlobalSamp.Dialog
     public class FriendInGame : InputDialog
     {
         public FriendInGame() : base(
-            "Введите ник друга, который здесь играет",
-            "{18ff00} После достижения Вами 5 уровня он получит вознаграждение",
+            Translator.Instance.GetMessage("friendInGameCaption"),
+            Translator.Instance.GetMessage("friendInGame"),
             false,
-            "Ввести",
-            "Пропустить")
+            Translator.Instance.GetMessage("leftButtonCaption"),
+            Translator.Instance.GetMessage("rightButton"))
         {
         }
 

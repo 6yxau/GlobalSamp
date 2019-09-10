@@ -1,18 +1,18 @@
+using GlobalSamp.Application.Translator;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
-using SampSharp.GameMode.World;
 
 namespace GlobalSamp.Dialog
 {
     public class AgeDialog : InputDialog
     {
         public AgeDialog() : base(
-            "Ваш возраст",
-            "Введите Ваш возраст",
+            Translator.Instance.GetMessage("ageDialogCaption"),
+            Translator.Instance.GetMessage("ageDialog"),
             false,
-            "Далее")
+            Translator.Instance.GetMessage("leftButton"))
         {
         }
         public void OnAgeDialogResponse(object sender, DialogResponseEventArgs e)
@@ -27,13 +27,20 @@ namespace GlobalSamp.Dialog
             }
             if (e.DialogButton != DialogButton.Left)
             {
-                data.SkinColor = PlayerColor.BLACK;
                 Response -= OnAgeDialogResponse;
                 promo1.Response += promo1.OnPromo1Response;
                 promo1.Show(e.Player);
                 return;
             }
             Response -= OnAgeDialogResponse;
+            if (int.TryParse(e.InputText, out int age))
+            {
+                data.Age = age;
+            }
+            else
+            {
+                Response -= OnAgeDialogResponse;
+            }
             promo1.Response += promo1.OnPromo1Response;
             promo1.Show(e.Player);
         }

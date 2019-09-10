@@ -1,11 +1,8 @@
-using System;
-using System.Linq;
 using GlobalSamp.Application.Translator;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
-using SampSharp.GameMode.World;
 
 namespace GlobalSamp.Dialog
 {
@@ -15,7 +12,7 @@ namespace GlobalSamp.Dialog
             Translator.Instance.GetMessage("requestPass"),
             retrial ? Translator.Instance.GetMessage("wrongPass") : Translator.Instance.GetMessage("reqPass"),
             true, 
-            "Далее")
+            Translator.Instance.GetMessage("leftButton"))
         {
         }
 

@@ -3,7 +3,6 @@ using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
-using SampSharp.GameMode.World;
 
 namespace GlobalSamp.Dialog
 {
@@ -28,7 +27,7 @@ namespace GlobalSamp.Dialog
 
             if (string.IsNullOrEmpty(e.InputText) || e.InputText.Split("@").Length <= 1)
             {
-                //TODO: показывать диалог еще раз   
+                // TODO: показывать диалог еще раз
             }
             
             PlayerData data = PlayerManager.Instance.GetCachedPlayerData(e.Player.Name);

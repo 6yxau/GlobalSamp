@@ -1,18 +1,18 @@
+using GlobalSamp.Application.Translator;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
-using SampSharp.GameMode.World;
 
 namespace GlobalSamp.Dialog
 {
     public class SkinColorDialog : MessageDialog
     {
         public SkinColorDialog() : base
-            ("Цвет кожи",
-            "Выберите ваш цвет кожи",
-            "Светлый",
-            "Тёмный")
+            (Translator.Instance.GetMessage("skinColorCaption"),
+            Translator.Instance.GetMessage("skinColor"),
+            Translator.Instance.GetMessage("skinColorLeft"),
+            Translator.Instance.GetMessage("skinColorRight"))
         {
         }
         public void OnSkinColorDialogResponse(object sender, DialogResponseEventArgs e)

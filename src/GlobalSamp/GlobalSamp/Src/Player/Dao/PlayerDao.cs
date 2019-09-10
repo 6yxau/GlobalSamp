@@ -19,6 +19,7 @@ namespace GlobalSamp.Player.Dao
                     {
                         return null;
                     }
+
                     rd.Read();
                     var result = new PlayerData
                     {
@@ -43,7 +44,6 @@ namespace GlobalSamp.Player.Dao
                     conn.Close();
                 }
             }
-            
         }
 
         public void AddPlayer(PlayerData player)
@@ -53,8 +53,7 @@ namespace GlobalSamp.Player.Dao
             {
                 conn = CreateConnection();
                 conn.Open();
-                MySqlCommand cmd = new MySqlCommand("INSERT INTO users ('id', 'name', 'gender', 'password', 'email', 'date', 'SkinColor') VALUES " + 
-                                                    $"('','', '+ Gender +', '+ Password +', '+ Email +', '+ date +', '+ SkinColor +', '+ Age +'",
+                MySqlCommand cmd = new MySqlCommand($"INSERT INTO users ('name', 'gender', 'password', 'email', 'date', 'SkinColor') VALUES ('{player.UserName}', '{player.Gender}', '{player.Password}', '{player.Email}', '{player.date}', '{player.SkinColor}'",
                         conn);
                 cmd.ExecuteNonQuery();
             }
@@ -71,6 +70,11 @@ namespace GlobalSamp.Player.Dao
                     conn.Dispose();
                 }
             }
+        }
+
+        private object GetPlayerModel()
+        {
+            throw new NotImplementedException();
         }
     }
 }

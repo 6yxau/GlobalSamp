@@ -2,9 +2,7 @@ using System;
 using GlobalSamp.Dialog;
 using GlobalSamp.Player;
 using SampSharp.GameMode;
-using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
-using SampSharp.GameMode.Tools;
 using SampSharp.GameMode.World;
 
 namespace GlobalSamp

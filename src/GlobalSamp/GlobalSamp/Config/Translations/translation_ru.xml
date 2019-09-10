@@ -14,7 +14,18 @@
         {000000}На вашу почту мы отправим письмо со ссылкой. \n
         {000000}Перейдите по ней для подтверждения регистрации.</message>
     <message key="leftButton">Далее</message>
+    <message key="leftButtonCaption">Ввести</message>
     <message key="rightButton">Пропустить</message>
-    
-    
+    <message key="ageDialogCaption">Ваш возраст</message>
+    <message key="ageDialog">Введите Ваш возраст</message>
+    <message key="friendInGameCaption">Введите ник друга, который здесь играет</message>
+    <message key="friendInGame">{18ff00} После достижения Вами 5 уровня он получит вознаграждение</message>
+    <message key="genderDialogCaption">Пол</message>
+    <message key="genderDialog">Выберите Ваш пол</message>
+    <message key="genderDialogLeft">Мужской</message>
+    <message key="genderDialogRight">Женский</message>
+    <message key="skinColorCaption">Цвет кожи</message>
+    <message key="skinColor">Выберите Ваш цвет кожи</message>
+    <message key="skinColorLeft">Светлый</message>
+    <message key="skinColorRight">Тёмный</message>
 </translation>

@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;

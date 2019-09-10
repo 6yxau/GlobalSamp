@@ -1,18 +1,18 @@
+using GlobalSamp.Application.Translator;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
-using SampSharp.GameMode.World;
 
 namespace GlobalSamp.Dialog
 {
     public class GenderDialog : MessageDialog
     {
         public GenderDialog() : base(
-            "Пол",
-            "Выберите Ваш пол",
-            "Мужской",
-            "Женский")
+            Translator.Instance.GetMessage("genderDialogCaption"),
+            Translator.Instance.GetMessage("genderDialog"),
+            Translator.Instance.GetMessage("genderDialogLeft"),
+            Translator.Instance.GetMessage("genderDialogRight"))
         {
         }
 

@@ -9,6 +9,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="config" t="Include">
           <e p="Translations" t="Include">
+            <e p="Nationality.xml" t="Include" />
             <e p="translation_ru.xml" t="Include" />
           </e>
         </e>
@@ -60,6 +61,7 @@
           <e p="Serialization" t="Include">
             <e p="XML" t="Include">
               <e p="Exception" t="Include">
+                <e p="JsonParse.cs" t="Include" />
                 <e p="XmlEmptyFileException.cs" t="Include" />
                 <e p="XmlParseException.cs" t="Include" />
                 <e p="XmlUnexpectedTokenException.cs" t="Include" />

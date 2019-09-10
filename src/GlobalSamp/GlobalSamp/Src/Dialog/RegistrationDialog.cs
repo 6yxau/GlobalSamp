@@ -4,7 +4,6 @@ using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Display;
 using SampSharp.GameMode.Events;
-using SampSharp.GameMode.World;
 
 namespace GlobalSamp.Dialog
 {
@@ -15,7 +14,8 @@ namespace GlobalSamp.Dialog
                 playerRegistered
                     ? Translator.Instance.GetMessage("enterDialog")
                     : Translator.Instance.GetMessage("registerDialog"),
-                true, "Далее")
+                true,
+                Translator.Instance.GetMessage("leftButton"))
         {
         }
 
