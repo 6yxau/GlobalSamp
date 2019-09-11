@@ -2,22 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/JsonParse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../env/pawno/settings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/pawno/settings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/FriendInGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/FriendInGame.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/GlobalSamp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/GlobalSamp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +91,7 @@
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/JsonParse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/Json/Exception/JsonParse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Utils/StringUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlUnexpectedTokenException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlParseException.cs" root0="FORCE_HIGHLIGHTING" />
@@ -117,7 +123,6 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dao/DIalogDao.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/DialogManager.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SetPwd.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Gender.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Age.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColor.cs" />
@@ -128,17 +133,13 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DataUtils.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/FriendInGame.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/Nationality.xml" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" />
@@ -147,6 +148,12 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/JsonParse.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/Json/Exception/JsonParse.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" />
       </list>
     </option>
   </component>
@@ -219,7 +226,8 @@
       <workItem from="1567183723764" duration="1187000" />
       <workItem from="1567425209833" duration="20677000" />
       <workItem from="1567611034099" duration="2817000" />
-      <workItem from="1568032972187" duration="16194000" />
+      <workItem from="1568032972187" duration="19622000" />
+      <workItem from="1568202425559" duration="1874000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -305,7 +313,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567614330197</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Json_Parse">
+      <created>1568139085606</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568139085606</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Json_Parse">
+      <created>1568139240735</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568139240735</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +359,8 @@
     <MESSAGE value="Register, step ONE" />
     <MESSAGE value="RegComplete_TranslationBegin" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Json_Parse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Json_Parse" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="257" key="#SQL_Dialects" />
@@ -396,19 +419,6 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs</url>
-          <line>18</line>
-          <properties documentPath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" initialLine="18">
-            <startOffsets>
-              <option value="676" />
-            </startOffsets>
-            <endOffsets>
-              <option value="723" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

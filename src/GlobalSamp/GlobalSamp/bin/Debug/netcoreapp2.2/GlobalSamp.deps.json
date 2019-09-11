@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "a56e68af345214e9525ed8996146217abfd8e596"
+    "signature": "93f235e4a325a3518b2f618e1549ca9863d03866"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,6 +9,7 @@
       "GlobalSamp/1.0.0": {
         "dependencies": {
           "MySqlClient": "5.4.2",
+          "Newtonsoft.Json": "12.0.3-beta1",
           "SampSharp.Core": "0.8.0",
           "SampSharp.GameMode": "0.8.0",
           "SampSharp.RakNet": "1.0.2",
@@ -70,6 +71,14 @@
           "lib/netstandard2.0/MySqlConnector.dll": {
             "assemblyVersion": "0.30.0.0",
             "fileVersion": "0.30.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3-beta1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23619"
           }
         }
       },
@@ -899,6 +908,13 @@
       "sha512": "sha512-SPdtQnatreliBTJdVrRu9TFMnR9i0QF/UoXPPIzGTyoE8YPE7K85toI0oRzgiZbcxuLeCvfSpqFCBAuPhEs9GA==",
       "path": "mysqlconnector/0.30.0",
       "hashPath": "mysqlconnector.0.30.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3-beta1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dvGx3CT9tEs9LbgyIw9MZl+sLCFa6yx1NXLKaldRk+N9BgToJpCK2PUv8z2aNbLq6ljtLS93X5gamWxs8DhdRA==",
+      "path": "newtonsoft.json/12.0.3-beta1",
+      "hashPath": "newtonsoft.json.12.0.3-beta1.nupkg.sha512"
     },
     "OptimizedDataReader/1.1.0": {
       "type": "package",

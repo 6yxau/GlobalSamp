@@ -33,6 +33,7 @@ namespace GlobalSamp.Dialog
             }
             Response -= OnPromo2ChangedResponse;
             
+            PlayerManager.Instance.AddPlayer(data);
         }
     }
 }

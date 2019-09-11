@@ -59,9 +59,13 @@
             <e p="Singleton.cs" t="Include" />
           </e>
           <e p="Serialization" t="Include">
-            <e p="XML" t="Include">
+            <e p="Json" t="Include">
               <e p="Exception" t="Include">
                 <e p="JsonParse.cs" t="Include" />
+              </e>
+            </e>
+            <e p="XML" t="Include">
+              <e p="Exception" t="Include">
                 <e p="XmlEmptyFileException.cs" t="Include" />
                 <e p="XmlParseException.cs" t="Include" />
                 <e p="XmlUnexpectedTokenException.cs" t="Include" />

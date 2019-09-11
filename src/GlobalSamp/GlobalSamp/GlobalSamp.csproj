@@ -7,6 +7,7 @@
 
     <ItemGroup>
       <PackageReference Include="MySqlClient" Version="5.4.2" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.3-beta1" />
       <PackageReference Include="SampSharp.Core" Version="0.8.0" />
       <PackageReference Include="SampSharp.GameMode" Version="0.8.0" />
       <PackageReference Include="SampSharp.RakNet" Version="1.0.2" />

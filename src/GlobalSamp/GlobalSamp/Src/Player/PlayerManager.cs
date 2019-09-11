@@ -53,6 +53,11 @@ namespace GlobalSamp.Player
             _cachedData.Remove(name);
             return _players.Remove(name);
         }
+
+        public void AddPlayer(PlayerData player)
+        {
+            _dao.AddPlayer(player);
+        }
         
     }
 }
