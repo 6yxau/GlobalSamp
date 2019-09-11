@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../env/pawno/settings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/pawno/settings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/GlobalSamp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/GlobalSamp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +68,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/7e/c33be01a/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerColor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/f3/dbd92a18/Disposable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5233964-D3F2-4B93-B477-4FE3E03D39C9/82/58584ae1/GameModeBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/dd/d1ad90c9/BasePlayer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/0f/3bb57481/MessageDialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/fc/b7a6a173/ListDialog.cs" root0="SKIP_HIGHLIGHTING" />
@@ -133,7 +119,6 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DataUtils.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/FriendInGame.cs" />
@@ -154,6 +139,7 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
       </list>
     </option>
   </component>
@@ -227,7 +213,7 @@
       <workItem from="1567425209833" duration="20677000" />
       <workItem from="1567611034099" duration="2817000" />
       <workItem from="1568032972187" duration="19622000" />
-      <workItem from="1568202425559" duration="1874000" />
+      <workItem from="1568202425559" duration="4552000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -327,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568139240735</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="For_Vadim">
+      <created>1568204317936</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568204317936</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +353,8 @@
     <MESSAGE value="RegComplete_TranslationBegin" />
     <MESSAGE value="Update" />
     <MESSAGE value="Json_Parse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Json_Parse" />
+    <MESSAGE value="For_Vadim" />
+    <option name="LAST_COMMIT_MESSAGE" value="For_Vadim" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="257" key="#SQL_Dialects" />
@@ -407,6 +401,8 @@
     <state width="1495" height="511" key="GridCell.Tab.4.left/1600.1200" />
     <state width="1495" height="511" key="GridCell.Tab.4.right" />
     <state width="1495" height="511" key="GridCell.Tab.4.right/1600.1200" />
+    <state x="364" y="214" key="Rider.ProjectTemplateDialog.Size" />
+    <state x="364" y="214" key="Rider.ProjectTemplateDialog.Size/1600.1200" />
     <state x="447" y="270" width="644" height="660" key="find.popup" />
     <state x="447" y="270" width="644" height="660" key="find.popup/1600.1200" />
     <state x="432" y="265" width="672" height="678" key="search.everywhere.popup" />

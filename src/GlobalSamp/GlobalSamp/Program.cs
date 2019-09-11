@@ -10,7 +10,7 @@ namespace GlobalSamp
     class Program
     {
 
-        private static Process _nativeProcessHandle = null;
+        private static Process _nativeProcessHandle;
         static void Main(string[] args)
         {
             CreateNativeProcess();

@@ -5979,3 +5979,83 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:08:45]   Filterscript 'intermission.amx' loaded.
 [15:08:45] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
 [15:08:45] [SampSharp:INFO] Pipe created.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:24:52] weburl = "www.sa-mp.com"  (string)
+[15:24:52] 
+[15:24:52] Server Plugins
+[15:24:52] --------------
+[15:24:52]  Loading plugin: SampSharp
+[15:24:52]   Loaded.
+[15:24:52]  Loaded 1 plugins.
+
+[15:24:52] 
+[15:24:52] Filterscripts
+[15:24:52] ---------------
+[15:24:52]   Loaded 0 filterscripts.
+
+[15:24:52]   Filterscript 'empty.amx' loaded.
+[15:24:52] 
+[15:24:52] SampSharp Plugin
+[15:24:52] ----------------
+[15:24:52] v0.8.0, (C)2014-2019 Tim Potze
+[15:24:52] 
+[15:24:52]   Filterscript 'intermission.amx' loaded.
+[15:24:52] [SampSharp:INFO] Creating pipe \\.\pipe\SampSharp...
+[15:24:52] [SampSharp:INFO] Pipe created.
+[15:24:52] Number of vehicle models: 0
+[15:24:52]   Filterscript 'intermission.amx' unloaded.
+[15:24:52] [SampSharp:INFO] Connected to client.
+[15:24:52] [SampSharp:INFO] Server announcement sent.
+[15:24:52] [SampSharp:INFO] Hi from E:\sampserver\env
+[15:24:53] [SampSharp:INFO] The gamemode has started.
+[15:42:05] Number of vehicle models: 0
+[15:42:05] [connection] 127.0.0.1:1041 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1041 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1041 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1041 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1041 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1041 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1042 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1042 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1042 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1042 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1042 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1042 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1043 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1043 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1043 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1043 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1043 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1043 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1044 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1044 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1044 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1044 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1044 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1044 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1045 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1045 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1045 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1045 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1045 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1045 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1046 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1046 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1046 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1046 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1046 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1046 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1047 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1047 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1047 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1047 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1047 requests connection cookie.
+[15:42:05] [connection] 127.0.0.1:1047 requests connection cookie.
