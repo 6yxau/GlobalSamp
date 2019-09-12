@@ -44,6 +44,27 @@
             <e p="SkinColorDialog.cs" t="Include" />
           </e>
           <e p="GameMode.cs" t="Include" />
+          <e p="mapping" t="Include">
+            <e p="247.txt" t="Include" />
+            <e p="bankint.txt" t="Include" />
+            <e p="carshow.txt" t="Include" />
+            <e p="clothesshop.txt" t="Include" />
+            <e p="ExportMaps.7z" t="Include" />
+            <e p="farmext.txt" t="Include" />
+            <e p="farmint.txt" t="Include" />
+            <e p="ghettoint.txt" t="Include" />
+            <e p="globalbet (2).txt" t="Include" />
+            <e p="globalbet.txt" t="Include" />
+            <e p="market.txt" t="Include" />
+            <e p="narcolab (2).txt" t="Include" />
+            <e p="narcolab.txt" t="Include" />
+            <e p="RegInt.txt" t="Include" />
+            <e p="shootingrange.db" t="Include" />
+            <e p="shootingrange.txt" t="Include" />
+            <e p="shrange.txt" t="Include" />
+            <e p="storage.txt" t="Include" />
+            <e p="towplaceext.txt" t="Include" />
+          </e>
           <e p="Player" t="Include">
             <e p="Dao" t="Include">
               <e p="PlayerDao.cs" t="Include" />

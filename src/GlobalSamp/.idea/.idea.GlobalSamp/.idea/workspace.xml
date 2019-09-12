@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +126,6 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/JsonParse.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/Json/Exception/JsonParse.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
@@ -140,6 +134,7 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
       </list>
     </option>
   </component>
@@ -213,7 +208,8 @@
       <workItem from="1567425209833" duration="20677000" />
       <workItem from="1567611034099" duration="2817000" />
       <workItem from="1568032972187" duration="19622000" />
-      <workItem from="1568202425559" duration="4552000" />
+      <workItem from="1568202425559" duration="6961000" />
+      <workItem from="1568275293524" duration="1660000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
