@@ -21,7 +21,7 @@ namespace GlobalSamp.Player.Dao
                     }
 
                     rd.Read();
-                    var result = new PlayerData
+                    return new PlayerData
                     {
                         Id = rd.GetInt32(0),
                         UserName = rd.GetString(1),
@@ -30,14 +30,12 @@ namespace GlobalSamp.Player.Dao
                         Email = rd.GetString(4),
                         date = rd.GetInt64(5),
                         SkinColor = rd.GetBoolean(6) ? PlayerColor.BLACK : PlayerColor.WHITE,
-                        Age = rd.GetInt16(7)
                     };
-                    return result;
                 }
                 catch (Exception e)
                 {
                     //TODO: Logging
-                    throw new ApplicationException(e.Message);
+                    throw new Exception(e.Message);
                 }
                 finally
                 {
@@ -53,14 +51,14 @@ namespace GlobalSamp.Player.Dao
             {
                 conn = CreateConnection();
                 conn.Open();
-                MySqlCommand cmd = new MySqlCommand($"INSERT INTO users ('name', 'gender', 'password', 'email', 'date', 'SkinColor') VALUES ('{player.UserName}', '{player.Gender}', '{player.Password}', '{player.Email}', '{player.date}', '{player.SkinColor}'",
-                        conn);
+                MySqlCommand cmd = new MySqlCommand($"INSERT INTO users (name, password, gender, email, date, skincolor) VALUES ('{player.UserName}', '{player.Password}', {(player.Gender == PlayerGender.MALE ? 0 : 1)}, '{player.Email}', UNIX_TIMESTAMP(), {(player.SkinColor == PlayerColor.WHITE ? 0 : 1)})", conn);
                 cmd.ExecuteNonQuery();
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 //TODO: Logging
-                throw new ApplicationException(e.Message);
+                throw new Exception(e.Message);
             }
             finally
             {

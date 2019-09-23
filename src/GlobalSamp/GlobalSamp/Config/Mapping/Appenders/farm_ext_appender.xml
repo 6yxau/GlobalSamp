@@ -1,0 +1,2009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appender>
+    <object id="1569" type="dynamic">
+        <position x="-394.027130" y="-1425.567871" z="25.413515"/>
+        <rotation x="0.000000" y="0.000000" z="90.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="3241" txd="conhooses" texture="des_adobedoor1"
+                      color="0xFFFFFFFF"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-375.953186" y="-1383.003173" z="22.376411"/>
+        <rotation x="357.000000" y="1.899999" z="38.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-385.260070" y="-1389.996826" z="22.736488"/>
+        <rotation x="357.000000" y="1.699998" z="38.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-394.594665" y="-1397.062377" z="23.096599"/>
+        <rotation x="357.000000" y="2.000000" z="36.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-405.154754" y="-1401.410034" z="23.076599"/>
+        <rotation x="357.000000" y="-2.000000" z="8.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-365.849212" y="-1359.658203" z="21.176599"/>
+        <rotation x="357.000000" y="3.000000" z="74.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-232.922500" y="-1559.853637" z="4.007517"/>
+        <rotation x="357.000000" y="6.099993" z="-179.700225"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-362.414306" y="-1348.492553" z="20.776599"/>
+        <rotation x="357.000000" y="-1.000000" z="72.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-358.758636" y="-1337.381835" z="21.093496"/>
+        <rotation x="357.000000" y="-1.000000" z="72.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-355.163421" y="-1326.270751" z="21.366985"/>
+        <rotation x="357.000000" y="-1.000000" z="72.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-351.951721" y="-1315.016601" z="21.809833"/>
+        <rotation x="-3.100006" y="-2.999999" z="75.799980"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-349.432861" y="-1303.584472" z="22.404991"/>
+        <rotation x="-3.100006" y="-2.999999" z="78.499977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-347.302978" y="-1291.893066" z="23.102806"/>
+        <rotation x="-3.100006" y="-4.299995" z="80.199951"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-345.371795" y="-1280.371826" z="24.180046"/>
+        <rotation x="-3.100006" y="-5.099997" z="80.199951"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-343.268127" y="-1268.784057" z="25.284288"/>
+        <rotation x="-3.100006" y="-5.799993" z="80.199951"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-417.041381" y="-1402.947387" z="22.800579"/>
+        <rotation x="357.000000" y="-2.000000" z="6.900001"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-428.861358" y="-1404.411010" z="22.206819"/>
+        <rotation x="357.000000" y="-4.199995" z="6.900001"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-440.615844" y="-1405.889526" z="21.147937"/>
+        <rotation x="357.000000" y="-6.399993" z="6.900001"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-452.061920" y="-1407.531982" z="19.500740"/>
+        <rotation x="357.000000" y="-10.700000" z="7.599997"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-463.592041" y="-1409.049560" z="17.401245"/>
+        <rotation x="357.000000" y="-8.099994" z="5.899997"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-475.200347" y="-1410.178222" z="16.125698"/>
+        <rotation x="357.000000" y="-6.299999" z="4.999998"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-486.869201" y="-1411.255371" z="15.091353"/>
+        <rotation x="357.000000" y="-4.300001" z="6.099997"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-498.542388" y="-1412.543457" z="14.319668"/>
+        <rotation x="357.000000" y="-3.800002" z="6.099997"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-509.867126" y="-1415.489868" z="13.491888"/>
+        <rotation x="357.000000" y="-3.800002" z="21.500007"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-520.862304" y="-1419.866699" z="12.706935"/>
+        <rotation x="357.000000" y="-3.800002" z="21.500007"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-531.538879" y="-1425.114501" z="11.940660"/>
+        <rotation x="357.000000" y="-2.700001" z="30.600023"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-541.260620" y="-1431.637084" z="11.248551"/>
+        <rotation x="357.000000" y="-2.700001" z="36.900024"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-550.691894" y="-1438.764160" z="10.561882"/>
+        <rotation x="357.000000" y="-2.700001" z="36.900024"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-559.339599" y="-1438.103637" z="10.943938"/>
+        <rotation x="357.000000" y="3.999994" z="-41.699966"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-567.753234" y="-1430.017089" z="11.718793"/>
+        <rotation x="357.000000" y="3.999994" z="-44.799953"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-576.459594" y="-1422.337036" z="12.595267"/>
+        <rotation x="357.000000" y="3.999994" z="-35.399948"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-585.768188" y="-1415.113647" z="13.475481"/>
+        <rotation x="357.000000" y="3.999994" z="-38.599929"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-591.144714" y="-1405.655639" z="14.201992"/>
+        <rotation x="357.000000" y="2.799997" z="-82.199920"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-591.755859" y="-1394.122924" z="14.655199"/>
+        <rotation x="357.000000" y="1.799993" z="-90.200042"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-591.695556" y="-1382.299438" z="14.986489"/>
+        <rotation x="357.000000" y="3.299993" z="-90.200042"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-591.947143" y="-1370.616699" z="16.872608"/>
+        <rotation x="357.000000" y="9.899991" z="-88.200073"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-592.037353" y="-1359.017456" z="18.864866"/>
+        <rotation x="357.000000" y="9.899991" z="-89.100059"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-592.042114" y="-1347.416992" z="20.533832"/>
+        <rotation x="357.000000" y="5.799990" z="-89.100059"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-592.011352" y="-1335.686279" z="21.574905"/>
+        <rotation x="357.000000" y="4.599988" z="-89.100059"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-591.999023" y="-1323.998657" z="22.465915"/>
+        <rotation x="357.000000" y="4.599988" z="-89.500053"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-592.090942" y="-1312.173339" z="22.691839"/>
+        <rotation x="357.000000" y="-1.400006" z="-89.500053"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-591.942810" y="-1300.436035" z="22.311410"/>
+        <rotation x="357.000000" y="-1.400006" z="-89.500053"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-592.029418" y="-1292.268798" z="22.032190"/>
+        <rotation x="357.000000" y="-1.400006" z="-89.500053"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-221.075042" y="-1559.860107" z="5.322097"/>
+        <rotation x="357.000000" y="6.099993" z="-179.700225"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-216.113388" y="-1559.810058" z="5.854244"/>
+        <rotation x="357.000000" y="6.099993" z="-179.700225"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-210.594833" y="-1529.497436" z="6.861159"/>
+        <rotation x="357.000000" y="2.099989" z="-89.500167"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-210.645584" y="-1541.285644" z="6.606794"/>
+        <rotation x="357.000000" y="0.999989" z="-90.000167"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-210.649673" y="-1553.144042" z="6.529921"/>
+        <rotation x="357.000000" y="0.199990" z="-90.000167"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-517.442993" y="-1287.323242" z="24.545860"/>
+        <rotation x="357.000000" y="10.699982" z="176.399841"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-529.099731" y="-1287.043579" z="22.805334"/>
+        <rotation x="357.000000" y="3.199982" z="-179.600128"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-505.827301" y="-1288.168579" z="26.733177"/>
+        <rotation x="357.000000" y="10.699982" z="176.399841"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-494.220031" y="-1288.235107" z="28.583047"/>
+        <rotation x="357.000000" y="7.599977" z="-176.900146"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-482.482940" y="-1287.905151" z="30.196004"/>
+        <rotation x="357.000000" y="7.599977" z="-176.900146"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-470.825561" y="-1287.356811" z="31.801343"/>
+        <rotation x="357.000000" y="7.399981" z="-176.900146"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-459.281616" y="-1285.485595" z="33.101779"/>
+        <rotation x="357.000000" y="5.399981" z="-164.400115"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-447.937835" y="-1282.375366" z="34.161975"/>
+        <rotation x="357.000000" y="5.399981" z="-164.400115"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-436.587005" y="-1279.248413" z="34.955829"/>
+        <rotation x="357.000000" y="2.799982" z="-164.400115"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-425.105102" y="-1276.698608" z="35.179813"/>
+        <rotation x="357.000000" y="-1.100015" z="-170.899993"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-413.479492" y="-1274.944580" z="35.298648"/>
+        <rotation x="357.000000" y="0.199982" z="-170.899993"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-401.631500" y="-1273.157104" z="34.885143"/>
+        <rotation x="357.000000" y="-5.000016" z="-170.899993"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-390.148864" y="-1271.265014" z="33.888420"/>
+        <rotation x="357.000000" y="-5.000016" z="-170.899993"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-378.548248" y="-1269.322021" z="32.661434"/>
+        <rotation x="357.000000" y="-7.200016" z="-170.899993"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-366.981567" y="-1267.389038" z="31.111566"/>
+        <rotation x="357.000000" y="-8.000017" z="-170.899993"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-355.599975" y="-1265.453125" z="28.988136"/>
+        <rotation x="357.000000" y="-12.800024" z="-170.899993"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-347.969512" y="-1264.137939" z="27.231466"/>
+        <rotation x="357.000000" y="-12.800024" z="-170.899993"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-326.272521" y="-1317.909912" z="9.432657"/>
+        <rotation x="357.000000" y="0.000000" z="93.899955"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-529.021484" y="-1286.969604" z="21.399467"/>
+        <rotation x="357.000000" y="3.199982" z="-179.600128"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-324.879760" y="-1344.519775" z="9.341303"/>
+        <rotation x="357.000000" y="1.199998" z="88.699905"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-325.768615" y="-1356.165283" z="9.884455"/>
+        <rotation x="357.000000" y="3.799998" z="82.799957"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-327.584625" y="-1367.842407" z="10.603205"/>
+        <rotation x="357.000000" y="3.799998" z="80.299949"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-329.056213" y="-1379.462402" z="11.410307"/>
+        <rotation x="357.000000" y="4.400000" z="85.699867"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-329.991668" y="-1391.167480" z="12.464035"/>
+        <rotation x="357.000000" y="4.899999" z="85.699867"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-330.908538" y="-1402.736694" z="13.357431"/>
+        <rotation x="357.000000" y="4.599997" z="85.699867"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-331.834625" y="-1414.505737" z="14.141965"/>
+        <rotation x="357.000000" y="3.599997" z="85.699867"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-332.751525" y="-1426.187377" z="14.878129"/>
+        <rotation x="357.000000" y="3.599997" z="85.699867"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-328.094390" y="-1432.752441" z="15.136301"/>
+        <rotation x="357.000000" y="-1.599997" z="175.099899"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-316.345672" y="-1433.037597" z="14.961438"/>
+        <rotation x="357.000000" y="-1.599997" z="-178.600097"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-316.345672" y="-1433.037597" z="14.961438"/>
+        <rotation x="357.000000" y="-1.599997" z="-178.600097"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-316.345672" y="-1433.037597" z="14.961438"/>
+        <rotation x="357.000000" y="-1.599997" z="-178.600097"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-316.345672" y="-1433.037597" z="14.961438"/>
+        <rotation x="357.000000" y="-1.599997" z="-178.600097"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-316.345672" y="-1433.037597" z="14.961438"/>
+        <rotation x="357.000000" y="-1.599997" z="-178.600097"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-304.605285" y="-1432.721679" z="14.364380"/>
+        <rotation x="357.000000" y="-4.299993" z="-178.600097"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-292.836425" y="-1432.882812" z="13.011137"/>
+        <rotation x="357.000000" y="-7.999990" z="177.099822"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-281.086120" y="-1433.400146" z="11.481475"/>
+        <rotation x="357.000000" y="-7.999990" z="177.099822"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-269.649291" y="-1432.878540" z="9.887268"/>
+        <rotation x="357.000000" y="-7.999990" z="-171.400161"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-258.151733" y="-1431.480224" z="8.063993"/>
+        <rotation x="357.000000" y="-8.899992" z="-175.600173"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-246.610961" y="-1430.151733" z="6.365552"/>
+        <rotation x="357.000000" y="-8.299996" z="-173.000137"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-235.053070" y="-1428.784912" z="5.026432"/>
+        <rotation x="357.000000" y="-4.999998" z="-173.000137"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-223.501190" y="-1426.761718" z="4.048975"/>
+        <rotation x="357.000000" y="-4.399999" z="-169.400161"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-211.871215" y="-1424.929077" z="3.052448"/>
+        <rotation x="357.000000" y="-3.399996" z="-172.700164"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-200.237762" y="-1423.233032" z="2.828752"/>
+        <rotation x="357.000000" y="-0.100000" z="-171.200103"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-188.566314" y="-1421.429321" z="2.878070"/>
+        <rotation x="357.000000" y="-0.100000" z="-171.200103"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-176.925018" y="-1419.624877" z="2.857537"/>
+        <rotation x="357.000000" y="-0.100000" z="-171.200103"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-164.987365" y="-1417.775024" z="2.836488"/>
+        <rotation x="357.000000" y="-0.100000" z="-171.200103"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-160.129043" y="-1410.816162" z="2.825356"/>
+        <rotation x="357.000000" y="-0.100000" z="-80.600204"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-161.978469" y="-1399.203613" z="2.861114"/>
+        <rotation x="357.000000" y="-0.100000" z="-81.500190"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-163.335754" y="-1387.500122" z="2.820137"/>
+        <rotation x="357.000000" y="-0.100000" z="-84.900146"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-163.853027" y="-1375.834106" z="2.892333"/>
+        <rotation x="357.000000" y="-0.100000" z="-89.700172"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-163.915344" y="-1364.124145" z="2.871922"/>
+        <rotation x="357.000000" y="-0.100000" z="-89.700172"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-163.747909" y="-1352.419433" z="2.839478"/>
+        <rotation x="357.000000" y="-0.100000" z="-91.600151"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-163.676574" y="-1340.706787" z="2.922533"/>
+        <rotation x="357.000000" y="-0.100000" z="-89.600181"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-163.380920" y="-1329.024658" z="2.882239"/>
+        <rotation x="357.000000" y="-0.100000" z="-94.300125"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-162.218276" y="-1317.403198" z="2.846688"/>
+        <rotation x="357.000000" y="-0.100000" z="-97.200119"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-160.740509" y="-1305.695800" z="2.826122"/>
+        <rotation x="357.000000" y="-0.100000" z="-97.200119"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-320.554290" y="-1312.535644" z="9.397768"/>
+        <rotation x="357.000000" y="-0.799996" z="177.299896"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-308.837249" y="-1312.652221" z="9.316637"/>
+        <rotation x="357.000000" y="-0.799996" z="179.999893"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-296.976928" y="-1312.649780" z="9.261111"/>
+        <rotation x="357.000000" y="-0.799996" z="179.999893"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-285.146697" y="-1312.315917" z="9.532649"/>
+        <rotation x="357.000000" y="2.999999" z="-175.300064"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-273.453460" y="-1311.391235" z="10.226531"/>
+        <rotation x="357.000000" y="2.999999" z="-175.300064"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-261.763763" y="-1310.457885" z="10.720311"/>
+        <rotation x="357.000000" y="1.500000" z="-175.300064"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-250.042694" y="-1309.805664" z="10.901953"/>
+        <rotation x="357.000000" y="1.500000" z="179.299789"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-238.255187" y="-1310.196777" z="10.697484"/>
+        <rotation x="357.000000" y="-2.599997" z="-179.500198"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-226.583633" y="-1309.671142" z="9.598484"/>
+        <rotation x="357.000000" y="-7.699995" z="-175.000228"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-214.879592" y="-1308.561523" z="7.960774"/>
+        <rotation x="357.000000" y="-7.699995" z="-175.000228"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-203.237716" y="-1307.064453" z="6.714772"/>
+        <rotation x="357.000000" y="-5.500000" z="-168.300262"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-191.701217" y="-1304.745483" z="5.737275"/>
+        <rotation x="357.000000" y="-5.000000" z="-169.400299"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-180.091018" y="-1302.517089" z="4.674312"/>
+        <rotation x="357.000000" y="-5.000000" z="-169.400299"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-168.404525" y="-1300.778442" z="3.643121"/>
+        <rotation x="357.000000" y="-5.000000" z="-174.100326"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-165.651062" y="-1300.481079" z="3.401160"/>
+        <rotation x="357.000000" y="-5.000000" z="-174.100326"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-336.861877" y="-1471.291503" z="15.384119"/>
+        <rotation x="357.000000" y="-0.899999" z="85.699867"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-540.754760" y="-1287.062133" z="22.912027"/>
+        <rotation x="357.000000" y="-3.700016" z="179.699859"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-338.442535" y="-1497.575317" z="15.100359"/>
+        <rotation x="357.000000" y="0.800000" z="89.799873"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-338.328979" y="-1509.357421" z="15.393440"/>
+        <rotation x="357.000000" y="1.500000" z="91.499847"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-338.033630" y="-1521.259887" z="15.704774"/>
+        <rotation x="357.000000" y="1.500000" z="91.499847"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-337.215698" y="-1532.978637" z="16.040742"/>
+        <rotation x="357.000000" y="1.500000" z="96.899864"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-335.821502" y="-1544.632324" z="16.347618"/>
+        <rotation x="357.000000" y="1.500000" z="96.899864"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-334.436584" y="-1556.252807" z="16.763513"/>
+        <rotation x="357.000000" y="1.500000" z="96.899864"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-328.172454" y="-1561.359741" z="15.816493"/>
+        <rotation x="357.000000" y="-11.800001" z="-172.400131"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-316.840301" y="-1559.894897" z="13.432126"/>
+        <rotation x="357.000000" y="-11.800001" z="-175.300125"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-305.425842" y="-1559.531372" z="11.021619"/>
+        <rotation x="357.000000" y="-11.800001" z="176.299758"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-294.066528" y="-1559.501586" z="8.609409"/>
+        <rotation x="357.000000" y="-12.600004" z="-179.700210"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-282.502593" y="-1559.306762" z="6.027945"/>
+        <rotation x="357.000000" y="-12.600004" z="-179.700210"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-279.272674" y="-1559.242187" z="5.307404"/>
+        <rotation x="357.000000" y="-12.600004" z="-179.700210"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-267.723388" y="-1559.273803" z="3.897212"/>
+        <rotation x="357.000000" y="-1.600007" z="178.299774"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-256.032318" y="-1559.467285" z="3.457993"/>
+        <rotation x="357.000000" y="-2.400007" z="178.299774"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-244.456756" y="-1559.784790" z="2.973315"/>
+        <rotation x="357.000000" y="0.999993" z="178.299774"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-552.562500" y="-1287.046752" z="23.804622"/>
+        <rotation x="357.000000" y="-3.400016" z="179.699859"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-564.491943" y="-1286.989135" z="23.896858"/>
+        <rotation x="357.000000" y="3.099983" z="179.699859"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-576.402954" y="-1286.976440" z="23.117904"/>
+        <rotation x="357.000000" y="4.499982" z="-179.400115"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-585.993408" y="-1287.036743" z="22.364177"/>
+        <rotation x="357.000000" y="4.499982" z="-179.400115"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-210.664276" y="-1517.793457" z="7.485424"/>
+        <rotation x="357.000000" y="4.499989" z="-89.500167"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-210.718444" y="-1506.029418" z="8.409976"/>
+        <rotation x="357.000000" y="4.499989" z="-89.500167"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-210.748062" y="-1494.910400" z="8.928821"/>
+        <rotation x="357.000000" y="0.399991" z="-89.500167"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-210.904357" y="-1483.235717" z="8.653197"/>
+        <rotation x="357.000000" y="-2.300007" z="-89.500167"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-211.025131" y="-1471.493164" z="8.302097"/>
+        <rotation x="357.000000" y="-1.500007" z="-89.500167"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-215.883193" y="-1465.633422" z="7.359755"/>
+        <rotation x="357.000000" y="-7.900008" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-227.482910" y="-1465.744140" z="5.631381"/>
+        <rotation x="357.000000" y="-9.100008" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-236.487686" y="-1465.837158" z="4.190950"/>
+        <rotation x="357.000000" y="-9.100008" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-248.082504" y="-1465.898559" z="3.424024"/>
+        <rotation x="357.000000" y="0.299988" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-259.842071" y="-1465.924804" z="3.486036"/>
+        <rotation x="357.000000" y="0.299988" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-267.951904" y="-1465.926391" z="3.527919"/>
+        <rotation x="357.000000" y="0.299988" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-279.768280" y="-1465.890747" z="4.594349"/>
+        <rotation x="357.000000" y="9.799988" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-291.359924" y="-1465.804931" z="6.634326"/>
+        <rotation x="357.000000" y="9.799988" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-303.083801" y="-1465.713745" z="8.778202"/>
+        <rotation x="357.000000" y="10.699993" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-314.669433" y="-1465.619995" z="10.964221"/>
+        <rotation x="357.000000" y="11.399991" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-326.173400" y="-1465.562011" z="13.404612"/>
+        <rotation x="357.000000" y="11.699994" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-330.188537" y="-1465.475830" z="14.232275"/>
+        <rotation x="357.000000" y="11.699994" z="0.099830"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="1569" type="dynamic">
+        <position x="-383.697204" y="-1431.208374" z="25.383514"/>
+        <rotation x="0.000000" y="0.000000" z="180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="3241" txd="conhooses" texture="des_adobedoor1"
+                      color="0xFFFFFFFF"/>
+        </materials>
+    </object>
+    <object id="1569" type="dynamic">
+        <position x="-383.527191" y="-1443.708374" z="25.383514"/>
+        <rotation x="0.000000" y="0.000000" z="180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="3241" txd="conhooses" texture="des_adobedoor1"
+                      color="0xFFFFFFFF"/>
+        </materials>
+    </object>
+    <object id="1569" type="dynamic">
+        <position x="-402.126922" y="-1425.798095" z="25.383514"/>
+        <rotation x="0.000000" y="0.000000" z="90.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="3241" txd="conhooses" texture="des_adobedoor1"
+                      color="0xFFFFFFFF"/>
+        </materials>
+    </object>
+    <object id="1483" type="dynamic">
+        <position x="-368.743865" y="-1447.989135" z="26.465164"/>
+        <rotation x="0.000000" y="-0.000007" z="-176.699966"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-368.843811" y="-1454.589233" z="25.516183"/>
+        <rotation x="0.000000" y="0.000000" z="12.500000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-380.924530" y="-1455.646728" z="25.516183"/>
+        <rotation x="0.000000" y="0.000000" z="-2.499998"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-392.596313" y="-1453.424316" z="25.516183"/>
+        <rotation x="0.000000" y="0.000000" z="-20.900024"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-364.845245" y="-1447.537841" z="25.556182"/>
+        <rotation x="0.000000" y="0.000000" z="104.199974"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-366.077606" y="-1435.902099" z="25.556182"/>
+        <rotation x="0.000000" y="0.000000" z="87.799987"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-364.565826" y="-1424.135375" z="25.556182"/>
+        <rotation x="0.000000" y="0.000000" z="79.599967"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-361.273895" y="-1412.669677" z="25.556179"/>
+        <rotation x="0.000000" y="0.000000" z="68.100036"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="14875" type="dynamic">
+        <position x="-387.247985" y="-1428.345458" z="25.527576"/>
+        <rotation x="0.000000" y="0.000000" z="180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="-1" txd="none" texture="none" color="0xFFFFFFFF"/>
+        </materials>
+    </object>
+    <object id="1479" type="dynamic">
+        <position x="-382.044403" y="-1453.204956" z="26.065155"/>
+        <rotation x="0.000000" y="0.000007" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="1483" type="dynamic">
+        <position x="-372.437988" y="-1448.201416" z="26.465164"/>
+        <rotation x="0.000000" y="0.000007" z="3.299985"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="17000" type="dynamic">
+        <position x="-370.320739" y="-1417.680175" z="24.314882"/>
+        <rotation x="0.000000" y="0.000007" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="2" modelId="915" txd="airconext" texture="cj_sheet2" color="0x00000000"/>
+            <material type="object" index="5" modelId="915" txd="airconext" texture="cj_sheet2" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="1437" type="dynamic">
+        <position x="-373.666046" y="-1415.799560" z="25.989242"/>
+        <rotation x="-0.000006" y="-0.000003" z="-119.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="915" txd="airconext" texture="cj_sheet2" color="0xFFFFFFFF"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-365.256683" y="-1408.032104" z="25.576181"/>
+        <rotation x="0.000000" y="0.000000" z="-172.799942"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3276" type="dynamic">
+        <position x="-388.181152" y="-1413.025390" z="25.526180"/>
+        <rotation x="0.000000" y="0.000000" z="-171.499938"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_wdpanscum"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="14875" type="dynamic">
+        <position x="-375.978118" y="-1446.885253" z="25.527576"/>
+        <rotation x="0.000000" y="0.000000" z="-90.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="-1" txd="none" texture="none" color="0xFFFFFFFF"/>
+        </materials>
+    </object>
+    <object id="14875" type="dynamic">
+        <position x="-375.618225" y="-1449.746093" z="25.527576"/>
+        <rotation x="0.000000" y="0.000000" z="-180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="-1" txd="none" texture="none" color="0xFFFFFFFF"/>
+        </materials>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-307.734008" y="-1434.839965" z="14.511897"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-244.277648" y="-1434.991210" z="5.289062"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-204.027664" y="-1458.061401" z="7.689062"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-166.087661" y="-1430.790771" z="4.439055"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-180.867675" y="-1454.711059" z="6.369054"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-349.117797" y="-1420.041259" z="21.249059"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-322.317840" y="-1456.911254" z="13.179056"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-312.477813" y="-1447.631103" z="12.129051"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-217.018356" y="-1439.632080" z="5.289061"/>
+        <rotation x="0.000000" y="0.000000" z="70.700004"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-364.037719" y="-1491.081542" z="24.319051"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-350.937805" y="-1515.381713" z="20.249031"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="790" type="dynamic">
+        <position x="-292.795227" y="-1286.759277" z="9.234153"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="790" type="dynamic">
+        <position x="-182.215332" y="-1216.298950" z="10.414147"/>
+        <rotation x="0.000000" y="0.000000" z="113.500007"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="790" type="dynamic">
+        <position x="-589.727783" y="-1570.211791" z="16.618999"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="790" type="dynamic">
+        <position x="-326.390960" y="-1576.288940" z="19.678930"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-337.231719" y="-1556.865478" z="17.217367"/>
+        <rotation x="0.000000" y="0.000000" z="101.199996"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-337.717254" y="-1554.413085" z="17.187366"/>
+        <rotation x="0.000000" y="0.000000" z="101.199996"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-338.173736" y="-1552.107910" z="17.147365"/>
+        <rotation x="0.000000" y="0.000000" z="101.199996"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-338.659454" y="-1549.655639" z="17.077362"/>
+        <rotation x="0.000000" y="0.000000" z="101.199996"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-339.170196" y="-1547.075439" z="17.007362"/>
+        <rotation x="0.000000" y="0.000000" z="101.199996"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-254.087631" y="-1295.360717" z="6.019061"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-269.647735" y="-1240.410766" z="5.219057"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-224.007659" y="-1231.790893" z="8.439057"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-174.527694" y="-1234.490966" z="7.729049"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="17005" type="dynamic">
+        <position x="-394.694580" y="-1430.927368" z="32.490135"/>
+        <rotation x="0.000000" y="0.000000" z="-180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1451" type="dynamic">
+        <position x="-384.898162" y="-1452.315307" z="25.526559"/>
+        <rotation x="0.000000" y="-0.000014" z="179.999908"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1451" type="dynamic">
+        <position x="-383.168304" y="-1452.315307" z="25.526559"/>
+        <rotation x="0.000000" y="-0.000014" z="179.999908"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1451" type="dynamic">
+        <position x="-381.378326" y="-1452.315307" z="25.526559"/>
+        <rotation x="0.000000" y="-0.000014" z="179.999908"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1451" type="dynamic">
+        <position x="-379.408325" y="-1452.315307" z="25.526559"/>
+        <rotation x="0.000000" y="-0.000014" z="179.999908"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1458" type="dynamic">
+        <position x="-387.413513" y="-1445.241455" z="24.958852"/>
+        <rotation x="0.000000" y="0.000000" z="-121.399948"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-390.108612" y="-1429.261352" z="25.513465"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-392.088714" y="-1429.261352" z="25.513465"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1454" type="dynamic">
+        <position x="-391.108825" y="-1429.261352" z="26.743465"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1463" type="dynamic">
+        <position x="-390.209716" y="-1444.658447" z="25.027658"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1452" type="dynamic">
+        <position x="-394.583679" y="-1448.085937" z="25.769317"/>
+        <rotation x="0.000000" y="0.000000" z="-270.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="1452" type="dynamic">
+        <position x="-394.583679" y="-1449.976684" z="25.769317"/>
+        <rotation x="0.000000" y="0.000000" z="-270.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="790" type="dynamic">
+        <position x="-357.445098" y="-1448.910156" z="27.354145"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="790" type="dynamic">
+        <position x="-369.745086" y="-1468.370361" z="29.844133"/>
+        <rotation x="0.000000" y="0.000000" z="-23.599987"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-352.857757" y="-1341.701171" z="17.249057"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="800" type="dynamic">
+        <position x="-385.817749" y="-1462.442626" z="25.719060"/>
+        <rotation x="0.000000" y="0.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+</appender>

@@ -1,4 +1,3 @@
-using System;
 using GlobalSamp.Application.Translator;
 using GlobalSamp.Player;
 using SampSharp.GameMode.Definitions;
@@ -28,8 +27,7 @@ namespace GlobalSamp.Dialog
                 {
                     return;
                 }
-
-                e.Player.SendClientMessage("Вы не ввели пароль");
+                e.Player.SendClientMessage(Translator.Instance.GetMessage("not_password"));
                 e.Player.Kick();
                 return;
             }
@@ -40,11 +38,45 @@ namespace GlobalSamp.Dialog
                 if (data.Password == e.InputText)
                 {
                     data.Authorized = true;
+                    e.Player.ToggleSpectating(false);
+                    e.Player.ForceClassSelection();
+                    e.Player.SetSpawnInfo(1, 181, SpawnPosition.DEFAULT, 1);
+                    e.Player.Spawn();
+                }
+                else
+                {
+                    Response -= OnInputRegistrationData;
+                    int i = 3;
+                    for (i = 3; i != 0; i--)
+                    {
+                        if (data.Password == e.InputText)
+                        {
+                            data.Authorized = true;
+                            e.Player.ToggleSpectating(false);
+                            e.Player.ForceClassSelection();
+                            e.Player.SetSpawnInfo(1, 181, SpawnPosition.DEFAULT, 1);
+                            e.Player.Spawn();
+                        }
+                        else
+                        {
+                            InputDialog dialog = new InputDialog(
+                                Translator.Instance.GetMessage("wrongPass_caption"),
+                                Translator.Instance.GetMessage("wrongPass_message") + i,
+                                true,
+                                Translator.Instance.GetMessage("leftButton"));
+                            dialog.Show(e.Player);
+                        }
+                    }
+
+                    if (i == 0)
+                    {
+                        e.Player.SendClientMessage(Translator.Instance.GetMessage("wrongPass_end"));
+                        e.Player.Kick();
+                    }
                 }
             }
             else
             {
-                
                 Response -= OnInputRegistrationData;
                 data = new PlayerData
                 {

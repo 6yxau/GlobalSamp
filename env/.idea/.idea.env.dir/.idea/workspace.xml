@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c62b2225-5c18-465c-81f4-f29838b26167" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Player/SpawnPosition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Tools/DataAccess/Repository/StorageManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Config/Translations/nationality.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Config/Translations/translation_ru.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Config/Translations/translation_ru.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/GlobalSamp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/GlobalSamp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Application/Translator/Translator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Application/Translator/Translator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Dialog/Promo1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Dialog/Promo1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Dialog/Promo2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Dialog/Promo2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Dialog/RegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/GameMode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Player/Dao/PlayerDao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Player/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Src/Player/PlayerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Tools/Common/Singleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/Tools/Common/Singleton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/GlobalSamp/GlobalSamp/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\sampserver\env\.idea\.idea.env.dir\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QvgDxqQaVDiPLldzs6w9CTlJ79" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c62b2225-5c18-465c-81f4-f29838b26167" name="Default Changelist" comment="" />
+      <created>1568656367427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568656367427</updated>
+      <workItem from="1568656369167" duration="182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

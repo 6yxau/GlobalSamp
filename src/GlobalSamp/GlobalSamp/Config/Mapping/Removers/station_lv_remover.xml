@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<remover>
+    <object id="8577">
+        <position x="2809.320" y="1303.189" z="10.546" radius="0.250"/>
+    </object>
+    <object id="8743">
+        <position x="2809.320" y="1303.189" z="10.546" radius="0.250"/>
+    </object>
+    <object id="9109">
+        <position x="2866.760" y="1411.229" z="12.867" radius="0.250"/>
+    </object>
+    <object id="9032">
+        <position x="2866.760" y="1411.229" z="12.867" radius="0.250"/>
+    </object>
+</remover>

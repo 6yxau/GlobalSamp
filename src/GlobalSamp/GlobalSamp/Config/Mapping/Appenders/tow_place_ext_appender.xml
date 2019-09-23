@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appender>
+    <object id="3033" type="dynamic">
+        <position x="-2598.982177" y="680.424194" z="33.186203"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="14584" txd="ab_abbatoir01" texture="cj_sheetmetal"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18880" type="dynamic">
+        <position x="-2598.856445" y="678.113586" z="31.113367"/>
+        <rotation x="0.000000" y="180.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="2" modelId="16640" txd="a51" texture="Alumox64" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18880" type="dynamic">
+        <position x="-2598.856445" y="691.784362" z="31.113367"/>
+        <rotation x="0.000000" y="180.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="2" modelId="16640" txd="a51" texture="Alumox64" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18880" type="dynamic">
+        <position x="-2598.856445" y="684.934204" z="31.113367"/>
+        <rotation x="0.000000" y="180.000000" z="0.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="2" modelId="16640" txd="a51" texture="Alumox64" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.972167" y="684.893310" z="33.181201"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="14584" txd="ab_abbatoir01" texture="cj_sheetmetal"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.982177" y="689.413696" z="33.186203"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="14584" txd="ab_abbatoir01" texture="cj_sheetmetal"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.902099" y="680.424194" z="33.186203"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.892089" y="684.893310" z="33.181201"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.902099" y="689.413696" z="33.186203"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.822021" y="680.424194" z="33.186203"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.812011" y="684.893310" z="33.181201"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.822021" y="689.413696" z="33.186203"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.741943" y="680.424194" z="33.186203"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="14584" txd="ab_abbatoir01" texture="cj_sheetmetal"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.731933" y="684.893310" z="33.181201"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="14584" txd="ab_abbatoir01" texture="cj_sheetmetal"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="3033" type="dynamic">
+        <position x="-2598.741943" y="689.413696" z="33.186203"/>
+        <rotation x="0.000022" y="0.000000" z="89.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="14584" txd="ab_abbatoir01" texture="cj_sheetmetal"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="2790" type="dynamic">
+        <position x="-2598.972167" y="686.708007" z="32.212978"/>
+        <rotation x="-0.000045" y="0.000000" z="-89.999862"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0xFFFFFFFF"/>
+            <material type="object" index="2" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0x00000000"/>
+            <material type="text" index="1" text="TOW" size="130" font="Impact" fontSize="150" bold="0"
+                      fontColor="0xFFFFFFFF" backColor="0x00000000" textAligment="1"/>
+        </materials>
+    </object>
+    <object id="2790" type="dynamic">
+        <position x="-2598.972167" y="683.788208" z="32.212978"/>
+        <rotation x="-0.000045" y="0.000000" z="-89.999862"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0xFFFFFFFF"/>
+            <material type="object" index="2" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0x00000000"/>
+            <material type="text" index="1" text="PLACE" size="130" font="Impact" fontSize="150" bold="0"
+                      fontColor="0xFFFFFFFF" backColor="0x00000000" textAligment="1"/>
+        </materials>
+    </object>
+    <object id="2790" type="dynamic">
+        <position x="-2598.952148" y="686.607910" z="32.212978"/>
+        <rotation x="-0.000052" y="0.000000" z="-89.999839"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0xFFFFFFFF"/>
+            <material type="object" index="2" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0x00000000"/>
+            <material type="text" index="1" text="TOW" size="130" font="Impact" fontSize="150" bold="0"
+                      fontColor="0xFF000000" backColor="0x00000000" textAligment="1"/>
+        </materials>
+    </object>
+    <object id="2790" type="dynamic">
+        <position x="-2598.952148" y="683.688110" z="32.212978"/>
+        <rotation x="-0.000052" y="0.000000" z="-89.999839"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0xFFFFFFFF"/>
+            <material type="object" index="2" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0x00000000"/>
+            <material type="text" index="1" text="PLACE" size="130" font="Impact" fontSize="150" bold="0"
+                      fontColor="0xFF000000" backColor="0x00000000" textAligment="1"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="680.801574" z="32.157394"/>
+        <rotation x="-0.000029" y="270.000000" z="-89.999916"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="680.261352" z="31.827396"/>
+        <rotation x="-0.000029" y="270.000000" z="-89.999916"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="679.731811" z="32.157394"/>
+        <rotation x="-0.000029" y="270.000000" z="-89.999916"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="679.191223" z="31.827396"/>
+        <rotation x="-0.000029" y="270.000000" z="-89.999916"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="678.651245" z="32.157394"/>
+        <rotation x="-0.000029" y="270.000000" z="-89.999916"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="691.372741" z="32.157394"/>
+        <rotation x="-0.000037" y="270.000000" z="-89.999893"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="690.832519" z="31.827396"/>
+        <rotation x="-0.000037" y="270.000000" z="-89.999893"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="690.302978" z="32.157394"/>
+        <rotation x="-0.000037" y="270.000000" z="-89.999893"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="689.762390" z="31.827396"/>
+        <rotation x="-0.000037" y="270.000000" z="-89.999893"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="18066" type="dynamic">
+        <position x="-2599.004882" y="689.222412" z="32.157394"/>
+        <rotation x="-0.000037" y="270.000000" z="-89.999893"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9514" txd="711_sfw" texture="ws_carpark2" color="0xFFFFFFFF"/>
+            <material type="object" index="1" modelId="15041" txd="bigsfsave" texture="AH_skt5" color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="10832" type="dynamic">
+        <position x="-2591.675048" y="673.127258" z="28.616170"/>
+        <rotation x="0.000000" y="0.000000" z="270.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="9582" txd="fort_sfw" texture="club_roofwin_sfw"
+                      color="0x00000000"/>
+            <material type="object" index="1" modelId="18029" txd="genintintsmallrest" texture="GB_restaursmll12"
+                      color="0x00000000"/>
+            <material type="object" index="2" modelId="4835" txd="airoads_las" texture="ws_carparkwall1"
+                      color="0x00000000"/>
+            <material type="object" index="4" modelId="4835" txd="airoads_las" texture="ws_carparkwall1"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2598.867431" y="672.781616" z="29.393711"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2598.867431" y="662.401733" z="29.393711"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2598.867431" y="652.041870" z="29.393711"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2598.867431" y="641.671447" z="29.393711"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2598.867431" y="631.300903" z="29.393711"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2598.862548" y="624.571411" z="29.393711"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2593.681884" y="619.411010" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="179.999954"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2543.449462" y="619.411010" z="29.393711"/>
+        <rotation x="0.000000" y="0.000000" z="180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2593.576416" y="691.911621" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="179.999954"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2583.217285" y="691.911621" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="179.999954"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2572.873291" y="691.447692" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="174.900009"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2553.819824" y="619.411010" z="29.393711"/>
+        <rotation x="0.000000" y="0.000000" z="180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2583.312988" y="619.411010" z="29.393711"/>
+        <rotation x="0.000000" y="0.000000" z="180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2572.941650" y="619.411010" z="29.393711"/>
+        <rotation x="0.000000" y="0.000000" z="180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2563.400390" y="619.416015" z="29.393711"/>
+        <rotation x="0.000000" y="0.000000" z="180.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="19425" type="dynamic">
+        <position x="-2599.259277" y="686.861938" z="26.812500"/>
+        <rotation x="0.000000" y="0.000000" z="90.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="19425" type="dynamic">
+        <position x="-2599.259277" y="689.981750" z="26.811500"/>
+        <rotation x="0.000000" y="0.000000" z="90.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="19425" type="dynamic">
+        <position x="-2599.259277" y="679.900573" z="26.812500"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="19425" type="dynamic">
+        <position x="-2599.259277" y="683.020385" z="26.811500"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="19425" type="dynamic">
+        <position x="-2598.438476" y="686.861938" z="26.812500"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="19425" type="dynamic">
+        <position x="-2598.438476" y="689.981750" z="26.811500"/>
+        <rotation x="0.000007" y="0.000000" z="89.999977"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="19425" type="dynamic">
+        <position x="-2598.438476" y="679.900573" z="26.812500"/>
+        <rotation x="0.000014" y="0.000000" z="89.999954"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="19425" type="dynamic">
+        <position x="-2598.438476" y="683.020385" z="26.811500"/>
+        <rotation x="0.000014" y="0.000000" z="89.999954"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2563.005859" y="688.803405" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="154.999893"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2554.267333" y="683.381713" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="141.299972"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2547.190673" y="675.946594" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="125.500000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2546.279541" y="674.668090" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="125.500000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2541.700683" y="665.494750" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="107.500030"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2539.822021" y="659.533935" z="29.393711"/>
+        <rotation x="0.000000" y="-0.000007" z="107.500030"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2538.278808" y="624.590393" z="29.393711"/>
+        <rotation x="0.000000" y="0.000000" z="270.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2538.278808" y="634.960327" z="29.393711"/>
+        <rotation x="0.000000" y="0.000000" z="270.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+    <object id="8674" type="dynamic">
+        <position x="-2538.278808" y="645.329956" z="29.393711"/>
+        <rotation x="0.000000" y="0.000000" z="270.000000"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+    </object>
+</appender>

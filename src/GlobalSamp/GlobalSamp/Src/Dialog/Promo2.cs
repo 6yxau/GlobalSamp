@@ -23,17 +23,17 @@ namespace GlobalSamp.Dialog
             if (data == null)
             {
                 Response -= OnPromo2ChangedResponse;
-                // TODO: Logging
                 return;
+                // TODO: Logging
             }
             if (e.DialogButton != DialogButton.Left)
             {
+                PlayerManager.Instance.AddPlayer(data);
                 Response -= OnPromo2ChangedResponse;
                 return;
             }
-            Response -= OnPromo2ChangedResponse;
-            
             PlayerManager.Instance.AddPlayer(data);
+            Response -= OnPromo2ChangedResponse;
         }
     }
 }

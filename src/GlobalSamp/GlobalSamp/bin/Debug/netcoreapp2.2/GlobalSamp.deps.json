@@ -1,13 +1,14 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "93f235e4a325a3518b2f618e1549ca9863d03866"
+    "signature": "a22c3702e88856624c77fb9cadccf0fb1fb4d5d5"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "GlobalSamp/1.0.0": {
         "dependencies": {
+          "CData.MariaDB": "19.0.7156",
           "MySqlClient": "5.4.2",
           "Newtonsoft.Json": "12.0.3-beta1",
           "SampSharp.Core": "0.8.0",
@@ -17,6 +18,14 @@
         },
         "runtime": {
           "GlobalSamp.dll": {}
+        }
+      },
+      "CData.MariaDB/19.0.7156": {
+        "runtime": {
+          "lib/netstandard2.0/System.Data.CData.MariaDB.dll": {
+            "assemblyVersion": "19.0.0.40",
+            "fileVersion": "19.0.7156.0"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -880,6 +889,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "CData.MariaDB/19.0.7156": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fFtBoMZh/tzEpBBtSSW3rdV6EiOsvko7p+FgFamiGS31y4eV5455lYySgcpocoiqzv9EbQMuVtC5vGWqG6qbkA==",
+      "path": "cdata.mariadb/19.0.7156",
+      "hashPath": "cdata.mariadb.19.0.7156.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

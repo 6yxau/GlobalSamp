@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "CData.MariaDB/19.0.7156": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Data.CData.MariaDB.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Data.CData.MariaDB.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -1451,6 +1460,28 @@
     }
   },
   "libraries": {
+    "CData.MariaDB/19.0.7156": {
+      "sha512": "fFtBoMZh/tzEpBBtSSW3rdV6EiOsvko7p+FgFamiGS31y4eV5455lYySgcpocoiqzv9EbQMuVtC5vGWqG6qbkA==",
+      "type": "package",
+      "path": "cdata.mariadb/19.0.7156",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cdata.mariadb.19.0.7156.nupkg.sha512",
+        "cdata.mariadb.nuspec",
+        "lib/net35/System.Data.CData.MariaDB.Designer.dll",
+        "lib/net35/System.Data.CData.MariaDB.dll",
+        "lib/net40/System.Data.CData.MariaDB.Designer.dll",
+        "lib/net40/System.Data.CData.MariaDB.Entities.EF6.dll",
+        "lib/net40/System.Data.CData.MariaDB.dll",
+        "lib/netstandard2.0/System.Data.CData.MariaDB.dll",
+        "tools/Init.ps1",
+        "tools/install-license.dll",
+        "tools/install-license.runtimeconfig.json",
+        "tools/prod.inf"
+      ]
+    },
     "Microsoft.NETCore.App/2.2.0": {
       "sha512": "QU8taCyeyePwatrj+h+750lMnsPCq3YPaGmsdtSHXPCjDyjto2KT7QDNVet0oRliX4PjaINpyg0Yzd9DnQ/Wkw==",
       "type": "package",
@@ -4894,6 +4925,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "CData.MariaDB >= 19.0.7156",
       "Microsoft.NETCore.App >= 2.2.0",
       "MySqlClient >= 5.4.2",
       "Newtonsoft.Json >= 12.0.3-beta1",
@@ -4943,6 +4975,10 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
+          "CData.MariaDB": {
+            "target": "Package",
+            "version": "[19.0.7156, )"
+          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",

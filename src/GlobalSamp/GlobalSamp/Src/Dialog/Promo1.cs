@@ -22,7 +22,6 @@ namespace GlobalSamp.Dialog
 
         public void OnPromo1Response(object sender, DialogResponseEventArgs e)
         {
-            Console.WriteLine(e.InputText);
             var friend = new FriendInGame();
             PlayerData data = PlayerManager.Instance.GetCachedPlayerData(e.Player.Name);
             if (data == null)

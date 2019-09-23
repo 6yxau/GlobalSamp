@@ -8,8 +8,52 @@
       <e p="GlobalSamp" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="config" t="Include">
+          <e p="mapping" t="Include">
+            <e p="Appenders" t="Include">
+              <e p="247_shop_appender.xml" t="Include" />
+              <e p="bank_int_appender.xml" t="Include" />
+              <e p="BK_ext_appender.xml" t="Include" />
+              <e p="car_show_appender.xml" t="Include" />
+              <e p="clothes_shop_appender.xml" t="Include" />
+              <e p="farm_ext_appender.xml" t="Include" />
+              <e p="farm_int_appender.xml" t="Include" />
+              <e p="garage_1_car_appender.xml" t="Include" />
+              <e p="garage_2_cars_appender.xml" t="Include" />
+              <e p="garage_4_cars_appender.xml" t="Include" />
+              <e p="garage_8_cars_appender.xml" t="Include" />
+              <e p="ghetto_int_appender.xml" t="Include" />
+              <e p="global_bet_appender.xml" t="Include" />
+              <e p="hostel_room_appender.xml" t="Include" />
+              <e p="hotel_corridor_appender.xml" t="Include" />
+              <e p="hotel_reception_analog_appender.xml" t="Include" />
+              <e p="hotel_reception_appender.xml" t="Include" />
+              <e p="hotel_room_class_a_appender.xml" t="Include" />
+              <e p="hotel_room_class_b_appender.xml" t="Include" />
+              <e p="hotel_room_class_c_appender.xml" t="Include" />
+              <e p="market_appender.xml" t="Include" />
+              <e p="narco_lab_appender.xml" t="Include" />
+              <e p="reg_int_appender.xml" t="Include" />
+              <e p="shoot_range_appender.xml" t="Include" />
+              <e p="station_ls_appender.xml" t="Include" />
+              <e p="station_lv_appender.xml" t="Include" />
+              <e p="station_sf_appender.xml" t="Include" />
+              <e p="storage_appender.xml" t="Include" />
+              <e p="tow_place_ext_appender.xml" t="Include" />
+              <e p="voenkom_appender.xml" t="Include" />
+            </e>
+            <e p="mapping.xml" t="Include" />
+            <e p="removers" t="Include">
+              <e p="BK_ext_remover.xml" t="Include" />
+              <e p="car_show_remover.xml" t="Include" />
+              <e p="farm_ext_remover.xml" t="Include" />
+              <e p="market_remover.xml" t="Include" />
+              <e p="station_ls_remover.xml" t="Include" />
+              <e p="station_lv_remover.xml" t="Include" />
+              <e p="station_sf_remover.xml" t="Include" />
+              <e p="storage_remover.xml" t="Include" />
+            </e>
+          </e>
           <e p="Translations" t="Include">
-            <e p="Nationality.xml" t="Include" />
             <e p="translation_ru.xml" t="Include" />
           </e>
         </e>
@@ -28,6 +72,10 @@
               <e p="Translator.cs" t="Include" />
             </e>
           </e>
+          <e p="Commands" t="Include">
+            <e p="Commander.cs" t="Include" />
+            <e p="MyCommandManager.cs" t="Include" />
+          </e>
           <e p="Dao" t="Include">
             <e p="AbstractDao.cs" t="Include" />
           </e>
@@ -42,28 +90,15 @@
             <e p="Promo2.cs" t="Include" />
             <e p="RegistrationDialog.cs" t="Include" />
             <e p="SkinColorDialog.cs" t="Include" />
+            <e p="WrongPass.cs" t="Include" />
           </e>
           <e p="GameMode.cs" t="Include" />
           <e p="mapping" t="Include">
-            <e p="247.txt" t="Include" />
-            <e p="bankint.txt" t="Include" />
-            <e p="carshow.txt" t="Include" />
-            <e p="clothesshop.txt" t="Include" />
-            <e p="ExportMaps.7z" t="Include" />
-            <e p="farmext.txt" t="Include" />
-            <e p="farmint.txt" t="Include" />
-            <e p="ghettoint.txt" t="Include" />
-            <e p="globalbet (2).txt" t="Include" />
-            <e p="globalbet.txt" t="Include" />
-            <e p="market.txt" t="Include" />
-            <e p="narcolab (2).txt" t="Include" />
-            <e p="narcolab.txt" t="Include" />
-            <e p="RegInt.txt" t="Include" />
-            <e p="shootingrange.db" t="Include" />
-            <e p="shootingrange.txt" t="Include" />
-            <e p="shrange.txt" t="Include" />
-            <e p="storage.txt" t="Include" />
-            <e p="towplaceext.txt" t="Include" />
+            <e p="Descriptor" t="Include">
+              <e p="MapRemover.cs" t="Include" />
+            </e>
+            <e p="MapManager.cs" t="Include" />
+            <e p="PickupManager.cs" t="Include" />
           </e>
           <e p="Player" t="Include">
             <e p="Dao" t="Include">
@@ -73,18 +108,19 @@
             <e p="Playerdata.cs" t="Include" />
             <e p="PlayerGender.cs" t="Include" />
             <e p="PlayerManager.cs" t="Include" />
+            <e p="SpawnPosition.cs" t="Include" />
           </e>
         </e>
         <e p="Tools" t="Include">
           <e p="Common" t="Include">
             <e p="Singleton.cs" t="Include" />
           </e>
-          <e p="Serialization" t="Include">
-            <e p="Json" t="Include">
-              <e p="Exception" t="Include">
-                <e p="JsonParse.cs" t="Include" />
-              </e>
+          <e p="DataAccess" t="Include">
+            <e p="Repository" t="Include">
+              <e p="StorageManager.cs" t="Include" />
             </e>
+          </e>
+          <e p="Serialization" t="Include">
             <e p="XML" t="Include">
               <e p="Exception" t="Include">
                 <e p="XmlEmptyFileException.cs" t="Include" />

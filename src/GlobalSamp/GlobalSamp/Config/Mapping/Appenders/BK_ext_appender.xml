@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appender>
+    <object id="7313" type="dynamic">
+        <position x="2370.042968" y="2164.662841" z="12.804697"/>
+        <rotation x="0.000000" y="0.000000" z="-44.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="19467" txd="speed_bumps" texture="vehicle_barrier01"
+                      color="0x00000000"/>
+            <material type="object" index="1" modelId="19962" txd="samproadsigns" texture="materialtext1"
+                      color="0x00000000"/>
+            <material type="text" index="0" text="Global Bet - Ставки на спорт" size="110" font="Arial" fontSize="40"
+                      bold="0" fontColor="0xFFFFFFFF" backColor="0x00000000" textAligment="1"/>
+        </materials>
+    </object>
+    <object id="7313" type="dynamic">
+        <position x="2370.050048" y="2164.669921" z="12.804697"/>
+        <rotation x="0.000000" y="0.000000" z="-44.999931"/>
+        <props worldId="-1" interiorId="-1" playerId="-1" streamDistance="300.00" drawDistance="300.00" areaId="-1"
+               priority="0"/>
+        <materials>
+            <material type="object" index="0" modelId="19426" txd="all_walls" texture="vgsn_scrollsgn256"
+                      color="0x00000000"/>
+        </materials>
+    </object>
+</appender>

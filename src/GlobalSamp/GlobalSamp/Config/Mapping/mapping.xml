@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapping>
+    <removers>
+        <remover src="Removers/BK_ext_remover.xml"/>
+        <remover src="Removers/car_show_remover.xml"/>
+        <remover src="Removers/farm_ext_remover.xml"/>
+        <remover src="Removers/market_remover.xml"/>
+        <remover src="Removers/station_ls_remover.xml"/>
+        <remover src="Removers/station_lv_remover.xml"/>
+        <remover src="Removers/station_sf_remover.xml"/>
+        <remover src="Removers/storage_remover.xml"/>
+    </removers>
+    
+    <appenders>
+        <appender src="Appenders/247_shop_appender.xml"/>
+        <appender src="Appenders/bank_int_appender.xml"/>
+        <appender src="Appenders/BK_ext_appender.xml"/>
+        <appender src="Appenders/car_show_appender.xml"/>
+        <appender src="Appenders/clothes_shop_appender.xml"/>
+        <appender src="Appenders/farm_ext_appender.xml"/>
+        <appender src="Appenders/farm_int_appender.xml"/>
+        <appender src="Appenders/garage_1_car_appender.xml"/>
+        <appender src="Appenders/garage_2_cars_appender.xml"/>
+        <appender src="Appenders/garage_4_cars_appender.xml"/>
+        <appender src="Appenders/garage_8_cars_appender.xml"/>
+        <appender src="Appenders/ghetto_int_appender.xml"/>
+        <appender src="Appenders/global_bet_appender.xml"/>
+        <appender src="Appenders/hostel_room_appender.xml"/>
+        <appender src="Appenders/hotel_reception_analog_appender.xml"/>
+        <appender src="Appenders/hotel_reception_appender.xml"/>
+        <appender src="Appenders/hotel_room_class_a_appender.xml"/>
+        <appender src="Appenders/hotel_room_class_b_appender.xml"/>
+        <appender src="Appenders/hotel_room_class_c_appender.xml"/>
+        <appender src="Appenders/market_appender.xml"/>
+        <appender src="Appenders/narco_lab_appender.xml"/>
+        <appender src="Appenders/reg_int_appender.xml"/>
+        <appender src="Appenders/shoot_range_appender.xml"/>
+        <appender src="Appenders/station_ls_appender.xml"/>
+        <appender src="Appenders/station_lv_appender.xml"/>
+        <appender src="Appenders/station_sf_appender.xml"/>
+        <appender src="Appenders/storage_appender.xml"/>
+        <appender src="Appenders/tow_place_ext_appender.xml"/>
+        <appender src="Appenders/voenkom_appender.xml"/>
+    </appenders>
+</mapping>

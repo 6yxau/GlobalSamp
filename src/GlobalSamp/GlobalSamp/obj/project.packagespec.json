@@ -30,6 +30,10 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
+        "CData.MariaDB": {
+          "target": "Package",
+          "version": "[19.0.7156, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",

@@ -11,6 +11,6 @@ namespace GlobalSamp.Player
         public PlayerColor SkinColor { get; set; }
         public int Age { get; set; }
 
-        public bool Authorized { get; set; } = false;
+        public bool Authorized { get; set; }
     }
 }

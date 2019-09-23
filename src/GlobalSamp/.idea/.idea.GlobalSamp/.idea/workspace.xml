@@ -2,8 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/247_shop_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/BK_ext_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/bank_int_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/car_show_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/clothes_shop_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/farm_ext_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/farm_int_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_1_car_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_2_cars_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_4_cars_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_8_cars_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/ghetto_int_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/global_bet_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hostel_room_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_corridor_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_reception_analog_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_reception_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_a_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_b_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_c_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/market_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/narco_lab_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/reg_int_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/shoot_range_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_ls_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_lv_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_sf_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/storage_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/tow_place_ext_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/voenkom_appender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/BK_ext_remover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/car_show_remover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/farm_ext_remover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/market_remover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_ls_remover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_lv_remover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_sf_remover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/storage_remover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Commands/Commander.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Commands/MyCommandManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/WrongPass.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/Descriptor/MapRemover.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/MapManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/PickupManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/SpawnPosition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/DataAccess/Repository/StorageManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../env/server.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/GlobalSamp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/GlobalSamp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/247.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/ExportMaps.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/RegInt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/bankint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/carshow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/clothesshop.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/farmext.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/farmint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/ghettoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/globalbet (2).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/globalbet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/market.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/narcolab (2).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/narcolab.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/shootingrange.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/shootingrange.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/shrange.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/storage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/towplaceext.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/Json/Exception/JsonParse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +150,12 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AFB7E7D9-EA63-47AB-BDF8-0BC20B632618/6d/4182b2ea/MySqlConnection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/76DEF016-194A-4B34-8E32-044F29ABD18E/41/bda24ebe/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/7e/ccca72b9/Thread.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3447BE4-83E0-4DCD-868A-4C68330D36C7/11/f487ce12/IContainer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/bd/6a1cb443/DialogButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Mapping/Descriptor/MapRemover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3447BE4-83E0-4DCD-868A-4C68330D36C7/85/855a5522/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/DataAccess/Repository/StorageManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/d8/33ba6d12/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/92ADE205-67B1-4B84-AF7E-F396B6BD0302/38/10d1d9b5/Process.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,83 +163,112 @@
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/af/c89d1c6b/DialogResponseEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Mapping/PickupManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/.Rider2019.1/config/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/eb/beed4ead/PickupType.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/7e/c33be01a/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Commands/MyCommandManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/4a/4000e1e0/Pickup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/d7/4a0e7d38/VehicleModelType.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/f3/dbd92a18/Disposable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5233964-D3F2-4B93-B477-4FE3E03D39C9/82/58584ae1/GameModeBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/dd/d1ad90c9/BasePlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/b1/1717dd8e/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/0f/3bb57481/MessageDialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/fc/b7a6a173/ListDialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A7577ADD-446D-428F-AFFF-1508B97C511A/c8/cd53901c/DynamicObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/be/ed3e71eb/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/43/1c8a2e02/SynchronizationContextAwaitTaskContinuation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Mapping/MapManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/Json/Exception/JsonParse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/c6/276f969a/AwaitTaskContinuation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/f9/dc392926/AsyncTaskMethodBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/80/e4f4aba9/ObjectMaterialSize.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/WrongPass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Utils/StringUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlUnexpectedTokenException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlParseException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlEmptyFileException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/af/f2134a1c/CameraMode.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Utils/XmlUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlSerializer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/cd/44b68cba/IGameObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/13/4af132e4/SpawnEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/24/d7a5b594/GlobalObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/49/c3371de8/SpectateMode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Player/SpawnPosition.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/24/dcae1bbd/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/4a/704218ad/BaseMode.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/53/8da94daf/RequestSpawnEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/ee/b51819cc/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Commands/Commander.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/e7/0c3c4d0b/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/login.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Command.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Common/SampleSingleton.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/DBMySQLUtils.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/DBUtils.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Player.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Playerdata.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/ServerDbConext.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dao/AbstractDao.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerGender.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dao/DIalogDao.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/DialogManager.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SetPwd.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Gender.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Age.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColor.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Common/Govninstance.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerColor.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/FrienInGame.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DataUtils.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Utils/DateUtils.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/FriendInGame.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/Nationality.xml" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/AgeDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/EmailRegistrationDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/GenderDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/PasswordRequestDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/SkinColorDialog.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/JsonParse.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/Json/Exception/JsonParse.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerManager.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_sf_dynamic_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_sf_static_remover.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/market_remover.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Mapping/Descriptor/MapRemover.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/247_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/PickUps/shop247.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/PickUps/shop_vector.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/PickUps/interiors.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_ls_remover.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_lv_remover.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Program.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Mapping/MapManager.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Mapping/PickupManager.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/RegNPC.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/mapping.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Commands/Commander.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/car_show_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/farm_ext_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/market_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_ls_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_lv_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_sf_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/storage_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/tow_place_ext_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/WrongPass.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/247_shop_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/bank_int_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/BK_ext_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/clothes_shop_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/farm_int_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_1_car_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_2_cars_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_4_cars_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_8_cars_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/ghetto_int_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/global_bet_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hostel_room_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_corridor_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_reception_analog_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_reception_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_a_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_b_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_c_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/narco_lab_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/reg_int_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/shoot_range_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/voenkom_appender.xml" />
       </list>
     </option>
   </component>
@@ -151,6 +285,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -209,7 +346,11 @@
       <workItem from="1567611034099" duration="2817000" />
       <workItem from="1568032972187" duration="19622000" />
       <workItem from="1568202425559" duration="6961000" />
-      <workItem from="1568275293524" duration="2040000" />
+      <workItem from="1568275293524" duration="5369000" />
+      <workItem from="1568363582142" duration="2593000" />
+      <workItem from="1568558534137" duration="17269000" />
+      <workItem from="1568656060245" duration="16023000" />
+      <workItem from="1568901462768" duration="44086000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -316,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568204317936</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Map">
+      <created>1568285896323</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568285896324</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,57 +498,86 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Json_Parse" />
     <MESSAGE value="For_Vadim" />
-    <option name="LAST_COMMIT_MESSAGE" value="For_Vadim" />
+    <MESSAGE value="Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="257" key="#SQL_Dialects" />
     <state x="361" y="257" key="#SQL_Dialects/1600.1200" />
     <state x="223" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
     <state x="223" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.0.bottom" />
-    <state width="1495" height="511" key="GridCell.Tab.0.bottom/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.0.center" />
-    <state width="1495" height="511" key="GridCell.Tab.0.center/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.0.left" />
-    <state width="1495" height="511" key="GridCell.Tab.0.left/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.0.right" />
-    <state width="1495" height="511" key="GridCell.Tab.0.right/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.1.bottom" />
-    <state width="1495" height="511" key="GridCell.Tab.1.bottom/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.1.center" />
-    <state width="1495" height="511" key="GridCell.Tab.1.center/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.1.left" />
-    <state width="1495" height="511" key="GridCell.Tab.1.left/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.1.right" />
-    <state width="1495" height="511" key="GridCell.Tab.1.right/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.2.bottom" />
-    <state width="1495" height="511" key="GridCell.Tab.2.bottom/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.2.center" />
-    <state width="1495" height="511" key="GridCell.Tab.2.center/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.2.left" />
-    <state width="1495" height="511" key="GridCell.Tab.2.left/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.2.right" />
-    <state width="1495" height="511" key="GridCell.Tab.2.right/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.3.bottom" />
-    <state width="1495" height="511" key="GridCell.Tab.3.bottom/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.3.center" />
-    <state width="1495" height="511" key="GridCell.Tab.3.center/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.3.left" />
-    <state width="1495" height="511" key="GridCell.Tab.3.left/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.3.right" />
-    <state width="1495" height="511" key="GridCell.Tab.3.right/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.4.bottom" />
-    <state width="1495" height="511" key="GridCell.Tab.4.bottom/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.4.center" />
-    <state width="1495" height="511" key="GridCell.Tab.4.center/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.4.left" />
-    <state width="1495" height="511" key="GridCell.Tab.4.left/1600.1200" />
-    <state width="1495" height="511" key="GridCell.Tab.4.right" />
-    <state width="1495" height="511" key="GridCell.Tab.4.right/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.0.bottom" />
+    <state width="1175" height="181" key="GridCell.Tab.0.bottom/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.0.bottom/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.0.center" />
+    <state width="1175" height="181" key="GridCell.Tab.0.center/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.0.center/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.0.left" />
+    <state width="1175" height="181" key="GridCell.Tab.0.left/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.0.left/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.0.right" />
+    <state width="1175" height="181" key="GridCell.Tab.0.right/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.0.right/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.1.bottom" />
+    <state width="1495" height="240" key="GridCell.Tab.1.bottom/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.1.bottom/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.1.center" />
+    <state width="1495" height="240" key="GridCell.Tab.1.center/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.1.center/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.1.left" />
+    <state width="1495" height="240" key="GridCell.Tab.1.left/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.1.left/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.1.right" />
+    <state width="1495" height="240" key="GridCell.Tab.1.right/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.1.right/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.2.bottom" />
+    <state width="1495" height="240" key="GridCell.Tab.2.bottom/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.2.bottom/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.2.center" />
+    <state width="1495" height="240" key="GridCell.Tab.2.center/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.2.center/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.2.left" />
+    <state width="1495" height="240" key="GridCell.Tab.2.left/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.2.left/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.2.right" />
+    <state width="1495" height="240" key="GridCell.Tab.2.right/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.2.right/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.3.bottom" />
+    <state width="1495" height="240" key="GridCell.Tab.3.bottom/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.3.bottom/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.3.center" />
+    <state width="1495" height="240" key="GridCell.Tab.3.center/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.3.center/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.3.left" />
+    <state width="1495" height="240" key="GridCell.Tab.3.left/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.3.left/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.3.right" />
+    <state width="1495" height="240" key="GridCell.Tab.3.right/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.3.right/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.4.bottom" />
+    <state width="1495" height="240" key="GridCell.Tab.4.bottom/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.4.bottom/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.4.center" />
+    <state width="1495" height="240" key="GridCell.Tab.4.center/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.4.center/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.4.left" />
+    <state width="1495" height="240" key="GridCell.Tab.4.left/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.4.left/1600.1200" />
+    <state width="1495" height="449" key="GridCell.Tab.4.right" />
+    <state width="1495" height="240" key="GridCell.Tab.4.right/1280.960" />
+    <state width="1495" height="449" key="GridCell.Tab.4.right/1600.1200" />
     <state x="364" y="214" key="Rider.ProjectTemplateDialog.Size" />
     <state x="364" y="214" key="Rider.ProjectTemplateDialog.Size/1600.1200" />
-    <state x="447" y="270" width="644" height="660" key="find.popup" />
-    <state x="447" y="270" width="644" height="660" key="find.popup/1600.1200" />
+    <state x="255" y="241" key="SettingsEditor" />
+    <state x="255" y="241" key="SettingsEditor/1600.1200" />
+    <state width="777" height="608" key="XDebugger.FullValuePopup" />
+    <state width="777" height="608" key="XDebugger.FullValuePopup/1600.1200" />
+    <state x="292" y="336" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" />
+    <state x="292" y="336" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1600.1200" />
+    <state x="71" y="78" width="1019" height="764" key="find.popup" />
+    <state x="71" y="78" width="1019" height="764" key="find.popup/1600.1200" />
+    <state x="809" y="284" key="run.anything.popup" />
+    <state x="809" y="284" key="run.anything.popup/1600.1200" />
     <state x="432" y="265" width="672" height="678" key="search.everywhere.popup" />
     <state x="432" y="265" width="672" height="678" key="search.everywhere.popup/1600.1200" />
   </component>
@@ -413,5 +590,10 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <reveal-manager>
+      <revealed-members>
+        <RevealItemInfo typeName="GlobalSamp.Mapping.MapManager" fieldName="_removableMapping" />
+      </revealed-members>
+    </reveal-manager>
   </component>
 </project>

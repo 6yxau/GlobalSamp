@@ -1,31 +1,42 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <translation>
-    <message key="enterDialogCaption">Вход</message>
-    <message key="registerDialogCaption">Регистрация</message>
-    <message key="enterDialog">Ваш логин: {18ff00}зарегистрирован на сервере.\n {ffffff} Для входа введите пароль.</message>
-    <message key="registerDialog">Ваш логин: {ff0000}не зарегистрирован сервере.\n {ffffff} Для регистрации введите пароль.</message>
-    <message key="requestPass">Повтор пароля</message>
-    <message key="wrongPass">Вы неверно ввели пароль.\n Введите пароль еще раз</message>
-    <message key="reqPass">Введите пароль еще раз</message>
+    <message key="enter">Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РІ GlobalSamp, </message>
+    <message key="if_spawn_click">РќРµРѕР±С…РѕРґРёРјР° Р°РІС‚РѕСЂРёР·Р°С†РёСЏ!</message>
+    <message key="not_password">Р’С‹ РЅРµ РІРІРµР»Рё РїР°СЂРѕР»СЊ!</message>
+    <message key="enterDialogCaption">Р’С…РѕРґ</message>
+    <message key="registerDialogCaption">Р РµРіРёСЃС‚СЂР°С†РёСЏ</message>
+    <message key="enterDialog">Р’Р°С€ Р»РѕРіРёРЅ: {18ff00}Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅ РЅР° СЃРµСЂРІРµСЂРµ.
+{ffffff}Р”Р»СЏ РІС…РѕРґР° РІРІРµРґРёС‚Рµ РїР°СЂРѕР»СЊ.</message>
+    <message key="wrong_password">{ff0000}РќРµРІРµСЂРЅС‹Р№ РїР°СЂРѕР»СЊ.
+{ffffff}Р’РІРµРґРёС‚Рµ РїР°СЂРѕР»СЊ РµС‰С‘ СЂР°Р·.</message>
+    <message key="registerDialog">Р’Р°С€ Р»РѕРіРёРЅ: {ff0000}РЅРµ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅ СЃРµСЂРІРµСЂРµ.
+Р”Р»СЏ СЂРµРіРёСЃС‚СЂР°С†РёРё РІРІРµРґРёС‚Рµ РїР°СЂРѕР»СЊ.</message>
+    <message key="requestPass">РџРѕРІС‚РѕСЂ РїР°СЂРѕР»СЏ</message>
+    <message key="wrongPass_caption">РќРµРІРµСЂРЅС‹Р№ РїР°СЂРѕР»СЊ</message>
+    <message key="wrongPass_message">Р’С‹ РЅРµРІРµСЂРЅРѕ РІРІРµР»Рё РїР°СЂРѕР»СЊ.
+{ffffff}Р’РІРµРґРёС‚Рµ РїР°СЂРѕР»СЊ РµС‰Рµ СЂР°Р·.
+РћСЃС‚Р°Р»РѕСЃСЊ РїРѕРїС‹С‚РѕРє: </message>
+    <message key="wrongPass_end">РЈ РІР°СЃ Р·Р°РєРѕРЅС‡РёР»РёСЃСЊ РїРѕРїС‹С‚РєРё!</message>
+    <message key="reqPass">Р’РІРµРґРёС‚Рµ РїР°СЂРѕР»СЊ РµС‰Рµ СЂР°Р·</message>
     <message key="email">E-Mail</message>
-    <message key="emailCaption">Введите адрес Вашей электронной почты. \n
-        {18ff00} С помощью почты вы можете восстановить доступ \n
-        {18ff00} к вашему аккаунту в случае взлома или потери пароля.\n
-        {000000}На вашу почту мы отправим письмо со ссылкой. \n
-        {000000}Перейдите по ней для подтверждения регистрации.</message>
-    <message key="leftButton">Далее</message>
-    <message key="leftButtonCaption">Ввести</message>
-    <message key="rightButton">Пропустить</message>
-    <message key="ageDialogCaption">Ваш возраст</message>
-    <message key="ageDialog">Введите Ваш возраст</message>
-    <message key="friendInGameCaption">Введите ник друга, который здесь играет</message>
-    <message key="friendInGame">{18ff00} После достижения Вами 5 уровня он получит вознаграждение</message>
-    <message key="genderDialogCaption">Пол</message>
-    <message key="genderDialog">Выберите Ваш пол</message>
-    <message key="genderDialogLeft">Мужской</message>
-    <message key="genderDialogRight">Женский</message>
-    <message key="skinColorCaption">Цвет кожи</message>
-    <message key="skinColor">Выберите Ваш цвет кожи</message>
-    <message key="skinColorLeft">Светлый</message>
-    <message key="skinColorRight">Тёмный</message>
+    <message key="emailCaption">Р’РІРµРґРёС‚Рµ Р°РґСЂРµСЃ Р’Р°С€РµР№ СЌР»РµРєС‚СЂРѕРЅРЅРѕР№ РїРѕС‡С‚С‹.
+{18ff00}РЎ РїРѕРјРѕС‰СЊСЋ РїРѕС‡С‚С‹ РІС‹ РјРѕР¶РµС‚Рµ РІРѕСЃСЃС‚Р°РЅРѕРІРёС‚СЊ РґРѕСЃС‚СѓРї
+{18ff00}Рє РІР°С€РµРјСѓ Р°РєРєР°СѓРЅС‚Сѓ РІ СЃР»СѓС‡Р°Рµ РІР·Р»РѕРјР° РёР»Рё РїРѕС‚РµСЂРё РїР°СЂРѕР»СЏ.
+{ffffff}РќР° РІР°С€Сѓ РїРѕС‡С‚Сѓ РјС‹ РѕС‚РїСЂР°РІРёРј РїРёСЃСЊРјРѕ СЃРѕ СЃСЃС‹Р»РєРѕР№.
+{ffffff}РџРµСЂРµР№РґРёС‚Рµ РїРѕ РЅРµР№ РґР»СЏ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ СЂРµРіРёСЃС‚СЂР°С†РёРё.</message>
+    <message key="leftButton">Р”Р°Р»РµРµ</message>
+    <message key="leftButtonCaption">Р’РІРµСЃС‚Рё</message>
+    <message key="rightButton">РџСЂРѕРїСѓСЃС‚РёС‚СЊ</message>
+    <message key="ageDialogCaption">Р’Р°С€ РІРѕР·СЂР°СЃС‚</message>
+    <message key="ageDialog">Р’РІРµРґРёС‚Рµ Р’Р°С€ РІРѕР·СЂР°СЃС‚</message>
+    <message key="friendInGameCaption">Р’РІРµРґРёС‚Рµ РЅРёРє РґСЂСѓРіР°, РєРѕС‚РѕСЂС‹Р№ Р·РґРµСЃСЊ РёРіСЂР°РµС‚</message>
+    <message key="friendInGame">{18ff00} РџРѕСЃР»Рµ РґРѕСЃС‚РёР¶РµРЅРёСЏ Р’Р°РјРё 5 СѓСЂРѕРІРЅСЏ РѕРЅ РїРѕР»СѓС‡РёС‚ РІРѕР·РЅР°РіСЂР°Р¶РґРµРЅРёРµ</message>
+    <message key="genderDialogCaption">РџРѕР»</message>
+    <message key="genderDialog">Р’С‹Р±РµСЂРёС‚Рµ Р’Р°С€ РїРѕР»</message>
+    <message key="genderDialogLeft">РњСѓР¶СЃРєРѕР№</message>
+    <message key="genderDialogRight">Р–РµРЅСЃРєРёР№</message>
+    <message key="skinColorCaption">Р¦РІРµС‚ РєРѕР¶Рё</message>
+    <message key="skinColor">Р’С‹Р±РµСЂРёС‚Рµ Р’Р°С€ С†РІРµС‚ РєРѕР¶Рё</message>
+    <message key="skinColorLeft">РЎРІРµС‚Р»С‹Р№</message>
+    <message key="skinColorRight">РўС‘РјРЅС‹Р№</message>
 </translation>

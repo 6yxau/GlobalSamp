@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Text;
 using BetAppServer.Tools.Serialization.XML;
 using GlobalSamp.Tools.Common;
 

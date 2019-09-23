@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<remover>
+    <object id="673">
+        <position x="1192.619" y="-1826.949" z="12.523" radius="0.250"/>
+    </object>
+    <object id="647">
+        <position x="1192.829" y="-1829.280" z="14.070" radius="0.250"/>
+    </object>
+    <object id="647">
+        <position x="1192.829" y="-1839.810" z="14.070" radius="0.250"/>
+    </object>
+    <object id="620">
+        <position x="1196.599" y="-1840.380" z="12.351" radius="0.250"/>
+    </object>
+    <object id="673">
+        <position x="1200.880" y="-1839.130" z="12.523" radius="0.250"/>
+    </object>
+    <object id="673">
+        <position x="1227.550" y="-1839.130" z="12.523" radius="0.250"/>
+    </object>
+    <object id="647">
+        <position x="1235.839" y="-1839.810" z="14.070" radius="0.250"/>
+    </object>
+    <object id="700">
+        <position x="1240.550" y="-1840.089" z="13.039" radius="0.250"/>
+    </object>
+    <object id="647">
+        <position x="1244.500" y="-1839.810" z="14.070" radius="0.250"/>
+    </object>
+    <object id="620">
+        <position x="1249.510" y="-1840.380" z="12.351" radius="0.250"/>
+    </object>
+    <object id="673">
+        <position x="1256.229" y="-1839.979" z="12.523" radius="0.250"/>
+    </object>
+    <object id="700">
+        <position x="1281.880" y="-1840.089" z="13.039" radius="0.250"/>
+    </object>
+    <object id="647">
+        <position x="1284.979" y="-1839.810" z="14.070" radius="0.250"/>
+    </object>
+    <object id="647">
+        <position x="1284.979" y="-1828.420" z="14.070" radius="0.250"/>
+    </object>
+    <object id="673">
+        <position x="1284.890" y="-1823.859" z="12.523" radius="0.250"/>
+    </object>
+    <object id="647">
+        <position x="1284.979" y="-1820.739" z="14.070" radius="0.250"/>
+    </object>
+    <object id="620">
+        <position x="1286.300" y="-1808.609" z="12.351" radius="0.250"/>
+    </object>
+    <object id="700">
+        <position x="1285.130" y="-1799.979" z="13.039" radius="0.250"/>
+    </object>
+    <object id="647">
+        <position x="1284.979" y="-1796.900" z="14.070" radius="0.250"/>
+    </object>
+    <object id="4101">
+        <position x="1224.699" y="-1782.199" z="29.898" radius="0.250"/>
+    </object>
+    <object id="4105">
+        <position x="1224.699" y="-1782.199" z="29.898" radius="0.250"/>
+    </object>
+    <object id="4103">
+        <position x="1104.089" y="-1780.910" z="25.296" radius="0.250"/>
+    </object>
+    <object id="4104">
+        <position x="1104.089" y="-1780.910" z="25.296" radius="0.250"/>
+    </object>
+</remover>

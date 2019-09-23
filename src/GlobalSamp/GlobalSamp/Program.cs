@@ -1,24 +1,28 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.Globalization;
 using System.IO;
 using BetAppServer.Tools.Serialization.XML;
 using GlobalSamp.Application.Translator;
+using GlobalSamp.Mapping;
 using SampSharp.Core;
 
 namespace GlobalSamp
 {
     class Program
     {
-
         private static Process _nativeProcessHandle;
+        
+        public static readonly XmlSerializer Serializer = new XmlSerializer();
+        
         static void Main(string[] args)
         {
+            ConfigureManagement();
             CreateNativeProcess();
-            
-            ConfigureTranslator();
-            
             InitializeGameMode();
         }
+        
 
         private static void InitializeGameMode()
         {
@@ -54,11 +58,21 @@ namespace GlobalSamp
             _nativeProcessHandle.StartInfo.RedirectStandardOutput = true;
         }
 
-        private static void ConfigureTranslator()
+        private static void ConfigureManagement()
         {
-            XmlSerializer serializer = new XmlSerializer();
-            
-            Translator.Instance.Configure(serializer.Deserialize("../../../Config/Translations/translation_ru.xml"));
+
+            Translator.Instance.Configure(Serializer.Deserialize("../../../Config/Translations/translation_ru.xml"));
+
+            XmlNode mapping = Serializer.Deserialize("../../../Config/Mapping/mapping.xml");
+            XmlNode[] removablePaths = mapping.GetChild("removers").Children.ToArray();
+            List<XmlNode> removableMappingConfigs = new List<XmlNode>(1000);
+            foreach (XmlNode removablePath in removablePaths)
+            {
+                XmlNode rootRemovable =
+                    Serializer.Deserialize($"../../../Config/Mapping/{removablePath.GetString("src")}");
+                removableMappingConfigs.AddRange(rootRemovable.Children);
+            }
+            MapManager.Instance.ConfigureRemovableMapping(removableMappingConfigs);
         }
     }
 }

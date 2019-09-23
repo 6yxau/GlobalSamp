@@ -2,6 +2,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using BetAppServer.Tools.Serialization.XML.Exception;
 using BetAppServer.Tools.Serialization.XML.Utils;
 using BetAppServer.Tools.Utils;
@@ -237,6 +238,22 @@ namespace BetAppServer.Tools.Serialization.XML
             }
 
             return null;
+        }
+
+        public float GetFloat(string name, float @default = 0)
+        {
+            string raw = GetAttributeValue(name);
+            if (raw == null)
+            {
+                return @default;
+            }
+            return float.Parse(raw, CultureInfo.InvariantCulture);
+        }
+
+        public uint GetUInt(string name, uint @default = 0x0)
+        {
+            string raw = GetAttributeValue(name);
+            return raw == null ? @default : Convert.ToUInt32(raw, 16);
         }
     }
 }
