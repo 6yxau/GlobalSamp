@@ -38,7 +38,6 @@ namespace GlobalSamp.Dialog
                 if (data.Password == e.InputText)
                 {
                     data.Authorized = true;
-                    e.Player.ToggleSpectating(false);
                     e.Player.ForceClassSelection();
                     e.Player.SetSpawnInfo(1, 181, SpawnPosition.DEFAULT, 1);
                     e.Player.Spawn();
@@ -46,12 +45,13 @@ namespace GlobalSamp.Dialog
                 else
                 {
                     Response -= OnInputRegistrationData;
-                    int i = 3;
+                    int i;
                     for (i = 3; i != 0; i--)
                     {
                         if (data.Password == e.InputText)
                         {
                             data.Authorized = true;
+                            e.Player.VirtualWorld = -1;
                             e.Player.ToggleSpectating(false);
                             e.Player.ForceClassSelection();
                             e.Player.SetSpawnInfo(1, 181, SpawnPosition.DEFAULT, 1);
@@ -66,12 +66,6 @@ namespace GlobalSamp.Dialog
                                 Translator.Instance.GetMessage("leftButton"));
                             dialog.Show(e.Player);
                         }
-                    }
-
-                    if (i == 0)
-                    {
-                        e.Player.SendClientMessage(Translator.Instance.GetMessage("wrongPass_end"));
-                        e.Player.Kick();
                     }
                 }
             }

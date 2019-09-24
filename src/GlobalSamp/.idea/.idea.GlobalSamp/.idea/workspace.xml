@@ -2,110 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8330474a-99d5-48c1-8f8e-bf7a4380930f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../env/.idea/.idea.env.dir/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/247_shop_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/BK_ext_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/bank_int_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/car_show_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/clothes_shop_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/farm_ext_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/farm_int_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_1_car_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_2_cars_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_4_cars_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/garage_8_cars_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/ghetto_int_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/global_bet_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hostel_room_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_corridor_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_reception_analog_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_reception_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_a_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_b_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_c_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/market_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/narco_lab_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/reg_int_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/shoot_range_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_ls_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_lv_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_sf_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/storage_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/tow_place_ext_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/voenkom_appender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/BK_ext_remover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/car_show_remover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/farm_ext_remover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/market_remover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_ls_remover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_lv_remover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_sf_remover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/storage_remover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/mapping.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Commands/Commander.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Commands/MyCommandManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/WrongPass.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/Descriptor/MapRemover.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/MapManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/PickupManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/SpawnPosition.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSamp/Tools/DataAccess/Repository/StorageManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../env/server.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env/server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../env/server_log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalSamp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Config/Translations/nationality.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/GlobalSamp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/GlobalSamp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Application/Translator/Translator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/reg_int_appender.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/reg_int_appender.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Dialog/WrongPass.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/247.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/ExportMaps.7z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/RegInt.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/bankint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/carshow.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/clothesshop.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/farmext.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/farmint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/ghettoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/globalbet (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/globalbet.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/market.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/narcolab (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/narcolab.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/shootingrange.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/shootingrange.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/shrange.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/storage.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Mapping/towplaceext.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/Dao/PlayerDao.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Src/Player/PlayerData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Common/Singleton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/Json/Exception/JsonParse.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/bin/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/Debug/netcoreapp2.2/GlobalSamp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/GlobalSamp.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GlobalSamp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalSamp/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,6 +70,7 @@
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/FriendInGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/Promo1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/NationalityList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/8b/d7b980ef/CameraCut.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/af/c89d1c6b/DialogResponseEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Mapping/PickupManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/.Rider2019.1/config/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/1d/34703f39/Dialog.cs" root0="SKIP_HIGHLIGHTING" />
@@ -190,7 +99,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/c6/276f969a/AwaitTaskContinuation.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/f9/dc392926/AsyncTaskMethodBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6FAB387-1A20-4A3C-A96C-A2838D6D211C/80/e4f4aba9/ObjectMaterialSize.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GlobalSamp/Src/Dialog/WrongPass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Utils/StringUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlUnexpectedTokenException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/Exception/XmlParseException.cs" root0="FORCE_HIGHLIGHTING" />
@@ -218,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GlobalSamp/Tools/Serialization/XML/XmlNode.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_sf_dynamic_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/station_sf_static_remover.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Removers/market_remover.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Mapping/Descriptor/MapRemover.cs" />
@@ -243,10 +149,8 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/station_sf_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/storage_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/tow_place_ext_appender.xml" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Translations/translation_ru.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/WrongPass.cs" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/247_shop_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/bank_int_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/BK_ext_appender.xml" />
@@ -266,9 +170,13 @@
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_b_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/hotel_room_class_c_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/narco_lab_appender.xml" />
-        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/reg_int_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/shoot_range_appender.xml" />
         <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/voenkom_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/CameraPosition.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Player/Camera.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Config/Mapping/Appenders/reg_int_appender.xml" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/Dialog/RegistrationDialog.cs" />
+        <option value="$PROJECT_DIR$/GlobalSamp/Src/GameMode.cs" />
       </list>
     </option>
   </component>
@@ -350,7 +258,7 @@
       <workItem from="1568363582142" duration="2593000" />
       <workItem from="1568558534137" duration="17269000" />
       <workItem from="1568656060245" duration="16023000" />
-      <workItem from="1568901462768" duration="44086000" />
+      <workItem from="1568901462768" duration="56777000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1566820205404</created>
@@ -464,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568285896324</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="mapping-connected">
+      <created>1569263313310</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569263313310</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,7 +414,8 @@
     <MESSAGE value="Json_Parse" />
     <MESSAGE value="For_Vadim" />
     <MESSAGE value="Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map" />
+    <MESSAGE value="mapping-connected" />
+    <option name="LAST_COMMIT_MESSAGE" value="mapping-connected" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="257" key="#SQL_Dialects" />
@@ -595,5 +511,10 @@
         <RevealItemInfo typeName="GlobalSamp.Mapping.MapManager" fieldName="_removableMapping" />
       </revealed-members>
     </reveal-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="e.Empty" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
