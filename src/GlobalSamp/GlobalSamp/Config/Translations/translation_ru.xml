@@ -10,14 +10,16 @@
     <message key="wrong_password">{ff0000}Неверный пароль.
 {ffffff}Введите пароль ещё раз.</message>
     <message key="registerDialog">Ваш логин: {ff0000}не зарегистрирован сервере.
-Для регистрации введите пароль.</message>
+{ffffff}Для регистрации введите пароль.</message>
     <message key="requestPass">Повтор пароля</message>
     <message key="wrongPass_caption">Неверный пароль</message>
     <message key="wrongPass_message">Вы неверно ввели пароль.
 {ffffff}Введите пароль еще раз.
 Осталось попыток: </message>
     <message key="wrongPass_end">У вас закончились попытки!</message>
-    <message key="reqPass">Введите пароль еще раз</message>
+    <message key="wrongPass">Введите пароль повторно</message>
+    <message key="reqPass">{18ff00}Пароли не совпадают
+{ffffff}Введите пароль еще раз</message>
     <message key="email">E-Mail</message>
     <message key="emailCaption">Введите адрес Вашей электронной почты.
 {18ff00}С помощью почты вы можете восстановить доступ

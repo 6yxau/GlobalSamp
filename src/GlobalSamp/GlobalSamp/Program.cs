@@ -19,8 +19,12 @@ namespace GlobalSamp
         static void Main(string[] args)
         {
             ConfigureManagement();
+            #if DEBUG
             CreateNativeProcess();
+            #endif
             InitializeGameMode();
+
+            Console.ReadKey();
         }
         
 

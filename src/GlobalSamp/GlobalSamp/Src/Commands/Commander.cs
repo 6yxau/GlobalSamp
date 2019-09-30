@@ -1,4 +1,7 @@
+using System.Collections.Generic;
+using GlobalSamp.Player;
 using SampSharp.GameMode;
+using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.SAMP.Commands;
 using SampSharp.GameMode.World;
 
@@ -7,6 +10,11 @@ namespace GlobalSamp.Commands
     [CommandGroup("a")]
     public class Commander
     {
+
+        private static readonly Dictionary<int, Vector3> _intPos = new Dictionary<int, Vector3>()
+        {
+        };
+        
         [Command("skin")]
         private static void SetSkin(BasePlayer sender, int skinId)
         {
@@ -20,6 +28,18 @@ namespace GlobalSamp.Commands
             sender.Spawn();
         }
         
+        [Command("int")]
+
+        private static void Interioir(BasePlayer sender, int id)
+        {
+            sender.Interior = id;
+            if (!_intPos.TryGetValue(id, out Vector3 pos))
+            {
+                
+            }
+            
+        }
+        
         [Command("pos")]
         private static void SetPos(BasePlayer sender, float x, float y, float z)
         {
@@ -27,9 +47,26 @@ namespace GlobalSamp.Commands
         }
 
         [Command("weather")]
-        private static void SetWeather(BasePlayer sender, int id)
+        private static void SetWeather(BasePlayer sender, int targetPlayer, int id)
         {
-            sender.SetWeather(id);
+            BasePlayer target = BasePlayer.Find(targetPlayer);
+            target?.SetWeather(id);
         }
+
+        [Command("tp")]
+        private static void Teleport(BasePlayer sender, int targetId)
+        {
+            BasePlayer target = BasePlayer.Find(targetId);
+            if (target == null)
+            {
+                return;
+            }
+
+            target.VirtualWorld = sender.VirtualWorld;
+            target.Interior = sender.Interior;
+            target.Position = sender.Position + new Vector3(1, 1, 1);
+
+        }
+        
     }
 }

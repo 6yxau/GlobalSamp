@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using GlobalSamp.Player.Dao;
 using GlobalSamp.Tools.Common;
+using SampSharp.GameMode.World;
 
 namespace GlobalSamp.Player
 {
@@ -11,7 +12,7 @@ namespace GlobalSamp.Player
         private readonly Dictionary<string, PlayerData> _players = new Dictionary<string, PlayerData>(1000);
         
         private readonly Dictionary<string, PlayerData> _cachedData = new Dictionary<string, PlayerData>(200);
-        
+
         public PlayerManager()
         {
             _dao = new PlayerDao();

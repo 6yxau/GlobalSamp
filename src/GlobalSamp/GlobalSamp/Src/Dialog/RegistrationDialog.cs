@@ -51,8 +51,6 @@ namespace GlobalSamp.Dialog
                         if (data.Password == e.InputText)
                         {
                             data.Authorized = true;
-                            e.Player.VirtualWorld = -1;
-                            e.Player.ToggleSpectating(false);
                             e.Player.ForceClassSelection();
                             e.Player.SetSpawnInfo(1, 181, SpawnPosition.DEFAULT, 1);
                             e.Player.Spawn();

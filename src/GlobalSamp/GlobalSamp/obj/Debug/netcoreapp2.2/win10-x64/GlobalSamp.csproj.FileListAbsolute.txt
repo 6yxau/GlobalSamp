@@ -1,0 +1,14 @@
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\win10-x64\GlobalSamp.exe
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\win10-x64\GlobalSamp.deps.json
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\win10-x64\GlobalSamp.runtimeconfig.json
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\win10-x64\GlobalSamp.runtimeconfig.dev.json
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\win10-x64\GlobalSamp.dll
+E:\sampserver\src\GlobalSamp\GlobalSamp\bin\Debug\netcoreapp2.2\win10-x64\GlobalSamp.pdb
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\win10-x64\GlobalSamp.csprojAssemblyReference.cache
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\win10-x64\GlobalSamp.csproj.CoreCompileInputs.cache
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\win10-x64\GlobalSamp.AssemblyInfoInputs.cache
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\win10-x64\GlobalSamp.AssemblyInfo.cs
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\win10-x64\GlobalSamp.dll
+E:\sampserver\src\GlobalSamp\GlobalSamp\obj\Debug\netcoreapp2.2\win10-x64\GlobalSamp.pdb

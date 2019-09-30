@@ -43,16 +43,13 @@ namespace GlobalSamp
         protected override void OnPlayerRequestClass(BasePlayer player, RequestClassEventArgs e)
         {
             player.VirtualWorld = 1;
-            player.SetSpawnInfo(1, 181, SpawnPosition.DEFAULT, 2);
-            player.Spawn();
             player.CameraPosition = new Vector3(2181.90, 1869.65, 23.14);
             player.SetCameraLookAt(new Vector3(2174.61, 1869.94, 22.19), CameraCut.Cut);
             player.SendClientMessage(Translator.Instance.GetMessage("enter") + player.Name);
             PlayerData data = PlayerManager.Instance.GetPlayerData(player.Name);
             RegistrationDialog dialog = new RegistrationDialog(data != null);
             dialog.Response += dialog.OnInputRegistrationData;
-            dialog.ShowAsync(player);;
-            player.Position = new Vector3(2172.29, 1872.24, 22.22);
+            dialog.ShowAsync(player);
         }
 
         protected override void OnPlayerRequestSpawn(BasePlayer player, RequestSpawnEventArgs e)

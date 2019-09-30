@@ -89,6 +89,7 @@
             <e p="Promo1.cs" t="Include" />
             <e p="Promo2.cs" t="Include" />
             <e p="RegistrationDialog.cs" t="Include" />
+            <e p="SelectSkinDialog.cs" t="Include" />
             <e p="SkinColorDialog.cs" t="Include" />
           </e>
           <e p="GameMode.cs" t="Include" />
@@ -108,6 +109,12 @@
             <e p="PlayerGender.cs" t="Include" />
             <e p="PlayerManager.cs" t="Include" />
             <e p="SpawnPosition.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Base" t="Include">
+              <e p="UIPanel.cs" t="Include" />
+            </e>
+            <e p="SelectSkinPanel.cs" t="Include" />
           </e>
         </e>
         <e p="Tools" t="Include">

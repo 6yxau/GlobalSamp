@@ -10,7 +10,7 @@ namespace GlobalSamp.Dialog
     {
         public PasswordRequestDialog(bool retrial = false) : base(
             Translator.Instance.GetMessage("requestPass"),
-            retrial ? Translator.Instance.GetMessage("wrongPass") : Translator.Instance.GetMessage("reqPass"),
+            retrial ? Translator.Instance.GetMessage("reqPass") : Translator.Instance.GetMessage("wrongPass"),
             true, 
             Translator.Instance.GetMessage("leftButton"))
         {
